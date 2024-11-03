@@ -1,22 +1,67 @@
-
+<!DOCTYPE html>
 <html>
 <head>
   <title>Switch Guides</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      text-align: left;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      color: #e60012;
+      font-size: 36px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      margin: 10px 0;
+    }
+    button {
+      background-color: #0079c1;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin: 10px 0;
+    }
+    button:hover {
+      background-color: #005f92;
+    }
+    div {
+      border: 1px solid #ddd;
+      background-color: #fff;
+      padding: 15px;
+      border-radius: 5px;
+      display: none;
+      margin-top: 10px;
+      text-align: left;
+    }
+    a {
+      color: #e60012;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
   <script>
     function toggleContent(contentId) {
       var content = document.getElementById(contentId);
-      if (content.style.display === "none") {
-        content.style.display = "block";
-      } else {
-        content.style.display = "none";
-      }
+      content.style.display = content.style.display === "none" ? "block" : "none";
     }
   </script>
 </head>
 <body>
   <h1>Switch Guides</h1>
-
- <p><span style="font-size:26px"><strong>Premazing Day!</strong></span></p>
 
 <p>&nbsp;</p>
 
@@ -47,20 +92,17 @@ However, please rest assured that your questions and inquiries are not just welc
 <p>Feel free to reach out with any queries you may have</p>
 
 <p>&nbsp;</p>
+  <p>Table of Contents</p>
 
-
-<p>Table of Contents</p>
-
-<p>A. Dual-Booting procedure (instructions on how to load and switch between modes)</p>
-  <button onclick="toggleContent('guideA')">Guide A - Dual Boot & Basic Usage Demo</button>
-  <div id="guideA" style="display: none;">
+  <button onclick="toggleContent('guideA')">Guide A - Dual Boot & Basic Usage Demo</button><br>
+  <div id="guideA">
     <p>Watch this video guide to learn how to use dual mode: <a href="https://youtu.be/gpbhGJ-ffLo">Dual Usage Demo Video</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gpbhGJ-ffLo?si=K8zY1JLLOvX4che-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <p><strong>Note:</strong> This applies to Nintendo Switch v2, Lite, and OLED Switch models. For v1 models, a payload dongle is required for bootup, and it's usually included.</p>
   </div>
-<p>B. Downloading games and file types</p>
- <button onclick="toggleContent('guideB')">Guide B - Downloading Game and Game filetypes</button>
-  <div id="guideB" style="display: none;">
+
+  <button onclick="toggleContent('guideB')">Guide B - Downloading Games & File Types</button><br>
+  <div id="guideB">
     <p>Nintendo Switch BASE game files, update files, DLC files come in various formats: NSP, XCI, and NSZ. They can all be installed in the same way.</p>
     <p>You can find these files on websites like nxbrew, ns2w, nswgame, and more. For faster searching, type the game name followed by the format you want on Google.</p>
     <p>Please exercise caution, as these websites may contain ads. Downloading games online requires basic to intermediate computer skills.</p>
@@ -69,18 +111,18 @@ However, please rest assured that your questions and inquiries are not just welc
     <p>Part 2: Ziperto - <a href="https://youtu.be/ZA2kes_I_ZI">Video Link</a></p>
     <p>For instructions on installing NSP, NSZ, and XCI files, please refer to guides in section C for DBI RESPONDER.</p>
   </div>
-<p>C. Installation of downloaded games</p>
-  <button onclick="toggleContent('guideC')">Guide C - Game installation, game updates, dlc</button>
-  <div id="guideC" style="display: none;">
+
+  <button onclick="toggleContent('guideC')">Guide C - Installing Games</button><br>
+  <div id="guideC">
     <p>Our recommended method to install games is using the DBI RESPONDER METHOD. Follow this video guide: <a href="https://youtu.be/SEvtKeoIqS8">Link to Video Guide</a>.</p>
     <p>It is easy to use, does not need drivers, supports the majority of operating systems, and has plenty of features for users of basic to advanced experience.</p>
     <p>For other methods like goldleaf, tinwoo, awoo, and tinfoil, you'll need a PC companion app to install games, requiring external applications and drivers to be installed properly.</p>
     <p>If you need to install Switch USB drivers, refer to this guide: <a href="https://www.homebrewgeneral.net/2019/05/install-nsps-over-usb.html">Switch USB Drivers Guide</a>. Focus on the Zadig usage section for specific instructions.</p>
   </div>
-<p>D. Alternative methods for installation</p>
-  <button onclick="toggleContent('guideD')">Guide D - Shops/Freeshops</button>
-  <div id="guideD" style="display: none;">
-    <p>
+
+  <button onclick="toggleContent('guideD')">Guide D - Shops/Freeshops</button><br>
+  <div id="guideD">
+  <p>
 <p>**Guide D Shops/Freeshops</p>
 
 <p>Our preferred method for game installation is via a computer using DBI as it is fast, safe and efficient.&nbsp;</p>
@@ -104,16 +146,16 @@ A crucial tip to remember:<br />
 <p>If you decide to explore these &quot;free shops,&quot; proceed with caution. You can also consider joining local Switch JB groups for potential information on new or upcoming &quot;free shops.&quot;</p>
 
   </div>
-<p>E. Extra Homebrew/Apps to explore</p>
-  <button onclick="toggleContent('guideE')">Guide E - Exploring Extra Homebrew apps & Features on Your JV Switch</button>
-  <div id="guideE" style="display: none;">
+
+  <button onclick="toggleContent('guideE')">Guide E - Extra Homebrew Apps</button><br>
+  <div id="guideE">
     <p>When it comes to cheats, themes, save data manipulation, and other homebrew, we prioritize keeping your Switch close to its default state for stability.</p>
     <p>However, if you're interested in extras like cheats and themes, we recommend exploring different options. Please be cautious when adding extra software, as mistakes can lead to problems like a softbrick or boot-up issues.</p>
     <p>Find helpful resources for your Switch homebrew and apps journey on this website: <a href="https://rentry.co/HomebrewAndMisc">Switch Homebrew and Apps Guide</a>.</p>
   </div>
-<p>F. Basic Do&#39;s and Don&#39;ts</p>
- <button onclick="toggleContent('guideF')">Guide F - Switch Care Guide: Ensuring Your Nintendo Switch's Well-Being</button>
-  <div id="guideF" style="display: none;">
+
+  <button onclick="toggleContent('guideF')">Guide F - Switch Care Guide</button><br>
+  <div id="guideF">
     <p><br />
 The Nintendo Switch, a sophisticated piece of tech, requires careful handling just like any electronic device. Keep it protected from moisture, water spills, and dust.<br />
 <br />
@@ -133,9 +175,9 @@ PreMAZINGPH strongly recommends researching information online before attempting
 <p>&nbsp;</p>
 
   </div>
-<p>G. Updating Procedure </p>
-  <button onclick="toggleContent('guideG')">Guide G - Future-Proofing Your Nintendo Switch: A Comprehensive Guide</button>
-  <div id="guideG" style="display: none;">
+
+  <button onclick="toggleContent('guideG')">Guide G - Updating Procedure</button><br>
+  <div id="guideG">
 <p><br />
 <strong>*PremazingPH JV Files for Future Use*</strong><br />
 <br />
@@ -169,12 +211,9 @@ These reminders are intended to keep your Nintendo Switch experience smooth and 
 
 
   </div>
-<br>
-<br>
-	<button onclick="toggleContent('guideJ')">Guide J - Generating/Dumping Installed Games & Creating an Installer File</button>
-	
 
-<div id="guideJ" style="display: none;">
+  <button onclick="toggleContent('guideJ')">Guide J - Generating/Dumping Games</button><br>
+  <div id="guideJ">
 
 generating /dumping installed games, / creating an installer file from installed games<br />
 
@@ -199,28 +238,8 @@ let&#39;s call the switch you want to copy TO as switch 1 or SOURCE<br />
 
 <p>&nbsp;</p>
 
-</div>
+  </div>
 
-<p>Thank you for your attention, and we hope this guide enhances your Nintendo Switch JV experience.</p>
-
-<p>have a Premazing day!</p>
-
-
-
-
-
-
-  
- 
-  
-
-
-
-
-
-
- 
-
-
-
-
+  <p>Thank you, and have a Premazing day!</p>
+</body>
+</html>
