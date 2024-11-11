@@ -183,6 +183,7 @@
             <input type="text" id="customerName" placeholder="Enter customer name (required)" required />
             <button onclick="reloadPage()" id="reloadButton">Reload Page</button>
             <br><br>
+
             <button onclick="exportForClient()" id="exportClient">Export for Client</button>
         </div>
         <div id="selectedItems"></div>
@@ -302,7 +303,7 @@ div.innerHTML = `
             infoInstallDuration.textContent = totalInstallDuration;
         }
 
-        function exportForAdmin() {
+
         function exportForClient() {
             if (selectedItems.length === 0) return;
 
