@@ -3,98 +3,124 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nintendo Switch Usage Guides - PremazingPH</title>
+    <title>Accordion Menu with Toggle Animation</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f2f2f2;
-            color: #333;
             margin: 0;
-            padding: 0;
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
         }
-        #toc {
-            width: 250px;
-            float: left;
-            margin-right: 20px;
-            background-color: #e60012;
-            padding: 10px;
-            border-radius: 5px;
+
+        .toolbar {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #e60012; /* Nintendo Red */
+            padding: 10px 15px;
+            border-bottom: 2px solid #cc000f;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 10;
+            height: 30px;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer; /* Make toolbar clickable */
         }
-        #toc h2 {
-            color: #fff;
-            font-size: 1.5em;
-            margin: 0;
-            padding-bottom: 10px;
+
+        .menu {
+            margin-top: 60px;
+            width: 100%;
+            background: white;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            max-height: 0; /* Start collapsed */
+            transition: max-height 0.3s ease-out; /* Smooth expand/collapse */
         }
-        #toc ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-            font-size: 20px;
-            color: #0066ff;
+
+        .menu.expanded {
+            max-height: 500px; /* Large enough to fit the entire menu */
         }
-        #toc li {
-            margin: 5px 0;
-        }
-        #toc .toc-item span {
-            display: block;
-            padding: 8px 10px;
-            color: #fff;
+
+        .menu-item {
             cursor: pointer;
-            border-radius: 3px;
-            transition: background-color 0.3s, padding-left 0.3s;
+            padding: 15px 20px;
+            border-bottom: 1px solid #ddd;
+            background: #fff;
+            transition: background 0.3s, color 0.3s;
+            font-size: 16px;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
-        #toc .toc-item span:hover {
-            background-color: #f6f6f6;
-            color: #e60012;
+
+        .menu-item:hover {
+            background: #e60012; /* Nintendo Red */
+            color: white;
         }
-        #toc .toc-item ul {
-            padding-left: 20px;
-            font-size: 13px;
+
+        .menu-item.active {
+            background: #e60012;
+            color: white;
         }
-        #content {
-            margin-left: 270px;
-            padding: 20px;
-            background-color: #fff;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+        .menu-item .arrow {
+            font-size: 18px;
+            transform: rotate(0);
+            transition: transform 0.3s ease;
         }
-        #content h1 {
-            color: #e60012;
-            margin-top: 0;
+
+        .menu-item.active .arrow {
+            transform: rotate(90deg);
         }
-        #content p {
-            line-height: 1.6;
+
+        .dropdown {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+            background: #f0f0f0;
+            padding-left: 10px;
+            border-left: 3px solid #e60012;
+        }
+
+        .dropdown.expanded {
+            max-height: 300px; /* Large enough to fit all subcategories */
+        }
+
+        .dropdown li {
+            padding: 10px 20px;
+            list-style: none;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+            font-size: 14px;
+            color: #333;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        .dropdown li:hover {
+            background: #0056b3; /* Nintendo Blue */
+            color: white;
+        }
+
+        iframe {
+            flex: 1;
+            width: 100%;
+            border: none;
+            background: #f5f5f5;
         }
     </style>
 </head>
 <body>
-
-    <div id="toc">
-        <h2>Table of Contents</h2>
-        <div id="toc-content"></div>
-    </div>
-
-    <div id="content">
-    <h2>Premazing Day! Welcome to PremazingPH</h2>
-
-    <p>At PremazingPH, we are dedicated to offering high-quality, refurbished consoles, along with comprehensive support and guides to ensure our customers have the best experience possible. Whether you’re new to jailbreaking your Nintendo Switch or looking for advanced tips, our guides are here to help!</p>
-    <p>Our goal is to ensure that you get the most out of your console while keeping it safe and functional.</p>
-
-	
-    <p>We are excited to guide you on your journey to unlock the full potential of your Nintendo Switch. Our mission is to provide you with detailed and reliable guides, helping you get the most out of your console whether you're a newbie or an advanced user.</p>
-    
-    <h2>Why Choose PremazingPH?</h2>
-    <p>We specialize in offering aftersales support and guidance to ensure your console stays in top condition, even in jailbroken mode. Our comprehensive guides range from basic operations to advanced troubleshooting, covering every aspect of running a custom Nintendo Switch.</p>
-
-    <h2>Our Promise</h2>
-    <p>Your satisfaction and understanding are our priorities. We are committed to helping you explore your jailbroken console safely, providing tips and steps to avoid risks such as bans, system crashes, or data loss.</p>
-
-    <h2>Need Assistance?</h2>
-    <p>If you have any questions that aren't covered by our guides, feel free to reach out to us. We’re here to support you throughout the process, ensuring that you have a smooth and enjoyable experience with your Nintendo Switch.</p>
-
-    </div>
+    <div class="toolbar" id="toolbar">PremazingPH - Topics - Introduction and Basic Concepts > Welcome to PremazingPH</div>
+    <div class="menu expanded" id="menu"></div>
+    <iframe id="content-frame" src="welcome_premark.html"></iframe>
 
     <script>
         const topics = {
@@ -146,57 +172,69 @@
             }
         };
 
-        function generateTOC() {
-            const tocDiv = document.getElementById('toc-content');
-            let tocHtml = '<ul>';
-            for (const [key, topic] of Object.entries(topics)) {
-                tocHtml += `<li class='toc-item'><span class='toc-link' data-content='${key}'>${topic.display}</span>`;
-                if (topic.subtopics && topic.subtopics.length > 0) {
-                    tocHtml += '<ul>';
-                    topic.subtopics.forEach(subtopic => {
-                        tocHtml += `<li class='toc-item'><span class='toc-link' data-content='${subtopic.function}'>${subtopic.display}</span></li>`;
-                    });
-                    tocHtml += '</ul>';
-                }
-                tocHtml += '</li>';
-            }
-            tocHtml += '</ul>';
-            tocDiv.innerHTML = tocHtml;
-        }
+        const toolbar = document.getElementById('toolbar');
+        const menu = document.getElementById('menu');
+        const frame = document.getElementById('content-frame');
 
-        document.addEventListener('DOMContentLoaded', () => {
-            generateTOC();
-
-            // Add click event to TOC links
-            document.querySelectorAll('.toc-link').forEach(item => {
-                item.addEventListener('click', function() {
-                    const contentName = this.getAttribute('data-content');
-                    loadContent(contentName);
-                });
-            });
+        // Toggle menu visibility with animation
+        toolbar.addEventListener('click', () => {
+            menu.classList.toggle('expanded');
         });
 
-        function loadContent(contentName) {
-            // Fetch the corresponding content file
-            fetch(`${contentName}.html`)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`Content not found: ${contentName}`);
-                    }
-                    return response.text();
-                })
-                .then(data => {
-                    document.getElementById('content').innerHTML = data;
-                })
-                .catch(error => {
-                    console.error('Error loading content:', error);
-                    document.getElementById('content').innerHTML = `
-                        <h1>Error</h1>
-                        <p>Unable to load content for "${contentName}".</p>
-                    `;
-                });
-        }
-    </script>
+        // Populate the menu dynamically
+        Object.entries(topics).forEach(([topicKey, topic]) => {
+            const menuItem = document.createElement('div');
+            menuItem.className = 'menu-item';
+            menuItem.textContent = topic.display;
 
+            const dropdown = document.createElement('ul');
+            dropdown.className = 'dropdown';
+
+            topic.subtopics.forEach(subtopic => {
+                const subItem = document.createElement('li');
+                subItem.textContent = subtopic.display;
+
+                // Add click event to submenu
+                subItem.addEventListener('click', (event) => {
+                    event.stopPropagation();
+                    frame.src = `${subtopic.function}.html`;
+
+                    // Hide menu and update toolbar text
+                    menu.classList.remove('expanded');
+                    toolbar.textContent = `PremazingPH - Topics - ${topic.display} > ${subtopic.display}`;
+                });
+
+                dropdown.appendChild(subItem);
+            });
+
+            menuItem.addEventListener('click', () => {
+                const isActive = menuItem.classList.contains('active');
+
+                // Close all dropdowns
+                document.querySelectorAll('.dropdown').forEach(d => d.classList.remove('expanded'));
+                document.querySelectorAll('.menu-item').forEach(item => item.classList.remove('active'));
+
+                if (!isActive) {
+                    // Expand the clicked dropdown
+                    dropdown.classList.add('expanded');
+                    menuItem.classList.add('active');
+
+                    // Update toolbar text to the main topic
+                    toolbar.textContent = `PremazingPH - Topics - ${topic.display}`;
+
+                    // Load main topic content
+                    frame.src = `${topicKey}.html`;
+                }
+            });
+
+            menuItem.appendChild(dropdown);
+            menu.appendChild(menuItem);
+        });
+
+        // Set default topic_1 and expand its dropdown
+        document.querySelector('.menu-item').classList.add('active');
+        //document.querySelector('.dropdown').classList.add('expanded');
+		toolbar.textContent = `PremazingPH - Topics`;
+    </script>
 </body>
 </html>
