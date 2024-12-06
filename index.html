@@ -197,7 +197,7 @@
                 // Add click event to submenu
                 subItem.addEventListener('click', (event) => {
                     event.stopPropagation();
-                    frame.src = `$switchguides/{subtopic.function}.html`;
+                    frame.src = `switchguides/${subtopic.function}.html`;
 
                     // Hide menu and update toolbar text
                     menu.classList.remove('expanded');
@@ -223,7 +223,7 @@
                     toolbar.textContent = `PremazingPH - Topics - ${topic.display}`;
 
                     // Load main topic content
-                    frame.src = `${topicKey}.html`;
+                    frame.src = `switchguides/${topicKey}.html`;
                 }
             });
 
