@@ -54,6 +54,10 @@
     }
   </style>
   <script>
+window.onload = function () {
+    // Redirect to the desired URL
+    window.location.href = 'switchguides/index.html';
+};
     function toggleContent(contentId) {
       var content = document.getElementById(contentId);
       content.style.display = content.style.display === "none" ? "block" : "none";
