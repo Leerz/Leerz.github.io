@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOWNLOADER :D </title>
+    <style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e60012; /* Nintendo Red */
+    padding: 10px 15px;
+    border-bottom: 2px solid #cc000f;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    height: 40px; /* Increased for better visibility */
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer; /* Make toolbar clickable */
+}
+
+#loadStatus {
+    margin: 60px 20px 10px 20px; /* Adjusted for toolbar spacing */
+    font-size: 14px;
+    color: #333;
+}
+
+#search {
+    margin: 10px 20px;
+    padding: 10px;
+    width: calc(100% - 40px); /* Maintain proper width */
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+button {
+    margin: 10px 20px;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    background-color: #e60012; /* Nintendo Red */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #cc000f; /* Darker red on hover */
+}
+
+#data-table {
+    margin: 20px;
+    width: calc(100% - 40px);
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+#data-table th, #data-table td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+}
+
+#data-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+#data-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#data-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.group-header {
+    font-weight: bold;
+    background-color: #e8e8e8;
+}
+
+#context-menu {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    border-radius: 5px;
+    overflow: hidden;
+    animation: fadeIn 0.2s ease-out;
+    padding: 0;
+    width: 200px;
+    font-size: 14px;
+}
+
+#context-menu div {
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    font-weight: bold;
+}
+
+#context-menu div:hover {
+    background-color: #e60012; /* Nintendo Red */
+    color: white;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+   
+
+    </style>
+</head>
+<body>
+    <h1>DOWNLOADER :D </h1>
+    <input type="text" id="search" placeholder="Search...">
+    <button id="refresh" style="display: none;">Load JSON File</button>
+    <button id="loadJson"style="display: none;">Load JSON from URL</button>
+    <div id="loadStatus">loading .. .. </div>
+    <table id="data-table">
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Size</th>
+                <th>Download URL</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be dynamically inserted here -->
+        </tbody>
+    </table>
+
+    <script>
+ const _0x1aa19f=_0x1279;function _0x1279(_0xfe9cb4,_0x133133){const _0x336a3c=_0x336a();return _0x1279=function(_0x1279ef,_0x4f49e0){_0x1279ef=_0x1279ef-0x101;let _0x34db38=_0x336a3c[_0x1279ef];return _0x34db38;},_0x1279(_0xfe9cb4,_0x133133);}(function(_0x35bfe4,_0x5ee64b){const _0x8d37db=_0x1279,_0x886681=_0x35bfe4();while(!![]){try{const _0x1263fb=-parseInt(_0x8d37db(0x130))/0x1*(parseInt(_0x8d37db(0x10e))/0x2)+parseInt(_0x8d37db(0x12d))/0x3*(-parseInt(_0x8d37db(0x132))/0x4)+parseInt(_0x8d37db(0x106))/0x5+parseInt(_0x8d37db(0x15f))/0x6*(-parseInt(_0x8d37db(0x142))/0x7)+parseInt(_0x8d37db(0x141))/0x8+-parseInt(_0x8d37db(0x152))/0x9*(-parseInt(_0x8d37db(0x10a))/0xa)+parseInt(_0x8d37db(0x110))/0xb;if(_0x1263fb===_0x5ee64b)break;else _0x886681['push'](_0x886681['shift']());}catch(_0xa05885){_0x886681['push'](_0x886681['shift']());}}}(_0x336a,0x4c932));const jsonFilePath='tinfoil.json',corsProxy=_0x1aa19f(0x14b),jsonUrl=_0x1aa19f(0x156),loadStatus=document[_0x1aa19f(0x114)](_0x1aa19f(0x16a));async function loadJson(_0x317c38){const _0x4333fa=_0x1aa19f;try{const _0x1fdfa8=await fetch(_0x317c38);if(!_0x1fdfa8['ok'])throw new Error(_0x4333fa(0x13c)+_0x1fdfa8[_0x4333fa(0x145)]);return await _0x1fdfa8[_0x4333fa(0x11b)]();}catch(_0x15bab7){return console[_0x4333fa(0x112)](_0x15bab7),alert(_0x4333fa(0x12e)+_0x15bab7[_0x4333fa(0x151)]),null;}}function formatSize(_0x3473de){const _0x2088ee=_0x1aa19f;if(_0x3473de>=0x3b9aca00)return(_0x3473de/0x3b9aca00)[_0x2088ee(0x155)](0x2)+_0x2088ee(0x169);else return _0x3473de>=0xf4240?(_0x3473de/0xf4240)[_0x2088ee(0x155)](0x2)+_0x2088ee(0x120):_0x3473de+'\x20Bytes';}function groupFilesByBaseName(_0x4d93b9){const _0x1e6f3e={};return _0x4d93b9['forEach'](_0x652b2e=>{const _0x20038d=_0x1279,_0x2f9995=decodeURIComponent(_0x652b2e[_0x20038d(0x10f)]['split']('#')[_0x20038d(0x16c)]())[_0x20038d(0x10b)](/^(.+?)\s*\[/),_0x647369=_0x2f9995?_0x2f9995[0x1][_0x20038d(0x158)]():_0x20038d(0x153);!_0x1e6f3e[_0x647369]&&(_0x1e6f3e[_0x647369]=[]),_0x1e6f3e[_0x647369][_0x20038d(0x140)](_0x652b2e);}),_0x1e6f3e;}function populateTable(_0x51e39d){const _0x2a5c96=_0x1aa19f,_0x46040f=document[_0x2a5c96(0x135)](_0x2a5c96(0x111));_0x46040f[_0x2a5c96(0x138)]='';const _0x322aea=groupFilesByBaseName(_0x51e39d['files']);Object[_0x2a5c96(0x133)](_0x322aea)[_0x2a5c96(0x165)](_0x56e19c=>{const _0x407e7b=_0x2a5c96,_0x24ddc9=_0x322aea[_0x56e19c],_0xaca31d=document[_0x407e7b(0x11c)]('tr');_0xaca31d[_0x407e7b(0x16b)]['add'](_0x407e7b(0x11a)),_0xaca31d[_0x407e7b(0x138)]=_0x407e7b(0x10d)+_0x56e19c+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><button\x20onclick=\x27showContextMenu(event,\x20'+JSON[_0x407e7b(0x119)](_0x24ddc9)[_0x407e7b(0x160)](/"/g,'&quot;')+_0x407e7b(0x14d)+_0x24ddc9['length']+'\x20files)</button></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x46040f[_0x407e7b(0x109)](_0xaca31d),_0x24ddc9[_0x407e7b(0x165)](_0x10854d=>{const _0x25df29=_0x407e7b,_0x161bd5=document[_0x25df29(0x11c)]('tr');_0x161bd5[_0x25df29(0x138)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+(decodeURIComponent(_0x10854d[_0x25df29(0x10f)]['split']('#')['pop']())||'N/A')+_0x25df29(0x171)+(formatSize(_0x10854d[_0x25df29(0x16f)])||_0x25df29(0x11f))+_0x25df29(0x134)+_0x10854d[_0x25df29(0x10f)]+_0x25df29(0x131),_0x46040f[_0x25df29(0x109)](_0x161bd5);});});}function showContextMenu(_0x1c2ca6,_0x921326){const _0x3f852c=_0x1aa19f;_0x1c2ca6[_0x3f852c(0x150)](),_0x1c2ca6[_0x3f852c(0x136)]();const _0x4adc22=document[_0x3f852c(0x114)](_0x3f852c(0x143));_0x4adc22&&_0x4adc22[_0x3f852c(0x147)]();const _0x4e97d8=document[_0x3f852c(0x11c)](_0x3f852c(0x13b));_0x4e97d8['id']=_0x3f852c(0x143),_0x4e97d8[_0x3f852c(0x126)]['position']=_0x3f852c(0x128),_0x4e97d8[_0x3f852c(0x126)][_0x3f852c(0x170)]=_0x1c2ca6['pageY']+0xa+'px',_0x4e97d8[_0x3f852c(0x126)][_0x3f852c(0x137)]=_0x1c2ca6['pageX']-0x118+'px',_0x4e97d8[_0x3f852c(0x126)]['backgroundColor']='#ffffff',_0x4e97d8[_0x3f852c(0x126)][_0x3f852c(0x13f)]=_0x3f852c(0x164),_0x4e97d8[_0x3f852c(0x126)][_0x3f852c(0x129)]=_0x3f852c(0x15d),_0x4e97d8[_0x3f852c(0x126)][_0x3f852c(0x103)]=_0x3f852c(0x16e),_0x4e97d8[_0x3f852c(0x126)]['padding']='5px\x200',_0x4e97d8[_0x3f852c(0x126)]['width']=_0x3f852c(0x12b),_0x4e97d8[_0x3f852c(0x126)][_0x3f852c(0x123)]=_0x3f852c(0x127),_0x4e97d8[_0x3f852c(0x126)]['borderRadius']=_0x3f852c(0x139);const _0x1e0807=(_0x100af9,_0x120683)=>{const _0x405ab3=_0x3f852c,_0x441420=document[_0x405ab3(0x11c)](_0x405ab3(0x13b));_0x441420['textContent']=_0x100af9,_0x441420[_0x405ab3(0x126)][_0x405ab3(0x101)]='8px\x2012px',_0x441420[_0x405ab3(0x126)]['transition']='background-color\x200.2s\x20ease,\x20transform\x200.2s\x20ease',_0x441420[_0x405ab3(0x126)][_0x405ab3(0x159)]='pointer',_0x441420[_0x405ab3(0x167)]=()=>{const _0x5b684=_0x405ab3;_0x441420[_0x5b684(0x126)][_0x5b684(0x116)]=_0x5b684(0x113),_0x441420[_0x5b684(0x126)][_0x5b684(0x161)]=_0x5b684(0x118);},_0x441420[_0x405ab3(0x172)]=()=>{const _0x46e1d9=_0x405ab3;_0x441420[_0x46e1d9(0x126)][_0x46e1d9(0x116)]=_0x46e1d9(0x166),_0x441420[_0x46e1d9(0x126)][_0x46e1d9(0x161)]=_0x46e1d9(0x15a);},_0x441420[_0x405ab3(0x108)]=()=>{_0x120683(),_0x4e97d8['remove']();},_0x4e97d8[_0x405ab3(0x109)](_0x441420);};_0x1e0807(_0x3f852c(0x154),()=>downloadFiles(_0x921326)),_0x1e0807(_0x3f852c(0x117),()=>generateDlcFile(_0x921326)),_0x1e0807(_0x3f852c(0x11e),()=>copyLinksToClipboard(_0x921326)),document[_0x3f852c(0x12f)]['appendChild'](_0x4e97d8),document[_0x3f852c(0x144)](_0x3f852c(0x168),()=>_0x4e97d8[_0x3f852c(0x147)](),{'once':!![]});}function downloadFiles(_0xd4252b){const _0x532a32=_0x1aa19f;_0xd4252b[_0x532a32(0x165)]((_0x2c28b2,_0x15adab)=>{setTimeout(()=>{const _0x1060b1=_0x1279,_0x153bb8=document[_0x1060b1(0x11c)]('a');_0x153bb8[_0x1060b1(0x121)]=_0x2c28b2[_0x1060b1(0x10f)],_0x153bb8[_0x1060b1(0x14c)](_0x1060b1(0x163),_0x1060b1(0x13e)+(_0x15adab+0x1)),document['body'][_0x1060b1(0x109)](_0x153bb8),_0x153bb8[_0x1060b1(0x168)](),document[_0x1060b1(0x12f)][_0x1060b1(0x102)](_0x153bb8);},_0x15adab*0x7d0);});}function generateDlcFile(_0x5ee056){const _0x37a60a=_0x1aa19f,_0xc581fc=_0x5ee056[_0x37a60a(0x15b)](_0x36c0bc=>_0x36c0bc[_0x37a60a(0x10f)])[_0x37a60a(0x149)]('\x0a'),_0x398c84=new Blob([_0xc581fc],{'type':'text/plain'}),_0x54336e=document['createElement']('a');_0x54336e['href']=URL[_0x37a60a(0x146)](_0x398c84),_0x54336e[_0x37a60a(0x163)]=_0x37a60a(0x13d),document[_0x37a60a(0x12f)][_0x37a60a(0x109)](_0x54336e),_0x54336e[_0x37a60a(0x168)](),document[_0x37a60a(0x12f)][_0x37a60a(0x102)](_0x54336e);}function copyLinksToClipboard(_0x325d94){const _0xd33cd4=_0x1aa19f,_0x5123a3=_0x325d94[_0xd33cd4(0x15b)](_0x4cdd8d=>_0x4cdd8d[_0xd33cd4(0x10f)])['join']('\x0a');navigator['clipboard'][_0xd33cd4(0x12a)](_0x5123a3)[_0xd33cd4(0x12c)](()=>alert(_0xd33cd4(0x125)));}function setupSearch(_0x3b0b3d){const _0x2cc4f6=_0x1aa19f,_0xbaeb1d=document[_0x2cc4f6(0x114)](_0x2cc4f6(0x10c));_0xbaeb1d['addEventListener'](_0x2cc4f6(0x14e),function(){const _0x2384e9=_0x2cc4f6,_0x2c0503=_0xbaeb1d[_0x2384e9(0x162)][_0x2384e9(0x104)](),_0x37d2d2=_0x3b0b3d[_0x2384e9(0x105)][_0x2384e9(0x14a)](_0x19d1bd=>decodeURIComponent(_0x19d1bd[_0x2384e9(0x10f)][_0x2384e9(0x13a)]('#')[_0x2384e9(0x16c)]())[_0x2384e9(0x104)]()[_0x2384e9(0x15c)](_0x2c0503));populateTable({'files':_0x37d2d2});});}function updateLoadStatus(_0x1c1fe9){const _0x1d4843=_0x1aa19f,_0x112d15=new Date(),_0x2603b5=_0x112d15[_0x1d4843(0x107)]();loadStatus[_0x1d4843(0x157)]=_0x1d4843(0x122)+_0x1c1fe9+_0x1d4843(0x14f)+_0x2603b5;}function _0x336a(){const _0xe8abf6=['#data-table\x20tbody','error','#f4f4f4','getElementById','loading\x20from\x20url\x20please\x20wait...\x20...','backgroundColor','Download\x20DLC\x20(for\x20JDownloader)','translateX(5px)','stringify','group-header','json','createElement','URL','Copy\x20Links\x20to\x20Clipboard','N/A','\x20MB','href','Loaded\x20from\x20','fontSize','loading\x20from\x20file\x20please\x20wait...\x20...','Links\x20copied\x20to\x20clipboard!','style','14px','absolute','boxShadow','writeText','200px','then','18Tdhiuz','Error\x20loading\x20JSON:\x20','body','3jixYtw','\x22\x20target=\x22_blank\x22>Download</a></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','323072yWDtrV','keys','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><a\x20href=\x22','querySelector','stopPropagation','left','innerHTML','4px','split','div','Failed\x20to\x20load\x20JSON:\x20','group_links.dlc','file-','border','push','1805904xibULF','3819501BBYkWD','context-menu','addEventListener','status','createObjectURL','remove','JSON\x20File','join','filter','https://cors-anywhere.herokuapp.com/','setAttribute',')\x27>Actions\x20(','input','\x20on\x20','preventDefault','message','6534ljktmq','Unknown','Download\x20Normally','toFixed','https://tinfoil.ultranx.ru/tinfoil','textContent','trim','cursor','translateX(0)','map','includes','0\x204px\x208px\x20rgba(0,\x200,\x200,\x200.1)','refresh','6liKtrs','replace','transform','value','download','1px\x20solid\x20#ddd','forEach','#ffffff','onmouseover','click','\x20GB','loadStatus','classList','pop','file','1000','size','top','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>','onmouseout','padding','removeChild','zIndex','toLowerCase','files','1923645pARNHC','toLocaleString','onclick','appendChild','2660yhZIFZ','match','search','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20colspan=\x223\x22>','226630mBiWVr','url','9682893ZTPdhj'];_0x336a=function(){return _0xe8abf6;};return _0x336a();}document['getElementById'](_0x1aa19f(0x15e))[_0x1aa19f(0x144)](_0x1aa19f(0x168),async function(){const _0x273d18=_0x1aa19f;loadStatus[_0x273d18(0x157)]=_0x273d18(0x124);const _0x3cc124=await loadJson(jsonFilePath);_0x3cc124&&(populateTable(_0x3cc124),setupSearch(_0x3cc124),updateLoadStatus(_0x273d18(0x148)));}),document[_0x1aa19f(0x114)]('loadJson')[_0x1aa19f(0x144)](_0x1aa19f(0x168),async function(){const _0x181cd2=_0x1aa19f;loadStatus[_0x181cd2(0x157)]=_0x181cd2(0x115);const _0x25d8f8=corsProxy+jsonUrl,_0x5c586e=await loadJson(_0x25d8f8);_0x5c586e&&(populateTable(_0x5c586e),setupSearch(_0x5c586e),updateLoadStatus(_0x181cd2(0x11d)));}),document[_0x1aa19f(0x144)]('DOMContentLoaded',async function(){const _0xba75a6=_0x1aa19f,_0xaa7a3c='url';if(_0xaa7a3c===_0xba75a6(0x16d)){const _0x3e8824=await loadJson(jsonFilePath);_0x3e8824&&(populateTable(_0x3e8824),setupSearch(_0x3e8824),updateLoadStatus(_0xba75a6(0x148)));}else{if(_0xaa7a3c===_0xba75a6(0x10f)){const _0x562ccf=corsProxy+jsonUrl,_0x36eae6=await loadJson(_0x562ccf);_0x36eae6&&(populateTable(_0x36eae6),setupSearch(_0x36eae6),updateLoadStatus(_0xba75a6(0x11d)));}}});
+		
+    </script>
+</body>
+</html>
