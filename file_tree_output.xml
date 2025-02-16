@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.00 TiB" fileCount="5713" dateCreated="20210923" dateModified="20250201">
+  <folder name="NSP 2021" size="9.02 TiB" fileCount="5732" dateCreated="20210923" dateModified="20250216">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -1449,6 +1449,9 @@
     <folder name="Chained Echoes" size="1.25 GiB" fileCount="2" dateCreated="20221227" dateModified="20221227">
       <file name="Chained Echoes [0100C11012C60000][v0][US](nsw2u.com).nsp" size="711.46 MiB" dateCreated="20221227" dateModified="20221209"/>
       <file name="Chained Echoes [0100C11012C68000][v131072][US](nsw2u.com).nsp" size="565.05 MiB" dateCreated="20221227" dateModified="20221209"/>
+    </folder>
+    <folder name="Chained Heroes [0100A8902131A000]" size="812.08 MiB" fileCount="1" dateCreated="20250207" dateModified="20250207">
+      <file name="Chained Heroes [0100A8902131A000][v0].nsp" size="812.08 MiB" dateCreated="20250207" dateModified="20250204"/>
     </folder>
     <folder name="Chameleon Run Deluxe Edition" size="82.57 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Chameleon Run Deluxe Edition.nsp" size="82.57 MiB" dateCreated="20190921" dateModified="20180726"/>
@@ -6305,6 +6308,9 @@
     <folder name="paranormasight the seven mysteries of honjo" size="675.57 MiB" fileCount="1" dateCreated="20240206" dateModified="20240206">
       <file name="PARANORMASIGHT The Seven Mysteries of Honjo [01006E5019C5A000][v0][US](nsw2u.com).nsp" size="675.57 MiB" dateCreated="20240206" dateModified="20230310"/>
     </folder>
+    <folder name="Park Them All! [0100D9901E708000]" size="537.58 MiB" fileCount="1" dateCreated="20250207" dateModified="20250207">
+      <file name="Park Them All! [0100D9901E708000][v0].nsp" size="537.58 MiB" dateCreated="20250207" dateModified="20250128"/>
+    </folder>
     <folder name="Parkasaurus [010068C011E56000][v0][US](nsw2u.xyz)" size="268.82 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Parkasaurus [010068C011E56000][v0][US](nsw2u.xyz).nsp" size="268.82 MiB" dateCreated="20220621" dateModified="20220428"/>
     </folder>
@@ -6578,6 +6584,9 @@
     </folder>
     <folder name="Portal Knights[0100437004170000][US][v0]" size="2.72 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Portal Knights[0100437004170000][US][v0].nsp" size="2.72 GiB" dateCreated="20210120" dateModified="20210114"/>
+    </folder>
+    <folder name="Potato Arena [01002620156F6000]" size="705.45 MiB" fileCount="1" dateCreated="20250207" dateModified="20250207">
+      <file name="Potato Arena [01002620156F6000][v0].nsp" size="705.45 MiB" dateCreated="20250207" dateModified="20250128"/>
     </folder>
     <folder name="Potion Craft Alchemist Simulator" size="1.07 GiB" fileCount="1" dateCreated="20240228" dateModified="20240228">
       <file name="Potion Craft Alchemist Simulator [010054001899E000][v0][US](nsw2u.com).nsp" size="1.07 GiB" dateCreated="20240228" dateModified="20231213"/>
@@ -7338,6 +7347,19 @@
     </folder>
     <folder name="Shred 2 - Freeride Mountainbiking" size="662.68 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Shred! 2 - Freeride Mountainbiking.nsz" size="662.68 MiB" dateCreated="20200703" dateModified="20191107"/>
+    </folder>
+    <folder name="Sid Meiers Civilization VII [NSZ]" size="3.74 GiB" fileCount="11" dateCreated="20250206" dateModified="20250207">
+      <file name="Sid Meiers Civilization 7 [0100C3601518C000][v0] (4.68 GB).nsz" size="3.49 GiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [0100C3601518C800][v131072] (0.55 GB).nsz" size="253.94 MiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [DLC Ashoka World Conqueror Persona] [0100C3601518D006][v0].nsp" size="119.16 KiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [DLC Crossroads of the World Collection Cosmetic Bonus] [0100C3601518D008][v0].nsp" size="119.16 KiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [DLC Deluxe Cosmetics Pack] [0100C3601518D002][v0].nsp" size="119.16 KiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [DLC Founders Cosmetics Pack] [0100C3601518D005][v0].nsp" size="119.16 KiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [DLC Leader Persona 1] [0100C3601518D004][v0].nsp" size="119.16 KiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [DLC Leader Persona 3] [0100C3601518D007][v0].nsp" size="119.16 KiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [DLC Right to Rule Collection Cosmetic Bonus] [0100C3601518D009][v0].nsp" size="119.16 KiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [DLC Tecumseh and Shawnee Pack] [0100C3601518D001][v0].nsp" size="119.16 KiB" dateCreated="20250206" dateModified="20250206"/>
+      <file name="Sid Meiers Civilization 7 [DLC Xerxes the Achaemenid Persona] [0100C3601518D003][v0].nsp" size="119.16 KiB" dateCreated="20250206" dateModified="20250206"/>
     </folder>
     <folder name="Sid Meier’s Civilization VI [010044500C182000][v0]" size="4.90 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Sid Meier’s Civilization VI [010044500C182000][v0].nsp" size="4.90 GiB" dateCreated="20210103" dateModified="20191009"/>
@@ -8923,6 +8945,10 @@
       <file name="Tomb Raider I-III Remastered Starring Lara Croft [010024601BB16000][v0][US](nsw2u.com).nsp" size="4.63 GiB" dateCreated="20240216" dateModified="20240215"/>
       <file name="Tomb Raider I-III Remastered Starring Lara Croft [010024601BB16800][v65536][US](nsw2u.com).nsp" size="1.50 GiB" dateCreated="20240216" dateModified="20240215"/>
     </folder>
+    <folder name="Tomb Raider IV-VI Remastered" size="12.93 GiB" fileCount="2" dateCreated="20250216" dateModified="20250216">
+      <file name="Tomb Raider IV-VI Remastered [0100BC101C896000].nsp" size="10.09 GiB" dateCreated="20250216" dateModified="20250215"/>
+      <file name="Tomb Raider IV-VI Remastered [0100BC101C896800][v65536].nsp" size="2.84 GiB" dateCreated="20250216" dateModified="20250215"/>
+    </folder>
     <folder name="Tomba! Special Edition (NSP)(eShop)" size="2.73 GiB" fileCount="1" dateCreated="20240804" dateModified="20240804">
       <file name="Tomba! Special Edition [0100D7F01E49C000].nsp" size="2.73 GiB" dateCreated="20240804" dateModified="20240802"/>
     </folder>
@@ -9456,6 +9482,11 @@
       <file name="Warm Snow [01009B901C67A000][v0][US](nsw2u.com).nsp" size="1.29 GiB" dateCreated="20240107" dateModified="20231021"/>
       <file name="Warm Snow [01009B901C67A800][v131072][US](nsw2u.com).nsp" size="253.82 MiB" dateCreated="20240107" dateModified="20231124"/>
     </folder>
+    <folder name="WARRIORS Abyss" size="3.36 GiB" fileCount="3" dateCreated="20250216" dateModified="20250216">
+      <file name="WARRIORS Abyss [01005AE0209A8000][v0][US].nsp" size="2.45 GiB" dateCreated="20250216" dateModified="20250215"/>
+      <file name="WARRIORS Abyss [01005AE0209A8800][v65536][US].nsp" size="930.22 MiB" dateCreated="20250216" dateModified="20250215"/>
+      <file name="WARRIORS Abyss [dynasty warriors costume set DLC][01005AE0209A9001][v0][US].nsp" size="7.80 MiB" dateCreated="20250216" dateModified="20250215"/>
+    </folder>
     <folder name="warriors orochi 4" size="16.24 GiB" fileCount="73" dateCreated="20210923" dateModified="20240909">
       <file name="WARRIORS OROCHI 4 [010016A00AEC0000][v0].nsp" size="11.97 GiB" dateCreated="20210819" dateModified="20200413"/>
       <file name="WARRIORS OROCHI 4 [BGM Pack 1][010016A00AEC1275][US][v131072].nsp" size="39.26 MiB" dateCreated="20210819" dateModified="20200413"/>
@@ -9927,5 +9958,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2106" totalFiles="5713" totalSize="9214.15 GiB"/>
+  <summary totalFolders="2112" totalFiles="5732" totalSize="9236.19 GiB"/>
 </root>
