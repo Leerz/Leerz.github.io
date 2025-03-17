@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.08 TiB" fileCount="5792" dateCreated="20210923" dateModified="20250308">
+  <folder name="NSP 2021" size="9.08 TiB" fileCount="5785" dateCreated="20210923" dateModified="20250317">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -289,7 +289,7 @@
     <folder name="Ambition of the slimes" size="48.36 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Ambition of the slimes.nsp" size="48.36 MiB" dateCreated="20190921" dateModified="20180726"/>
     </folder>
-    <folder name="American Fugitive with 60FPS mod" size="1.21 GiB" fileCount="2" dateCreated="20191129" dateModified="20240909">
+    <folder name="American Fugitive" size="1.21 GiB" fileCount="2" dateCreated="20191129" dateModified="20240909">
       <file name="American Fugitive .nsz" size="633.54 MiB" dateCreated="20200703" dateModified="20191014"/>
       <file name="American Fugitive UPD [v524288] V1.1.0.nsz" size="604.63 MiB" dateCreated="20200703" dateModified="20191129"/>
     </folder>
@@ -577,7 +577,7 @@
       <file name="Atari 50 The Anniversary Celebration [010099801870E000][US](nsw2u.com).xci" size="7.44 GiB" dateCreated="20230430" dateModified="20221109"/>
       <file name="Atari 50 The Anniversary Celebration [010099801870E800][v196608][US](nsw2u.com).nsp" size="2.42 GiB" dateCreated="20230430" dateModified="20230122"/>
     </folder>
-    <folder name="Atari_Flashback_Classics_NSW-VENOM" size="1.89 GiB" fileCount="2" dateCreated="20230430" dateModified="20230509">
+    <folder name="Atari Flashback Classics" size="1.89 GiB" fileCount="2" dateCreated="20230430" dateModified="20230509">
       <file name="v-atarifc.xci" size="1.86 GiB" dateCreated="20230509" dateModified="20181214"/>
       <file name="v-atarifc_v131072.nsp" size="27.55 MiB" dateCreated="20230509" dateModified="20190302"/>
     </folder>
@@ -913,15 +913,15 @@
       <file name="Bee Simulator [01009E700DB2E000][v0](nsw2u.com).nsp" size="6.72 GiB" dateCreated="20250201" dateModified="20250201"/>
       <file name="Bee Simulator [01009E700DB2E800][v131072](nsw2u.com).nsp" size="739.07 MiB" dateCreated="20250201" dateModified="20210112"/>
     </folder>
+    <folder name="Ben 10" size="1.54 GiB" fileCount="2" dateCreated="20220830" dateModified="20220915">
+      <file name="Ben_10__Switch-xci.com__v0___2.68_GB_.nsz" size="956.40 MiB" dateCreated="20220814" dateModified="20220814"/>
+      <file name="Ben_10__Switch-xci.com__v131072___1.84_GB_.nsz" size="621.08 MiB" dateCreated="20220814" dateModified="20220814"/>
+    </folder>
     <folder name="Ben 10 Power Trip [01009CD00E3AA000]+[v01.02]" size="2.09 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Ben 10 Power Trip [01009CD00E3AA000]+[v01.02].xci" size="2.09 GiB" dateCreated="20220814" dateModified="20201219"/>
     </folder>
     <folder name="Bendy and the Ink Machine" size="4.09 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Bendy_and_the_Ink_Machine__010074500bbc4000___1.6.0.0_switch-xci.com.xci" size="4.09 GiB" dateCreated="20220802" dateModified="20200614"/>
-    </folder>
-    <folder name="Ben_10" size="1.54 GiB" fileCount="2" dateCreated="20220830" dateModified="20220915">
-      <file name="Ben_10__Switch-xci.com__v0___2.68_GB_.nsz" size="956.40 MiB" dateCreated="20220814" dateModified="20220814"/>
-      <file name="Ben_10__Switch-xci.com__v131072___1.84_GB_.nsz" size="621.08 MiB" dateCreated="20220814" dateModified="20220814"/>
     </folder>
     <folder name="BEYBLADE X XONE (NSP)" size="2.95 GiB" fileCount="3" dateCreated="20241125" dateModified="20250102">
       <file name="BEYBLADE X XONE [0100E2301FB1E000][v0][Base].nsp" size="2.23 GiB" dateCreated="20241125" dateModified="20241124"/>
@@ -1157,7 +1157,7 @@
       <file name="Born Of Bread [01008F6019512000][v0][US](nsw2u.com).nsp" size="2.48 GiB" dateCreated="20240107" dateModified="20231206"/>
       <file name="Born Of Bread [01008F6019512800][v327680][US](nsw2u.com).nsp" size="411.92 MiB" dateCreated="20240107" dateModified="20231222"/>
     </folder>
-    <folder name="BOXBOY___BOXGIRL___010018300D006000__v0__switch-xci.com_" size="536.45 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
+    <folder name="BOXBOY BOXGIRL 010018300D006000" size="536.45 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="BOXBOY___BOXGIRL___010018300D006000__v0__switch-xci.com_.nsp" size="536.45 MiB" dateCreated="20210818" dateModified="20210818"/>
     </folder>
     <folder name="Brain Breaker [0100B83013242000][EU][v0]" size="286.81 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
@@ -1519,8 +1519,8 @@
       <file name="CHRONO CROSS THE RADICAL DREAMERS EDITION [0100AC20128AC000][v0][US](nsw2u.xyz).nsp" size="4.15 GiB" dateCreated="20220409" dateModified="20220407"/>
       <file name="CHRONO CROSS THE RADICAL DREAMERS EDITION [0100AC20128AC800][v65536][US](nsw2u.xyz).nsp" size="23.88 MiB" dateCreated="20220409" dateModified="20220406"/>
     </folder>
-    <folder name="Chronos Before the Ashes （クロノス：ビフォー ジ アッシュ） [010076B01196C000][JP][v0]" size="2.73 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="Chronos Before the Ashes （クロノス：ビフォー ジ アッシュ） [010076B01196C000][JP][v0].nsp" size="2.73 GiB" dateCreated="20210607" dateModified="20201202"/>
+    <folder name="Chronos Before the Ashes" size="2.73 GiB" fileCount="1" dateCreated="20231227" dateModified="20250317">
+      <file name="Chronos Before the Ashes [010076B01196C000][v0].xci" size="2.73 GiB" dateCreated="20250317" dateModified="20201202"/>
     </folder>
     <folder name="Cities Skylines - Nintendo Switch Edition" size="2.13 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Cities Skylines - Nintendo Switch Edition.nsp" size="2.13 GiB" dateCreated="20190921" dateModified="20180914"/>
@@ -1529,7 +1529,7 @@
       <file name="Citizen Sleeper [0100A650179CA000][v0][US](nsw2u.xyz).nsp" size="822.75 MiB" dateCreated="20220916" dateModified="20220506"/>
       <file name="Citizen Sleeper [0100A650179CA800][v131072][US](nsw2u.xyz).nsp" size="325.92 MiB" dateCreated="20220916" dateModified="20220506"/>
     </folder>
-    <folder name="CLANNAD__0100A3A00CC7E000__v0_switch-xci.com" size="5.41 GiB" fileCount="2" dateCreated="20230701" dateModified="20230701">
+    <folder name="CLANNAD 0100A3A00CC7E000__v0_switch-xci.com" size="5.41 GiB" fileCount="2" dateCreated="20230701" dateModified="20230701">
       <file name="CLANNAD [0100A3A00CC7E800][v458752].nsp" size="40.81 MiB" dateCreated="20230630" dateModified="20200314"/>
       <file name="CLANNAD__0100A3A00CC7E000__v0_switch-xci.com.nsp" size="5.37 GiB" dateCreated="20230701" dateModified="20200107"/>
     </folder>
@@ -1998,9 +1998,6 @@
     </folder>
     <folder name="Detective Pikachu Returns [010007500F27C000][v0][US](nsw2u.com)" size="9.00 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Detective Pikachu Returns [010007500F27C000][v0][US](nsw2u.com).nsp" size="9.00 GiB" dateCreated="20231008" dateModified="20231006"/>
-    </folder>
-    <folder name="Detention" size="2.08 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="Detention.nsp" size="2.08 GiB" dateCreated="20190921" dateModified="20180726"/>
     </folder>
     <folder name="Detention [0100730007A9C000]+[v1.0.3][US](nsw2u)" size="2.51 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Detention [0100730007A9C000]+[v1.0.3][US](nsw2u).xci" size="2.51 GiB" dateCreated="20220802" dateModified="20210723"/>
@@ -2944,9 +2941,6 @@
       <file name="Fate Samurai Remnant [特典衣装：幻想霊衣「宮本武蔵」] [01000DA017CF1005][v0].nsp" size="9.87 MiB" dateCreated="20231006" dateModified="20231004"/>
       <file name="Fate Samurai Remnant [特典装備：上世宝剣拵] [01000DA017CF1001][v0].nsp" size="3.13 MiB" dateCreated="20231006" dateModified="20231004"/>
     </folder>
-    <folder name="FateEXTELLA" size="3.06 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="FateEXTELLA.nsp" size="3.06 GiB" dateCreated="20190921" dateModified="20180726"/>
-    </folder>
     <folder name="Fe" size="1.12 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Fe.nsp" size="1.12 GiB" dateCreated="20190921" dateModified="20180726"/>
     </folder>
@@ -3155,9 +3149,6 @@
     <folder name="Florence (NSP)(eShop)" size="808.60 MiB" fileCount="1" dateCreated="20240911" dateModified="20240911">
       <file name="Florence[010040700E8FC000][US][v0].nsp" size="808.60 MiB" dateCreated="20240911" dateModified="20200216"/>
     </folder>
-    <folder name="Florence[010040700E8FC000][US][v0]" size="808.60 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="Florence[010040700E8FC000][US][v0].nsp" size="808.60 MiB" dateCreated="20220802" dateModified="20200216"/>
-    </folder>
     <folder name="Flutter Away [01006FF01A230000][v0][US]" size="817.39 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Flutter Away [01006FF01A230000][v0][US].nsp" size="817.39 MiB" dateCreated="20230818" dateModified="20230805"/>
     </folder>
@@ -3259,7 +3250,7 @@
     <folder name="Furi" size="3.97 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Furi.nsp" size="3.97 GiB" dateCreated="20190921" dateModified="20180726"/>
     </folder>
-    <folder name="FUZE4__0100EAD007E98000__v0_" size="3.74 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
+    <folder name="FUZE4 0100EAD007E98000__v0_" size="3.74 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="FUZE4__0100EAD007E98000__v0_.nsp" size="3.74 GiB" dateCreated="20191102" dateModified="20191102"/>
     </folder>
     <folder name="Gakuen Club [010052900B8EE000][v0]" size="690.11 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
@@ -3354,7 +3345,7 @@
     <folder name="GO VACATION" size="8.83 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="GO VACATION.nsp" size="8.83 GiB" dateCreated="20190921" dateModified="20180727"/>
     </folder>
-    <folder name="Goat_Simulator_The_GOATY_V1.0.3_Switch-xci.com" size="1.88 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
+    <folder name="Goat Simulator The GOATY V1.0.3_Switch-xci.com" size="1.88 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Goat_Simulator_The_GOATY_V1.0.3_Switch-xci.com.xci" size="1.88 GiB" dateCreated="20220529" dateModified="20220529"/>
     </folder>
     <folder name="god eater 3" size="12.61 GiB" fileCount="2" dateCreated="20210923" dateModified="20210923">
@@ -4084,9 +4075,6 @@
       <file name="Jitsu Squad [0100A0701949E000][v0][US](nsw2u.com).nsp" size="1.06 GiB" dateCreated="20240114" dateModified="20221217"/>
       <file name="Jitsu Squad [0100A0701949E800][v65536][US](nsw2u.com).nsp" size="1.03 GiB" dateCreated="20240114" dateModified="20221217"/>
     </folder>
-    <folder name="Joe Dever's Lone Wolf" size="2.96 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="Joe Dever's Lone Wolf.nsp" size="2.96 GiB" dateCreated="20190921" dateModified="20180727"/>
-    </folder>
     <folder name="Joe Devers Lone Wolf" size="2.96 GiB" fileCount="1" dateCreated="20240123" dateModified="20240123">
       <file name="Joe Devers Lone Wolf [0100D49008748000][v0].nsp" size="2.96 GiB" dateCreated="20240123" dateModified="20200518"/>
     </folder>
@@ -4230,9 +4218,6 @@
       <file name="Kill la Kill The Game IF [0100A3F00C536000][v0].nsp" size="6.12 GiB" dateCreated="20200615" dateModified="20201109"/>
       <file name="Kill la Kill The Game IF [0100A3F00C536800][v131072].nsp" size="977.55 MiB" dateCreated="20200615" dateModified="20201109"/>
       <file name="Kill la Kill The Game IF [DLC Outfit][0100A3F00C537001][v0].nsp" size="121.20 KiB" dateCreated="20201108" dateModified="20201108"/>
-    </folder>
-    <folder name="Kill la Kill The Game IF" size="3.36 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="Kill la Kill The Game IF.nsz" size="3.36 GiB" dateCreated="20200703" dateModified="20191015"/>
     </folder>
     <folder name="Kill The Bad Guy" size="761.13 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Kill The Bad Guy.nsp" size="761.13 MiB" dateCreated="20190921" dateModified="20180727"/>
@@ -4392,7 +4377,7 @@
     <folder name="Lake [0100C6B010FD6000]" size="883.17 MiB" fileCount="1" dateCreated="20250110" dateModified="20250110">
       <file name="Lake [0100C6B010FD6000][v0][US](nsw2u.com).nsp" size="883.17 MiB" dateCreated="20250110" dateModified="20240216"/>
     </folder>
-    <folder name="Langrisser_I_and_II_Legacy" size="1.64 GiB" fileCount="5" dateCreated="20230608" dateModified="20230608">
+    <folder name="Langrisser I and II Legacy" size="1.64 GiB" fileCount="5" dateCreated="20230608" dateModified="20230608">
       <file name="Langrisser I and II [0100BAB00E8C0000][v0] Switch-xci.com.nsp" size="1.64 GiB" dateCreated="20230608" dateModified="20200310"/>
       <file name="v-lang12_bgm_dlc_0100bab00e8c1004.nsp" size="121.20 KiB" dateCreated="20230608" dateModified="20200310"/>
       <file name="v-lang12_bgm_dlc_0100bab00e8c1005.nsp" size="121.20 KiB" dateCreated="20230608" dateModified="20200310"/>
@@ -4923,7 +4908,7 @@
       <file name="Mary Skelter Finale [Spa Set] [0100419014457001][v0][EU](nsw2u.xyz).nsp" size="12.73 MiB" dateCreated="20220928" dateModified="20211002"/>
       <file name="Mary Skelter Finale [T-Healer Set] [0100419014457005][v0][EU](nsw2u.xyz).nsp" size="21.23 MiB" dateCreated="20220928" dateModified="20211002"/>
     </folder>
-    <folder name="Master Detective Archives_ RAIN CODE v0 (0100149019460000) (BASE)" size="14.27 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
+    <folder name="Master Detective Archives RAIN CODE v0 (0100149019460000) (BASE)" size="14.27 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Master Detective Archives_ RAIN CODE v0 (0100149019460000) (BASE).nsp" size="14.27 GiB" dateCreated="20230730" dateModified="20230630"/>
     </folder>
     <folder name="Masters of Anima" size="996.81 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
@@ -5069,7 +5054,7 @@
     <folder name="Mercenaries Saga Chronicles [0100d5000b988000] [v0]" size="213.55 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Mercenaries Saga Chronicles [0100d5000b988000] [v0].nsp" size="213.55 MiB" dateCreated="20220512" dateModified="20210515"/>
     </folder>
-    <folder name="Mercenaries_Wings_The_False_Phoenix [0100CB800CBC8000(nsw2u)" size="159.11 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
+    <folder name="Mercenaries Wings The False Phoenix [0100CB800CBC8000(nsw2u)" size="159.11 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Mercenaries_Wings_The_False_Phoenix [0100CB800CBC8000(nsw2u).nsp" size="159.11 MiB" dateCreated="20220512" dateModified="20220512"/>
     </folder>
     <folder name="Mercenary Kings" size="239.71 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
@@ -5734,26 +5719,39 @@
       <file name="My Time at Sandrock [0100B63016916000][v0].nsp" size="1.00 GiB" dateCreated="20231125" dateModified="20231108"/>
       <file name="My Time at Sandrock [0100B63016916800][v262144](Update 1.0.4).nsp" size="3.90 GiB" dateCreated="20231125" dateModified="20231113"/>
     </folder>
-    <folder name="My Universe" size="13.86 GiB" fileCount="16" dateCreated="20221115" dateModified="20221115">
-      <file name="My Baby [0100E20011A06800][v196608].nsp" size="2.11 GiB" dateCreated="20221115" dateModified="20201217"/>
-      <file name="My Universe - Cooking Star Restaurant [0100158011A08000][v0](Switch-xci.xyz).nsp" size="1012.61 MiB" dateCreated="20221115" dateModified="20201206"/>
-      <file name="My Universe - Doctors and Nurses [01009CE015FD4000][v0](nsw2u.xyz).nsp" size="782.91 MiB" dateCreated="20221115" dateModified="20211203"/>
-      <file name="My Universe - Doctors and Nurses [01009CE015FD4800][v65536](nsw2u.xyz).nsp" size="446.06 MiB" dateCreated="20221115" dateModified="20220305"/>
-      <file name="My Universe - Green Adventure Farmer_s Friends [0100C67015978000][v0][US](nsw2u.xyz).nsp" size="886.44 MiB" dateCreated="20221115" dateModified="20220701"/>
-      <file name="My Universe - Green Adventure Farmer_s Friends [0100C67015978800][v65536][US](nsw2u.xyz).nsp" size="418.56 MiB" dateCreated="20221115" dateModified="20220623"/>
-      <file name="My Universe - Interior Designer [010029E01583C000][v0][EU](nsw2u.xyz).nsp" size="443.96 MiB" dateCreated="20221115" dateModified="20211112"/>
-      <file name="My Universe - Interior Designer[010029E01583C800][v65536][EU](nsw2u.xyz).nsp" size="474.15 MiB" dateCreated="20221115" dateModified="20211112"/>
-      <file name="My Universe - PET CLINIC CATS &amp; DOGS [0100CD5011A02800][v196608][US](nsw2u.in).nsp" size="2.51 GiB" dateCreated="20221115" dateModified="20220924"/>
-      <file name="My Universe - Pet Clinic Cats and Dogs [0100CD5011A02000][v0](nsw2u.com).nsp" size="630.54 MiB" dateCreated="20221115" dateModified="20210126"/>
-      <file name="My universe - Puppies and Kittens [0100A0E014C6C000][v0](nsw2u.xyz).nsp" size="547.98 MiB" dateCreated="20221115" dateModified="20211102"/>
-      <file name="My Universe - Puppies and Kittens [0100A0E014C6C800][v131072][US](nsw2u.xyz).nsp" size="980.63 MiB" dateCreated="20221115" dateModified="20220123"/>
-      <file name="My Universe - School Teacher [01006C301199C000][v0].nsp" size="607.97 MiB" dateCreated="20221115" dateModified="20201113"/>
-      <file name="My Universe - School Teacher [01006C301199C800][v65536](nsw2u.com).nsp" size="336.36 MiB" dateCreated="20221115" dateModified="20201227"/>
-      <file name="My Universe Fashion Boutique [0100F71011A0A000][v0].nsp" size="790.82 MiB" dateCreated="20221115" dateModified="20201105"/>
-      <file name="My Universe My Baby [0100E20011A06000][v0].nsp" size="1.07 GiB" dateCreated="20221115" dateModified="20200929"/>
-    </folder>
     <folder name="My Universe - Cooking Star Restaurant[0100158011A08000][US][v0]" size="1012.64 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="My Universe - Cooking Star Restaurant[0100158011A08000][US][v0].nsp" size="1012.64 MiB" dateCreated="20210521" dateModified="20201218"/>
+    </folder>
+    <folder name="My Universe - Doctors and Nurses [01009CE015FD4800][v65536](nsw2u.xyz)" size="1.20 GiB" fileCount="2" dateCreated="20250317" dateModified="20250317">
+      <file name="My Universe - Doctors and Nurses [01009CE015FD4000][v0](nsw2u.xyz).nsp" size="782.91 MiB" dateCreated="20221115" dateModified="20211203"/>
+      <file name="My Universe - Doctors and Nurses [01009CE015FD4800][v65536](nsw2u.xyz).nsp" size="446.06 MiB" dateCreated="20221115" dateModified="20220305"/>
+    </folder>
+    <folder name="My Universe - Green Adventure Farmer_s Friends [0100C67015978800][v65536][US](nsw2u.xyz)" size="1.27 GiB" fileCount="2" dateCreated="20250317" dateModified="20250317">
+      <file name="My Universe - Green Adventure Farmer_s Friends [0100C67015978000][v0][US](nsw2u.xyz).nsp" size="886.44 MiB" dateCreated="20221115" dateModified="20220701"/>
+      <file name="My Universe - Green Adventure Farmer_s Friends [0100C67015978800][v65536][US](nsw2u.xyz).nsp" size="418.56 MiB" dateCreated="20221115" dateModified="20220623"/>
+    </folder>
+    <folder name="My Universe - Interior Designer [010029E01583C000][v0][EU](nsw2u.xyz)" size="918.11 MiB" fileCount="2" dateCreated="20250317" dateModified="20250317">
+      <file name="My Universe - Interior Designer [010029E01583C000][v0][EU](nsw2u.xyz).nsp" size="443.96 MiB" dateCreated="20221115" dateModified="20211112"/>
+      <file name="My Universe - Interior Designer[010029E01583C800][v65536][EU](nsw2u.xyz).nsp" size="474.15 MiB" dateCreated="20221115" dateModified="20211112"/>
+    </folder>
+    <folder name="My Universe - Pet Clinic Cats and Dogs [0100CD5011A02000][v0](nsw2u.com)" size="3.12 GiB" fileCount="2" dateCreated="20250317" dateModified="20250317">
+      <file name="My Universe - PET CLINIC CATS &amp; DOGS [0100CD5011A02800][v196608][US](nsw2u.in).nsp" size="2.51 GiB" dateCreated="20221115" dateModified="20220924"/>
+      <file name="My Universe - Pet Clinic Cats and Dogs [0100CD5011A02000][v0](nsw2u.com).nsp" size="630.54 MiB" dateCreated="20221115" dateModified="20210126"/>
+    </folder>
+    <folder name="My universe - Puppies and Kittens [0100A0E014C6C000][v0](nsw2u.xyz)" size="1.49 GiB" fileCount="2" dateCreated="20250317" dateModified="20250317">
+      <file name="My universe - Puppies and Kittens [0100A0E014C6C000][v0](nsw2u.xyz).nsp" size="547.98 MiB" dateCreated="20221115" dateModified="20211102"/>
+      <file name="My Universe - Puppies and Kittens [0100A0E014C6C800][v131072][US](nsw2u.xyz).nsp" size="980.63 MiB" dateCreated="20221115" dateModified="20220123"/>
+    </folder>
+    <folder name="My Universe - School Teacher [01006C301199C000][v0]" size="944.33 MiB" fileCount="2" dateCreated="20250317" dateModified="20250317">
+      <file name="My Universe - School Teacher [01006C301199C000][v0].nsp" size="607.97 MiB" dateCreated="20221115" dateModified="20201113"/>
+      <file name="My Universe - School Teacher [01006C301199C800][v65536](nsw2u.com).nsp" size="336.36 MiB" dateCreated="20221115" dateModified="20201227"/>
+    </folder>
+    <folder name="My Universe Fashion Boutique [0100F71011A0A000][v0]" size="790.82 MiB" fileCount="1" dateCreated="20250317" dateModified="20250317">
+      <file name="My Universe Fashion Boutique [0100F71011A0A000][v0].nsp" size="790.82 MiB" dateCreated="20221115" dateModified="20201105"/>
+    </folder>
+    <folder name="My Universe My Baby" size="3.18 GiB" fileCount="2" dateCreated="20221115" dateModified="20250317">
+      <file name="My Universe My Baby [0100E20011A06000][v0].nsp" size="1.07 GiB" dateCreated="20221115" dateModified="20200929"/>
+      <file name="My Universe My Baby [0100E20011A06800][v196608].nsp" size="2.11 GiB" dateCreated="20221115" dateModified="20201217"/>
     </folder>
     <folder name="MySims (NSP)(eShop)" size="2.84 GiB" fileCount="2" dateCreated="20241227" dateModified="20241227">
       <file name="MySims [010040601FFDE000][v0][JP].nsp" size="2.73 GiB" dateCreated="20241227" dateModified="20241121"/>
@@ -5970,6 +5968,9 @@
       <file name="Nickelodeon All-Star Brawl 2 [DLC The Quickster Costume] [010010701AFB3002][v0].nsp" size="121.20 KiB" dateCreated="20241125" dateModified="20240817"/>
       <file name="Nickelodeon All-Star Brawl 2 [DLC Zuko Brawl Pack] [010010701AFB3005][v0].nsp" size="121.20 KiB" dateCreated="20241125" dateModified="20240817"/>
     </folder>
+    <folder name="Nickelodeon Kart Racers" size="518.22 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
+      <file name="Nickelodeon_Kart_Racers.nsp" size="518.22 MiB" dateCreated="20200715" dateModified="20181104"/>
+    </folder>
     <folder name="Nickelodeon Kart Racers 2 Grand Prix [0100EBC00FE14000]+[v1.0.3]" size="2.06 GiB" fileCount="1" dateCreated="20240301" dateModified="20240301">
       <file name="Nickelodeon Kart Racers 2 Grand Prix [0100EBC00FE14000]+[v1.0.3].xci" size="2.06 GiB" dateCreated="20240229" dateModified="20201030"/>
     </folder>
@@ -5977,9 +5978,6 @@
       <file name="Nickelodeon Kart Racers 3 Slime Speedway [01003BA01575E000][v0][US](nsw2u.in).nsp" size="5.16 GiB" dateCreated="20240229" dateModified="20221014"/>
       <file name="Nickelodeon Kart Racers 3 Slime Speedway [01003BA01575E800][v65536][US](nsw2u.in).nsp" size="624.38 MiB" dateCreated="20240229" dateModified="20221014"/>
       <file name="Nickelodeon Kart Racers 3 Slime Speedway [Turbo Pack DLC][01003BA01575F001 ][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20240229" dateModified="20221014"/>
-    </folder>
-    <folder name="Nickelodeon_Kart_Racers" size="518.22 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="Nickelodeon_Kart_Racers.nsp" size="518.22 MiB" dateCreated="20200715" dateModified="20181104"/>
     </folder>
     <folder name="Nidhogg 2[0100C8700B0B6000][US][v0]" size="626.90 MiB" fileCount="1" dateCreated="20240925" dateModified="20240925">
       <file name="Nidhogg 2[0100C8700B0B6000][US][v0].nsp" size="626.90 MiB" dateCreated="20240925" dateModified="20210423"/>
@@ -6362,7 +6360,7 @@
       <file name="Paper Mario The Origami King[0100A3900C3E2000][US][v0].nsp" size="6.46 GiB" dateCreated="20210924" dateModified="20200807"/>
       <file name="Paper Mario The Origami King[0100A3900C3E2800][US][v65536][CR-19].nsp" size="29.10 MiB" dateCreated="20210924" dateModified="20200807"/>
     </folder>
-    <folder name="Paper Mario_ The Thousand-Year Door (XCI)" size="5.44 GiB" fileCount="1" dateCreated="20240522" dateModified="20240522">
+    <folder name="Paper Mario The Thousand-Year Door (XCI)" size="5.44 GiB" fileCount="1" dateCreated="20240522" dateModified="20240522">
       <file name="Paper Mario_ The Thousand-Year Door v0 (0100ECD018EBE000)[FW 15.0.0].xci" size="5.44 GiB" dateCreated="20240522" dateModified="20240522"/>
     </folder>
     <folder name="Paradigm Paradox [0100DC70174E0000][v0][US](nsw2u.com)" size="5.67 GiB" fileCount="1" dateCreated="20240120" dateModified="20240120">
@@ -6497,7 +6495,7 @@
       <file name="Pikuniku [010097D006DEA000][v0](nsw2u.com).nsp" size="281.52 MiB" dateCreated="20231223" dateModified="20210105"/>
       <file name="Pikuniku [010097D006DEA800][v196608](nsw2u.com).nsp" size="190.36 MiB" dateCreated="20231223" dateModified="20210106"/>
     </folder>
-    <folder name="Pillars_of_Eternity_Complete_Edition__0100D6200E130000__v0_switch-xci.com" size="29.37 GiB" fileCount="2" dateCreated="20230402" dateModified="20230402">
+    <folder name="Pillars of Eternity Complete Edition" size="29.37 GiB" fileCount="2" dateCreated="20230402" dateModified="20230402">
       <file name="Pillars of Eternity Complete Edition [0100D6200E130800][v393216](nsw2u).nsp" size="13.57 GiB" dateCreated="20230402" dateModified="20210710"/>
       <file name="Pillars_of_Eternity_Complete_Edition__0100D6200E130000__v0_switch-xci.com.nsp" size="15.81 GiB" dateCreated="20230331" dateModified="20230331"/>
     </folder>
@@ -7674,6 +7672,9 @@
       <file name="Spirit Hunter  Death Mark II [0100C5E01BB2C000][v0][US](nsw2u.com).nsp" size="2.69 GiB" dateCreated="20240223" dateModified="20240216"/>
       <file name="Spirit Hunter  Death Mark II [0100C5E01BB2C800][v131072][US](nsw2u.com).nsp" size="78.62 MiB" dateCreated="20240223" dateModified="20240216"/>
     </folder>
+    <folder name="Spirit Hunter NG_V1.0.1_Eur_switch-xci.com" size="1.08 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
+      <file name="Spirit_Hunter_NG_V1.0.1_Eur_switch-xci.com.xci" size="1.08 GiB" dateCreated="20220928" dateModified="20220928"/>
+    </folder>
     <folder name="Spirit Hunters Infinite Horde [01009DF019B18000][v0][US](nsw2u.com)" size="1.01 GiB" fileCount="2" dateCreated="20231217" dateModified="20231217">
       <file name="Spirit Hunters Infinite Horde [01009DF019B18000][v0][US](nsw2u.com).nsp" size="894.12 MiB" dateCreated="20231217" dateModified="20230720"/>
       <file name="Spirit Hunters Infinite Horde [01009DF019B18800][v196608][1.1].nsp" size="141.98 MiB" dateCreated="20231217" dateModified="20230925"/>
@@ -7685,9 +7686,6 @@
     <folder name="Spirittea" size="828.58 MiB" fileCount="2" dateCreated="20240330" dateModified="20240330">
       <file name="Spirittea [0100AF9017F8E000][v0][US](nsw2u.com).nsp" size="442.75 MiB" dateCreated="20240330" dateModified="20231114"/>
       <file name="Spirittea [0100AF9017F8E800][v262144][US](nsw2u.com).nsp" size="385.83 MiB" dateCreated="20240330" dateModified="20240126"/>
-    </folder>
-    <folder name="Spirit_Hunter_NG_V1.0.1_Eur_switch-xci.com" size="1.08 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="Spirit_Hunter_NG_V1.0.1_Eur_switch-xci.com.xci" size="1.08 GiB" dateCreated="20220928" dateModified="20220928"/>
     </folder>
     <folder name="Splatoon 2 [0100F8F0000A2000][v5.3.1+7DLC](EU)" size="8.11 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Splatoon 2 [0100F8F0000A2000][v5.3.1+7DLC](EU).xci" size="8.11 GiB" dateCreated="20211113" dateModified="20201028"/>
@@ -7825,14 +7823,14 @@
     <folder name="STEINS GATE 0[010037700E9B8000][US][v0]" size="3.84 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="STEINS GATE 0[010037700E9B8000][US][v0].nsp" size="3.84 GiB" dateCreated="20231217" dateModified="20191211"/>
     </folder>
+    <folder name="STEINS GATE Divergence Assorted JPN_NSW-HR" size="14.88 GiB" fileCount="1" dateCreated="20231217" dateModified="20240910">
+      <file name="Steins_Gate_Divergence_Assorted_JPN_NSW-HR hr-asb4a.xci" size="14.88 GiB" dateCreated="20240909" dateModified="20190320"/>
+    </folder>
     <folder name="STEINS GATE My Darling's Embrace[0100CB400E9BC000][v0]Switch-xci.com" size="2.84 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="STEINS GATE My Darling's Embrace[0100CB400E9BC000][v0]Switch-xci.com.nsp" size="2.84 GiB" dateCreated="20231217" dateModified="20231217"/>
     </folder>
     <folder name="STEINS;GATE ELITE[010040000C596000][GB][v0]" size="7.06 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="STEINS;GATE ELITE[010040000C596000][GB][v0].nsp" size="7.06 GiB" dateCreated="20210220" dateModified="20200404"/>
-    </folder>
-    <folder name="Steins_Gate_Divergence_Assorted_JPN_NSW-HR" size="14.88 GiB" fileCount="1" dateCreated="20231217" dateModified="20240910">
-      <file name="Steins_Gate_Divergence_Assorted_JPN_NSW-HR hr-asb4a.xci" size="14.88 GiB" dateCreated="20240909" dateModified="20190320"/>
     </folder>
     <folder name="Steredenn Binary Stars" size="586.32 MiB" fileCount="1" dateCreated="20240115" dateModified="20240115">
       <file name="Steredenn Binary Stars [0100775004794000]+[v2.5.0] (nsw2u).xci" size="586.32 MiB" dateCreated="20240115" dateModified="20210418"/>
@@ -8247,7 +8245,7 @@
     <folder name="Supermarket Manager Simulator Empire 2024" size="776.17 MiB" fileCount="1" dateCreated="20241220" dateModified="20241220">
       <file name="Supermarket Manager Simulator Empire 2024 v1.0[0100ADB020386000][0][APP].nsp" size="776.17 MiB" dateCreated="20241220" dateModified="20241001"/>
     </folder>
-    <folder name="Surgeon.Simulator" size="1.13 GiB" fileCount="1" dateCreated="20240101" dateModified="20240101">
+    <folder name="Surgeon Simulator" size="1.13 GiB" fileCount="1" dateCreated="20240101" dateModified="20240101">
       <file name="Surgeon.Simulator.nsp" size="1.13 GiB" dateCreated="20240101" dateModified="20180917"/>
     </folder>
     <folder name="Surviving the Aftermath" size="2.51 GiB" fileCount="2" dateCreated="20231226" dateModified="20231226">
@@ -8455,9 +8453,6 @@
     <folder name="The Alliance Alive" size="5.20 GiB" fileCount="2" dateCreated="20230920" dateModified="20230920">
       <file name="The Alliance Alive HD Remastered[01003CF00DCFA800][US][v131072][CR-30].nsp" size="158.21 MiB" dateCreated="20230920" dateModified="20200402"/>
       <file name="The_Alliance_Alive_HD_Remastered__switch-xci.com__v0_.nsp" size="5.04 GiB" dateCreated="20230920" dateModified="20230920"/>
-    </folder>
-    <folder name="The Alliance Alive HD Remastered [Japan] [010083A00B2DA000]" size="5.04 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="The Alliance Alive HD Remastered [Japan] [010083A00B2DA000].nsp" size="5.04 GiB" dateCreated="20220512" dateModified="20191101"/>
     </folder>
     <folder name="The Battle Cats Unite" size="2.47 GiB" fileCount="5" dateCreated="20240612" dateModified="20240612">
       <file name="The Battle Cats Unite  [DLC][1001e50141bd00c](nsw2u.xyz).nsp" size="116.62 KiB" dateCreated="20230608" dateModified="20211211"/>
@@ -9270,6 +9265,10 @@
       <file name="TUNIC [0100DA801624E000][v0][US](nsw2u.in).nsp" size="2.79 GiB" dateCreated="20221227" dateModified="20220928"/>
       <file name="TUNIC [0100DA801624E800][v65536][US](nsw2u.in).nsp" size="124.81 MiB" dateCreated="20221227" dateModified="20220928"/>
     </folder>
+    <folder name="Turbo Overkill [0100D1A01D7BA000]" size="3.90 GiB" fileCount="2" dateCreated="20250317" dateModified="20250317">
+      <file name="Turbo Overkill [BASE][0100D1A01D7BA000][v0].nsz" size="3.40 GiB" dateCreated="20250317" dateModified="20250317"/>
+      <file name="Turbo Overkill [UPDATE][0100D1A01D7BA800][v65536].nsz" size="509.75 MiB" dateCreated="20250317" dateModified="20250317"/>
+    </folder>
     <folder name="Turnip Boy Commits Tax Evasion [01008DF012A7A000][v0].nsp" size="565.04 MiB" fileCount="2" dateCreated="20240813" dateModified="20240813">
       <file name="Turnip Boy Commits Tax Evasion [01008DF012A7A000][v0](nsw2u).nsp" size="253.48 MiB" dateCreated="20240813" dateModified="20210425"/>
       <file name="Turnip Boy Commits Tax Evasion [01008DF012A7A800][v196608][US](nsw2u.in).nsp" size="311.56 MiB" dateCreated="20240813" dateModified="20220923"/>
@@ -9343,15 +9342,15 @@
     <folder name="Undead Battle Royale [010033E014E3E000][v0][US](nsw2u)" size="500.69 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Undead Battle Royale [010033E014E3E000][v0][US](nsw2u).nsp" size="500.69 MiB" dateCreated="20230224" dateModified="20210822"/>
     </folder>
+    <folder name="UNDER NIGHT IN-BIRTH Exe Late" size="3.26 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
+      <file name="UNDER_NIGHT_IN-BIRTH_Exe_Late_cl-r_USA__010038C00EC34000__v0___1_DLC_Switch-xci.com.xci" size="3.26 GiB" dateCreated="20220928" dateModified="20220928"/>
+    </folder>
     <folder name="UnderMine [01000B3012F3A000][v0]_patched.xci" size="1.11 GiB" fileCount="2" dateCreated="20240813" dateModified="20240813">
       <file name="UnderMine [01000B3012F3A000][v0](nsw2u)_patched.xci" size="671.37 MiB" dateCreated="20240813" dateModified="20210215"/>
       <file name="UnderMine [01000B3012F3A800][US][v131072](nsw2u).nsp" size="462.18 MiB" dateCreated="20240813" dateModified="20210808"/>
     </folder>
     <folder name="Undertale [010080B00AD66000][v0]" size="172.25 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Undertale [010080B00AD66000][v0].nsp" size="172.25 MiB" dateCreated="20200909" dateModified="20200223"/>
-    </folder>
-    <folder name="UNDER_NIGHT_IN-BIRTH_Exe_Late_cl-r_USA__010038C00EC34000__v0___1_DLC_Switch-xci.com" size="3.26 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="UNDER_NIGHT_IN-BIRTH_Exe_Late_cl-r_USA__010038C00EC34000__v0___1_DLC_Switch-xci.com.xci" size="3.26 GiB" dateCreated="20220928" dateModified="20220928"/>
     </folder>
     <folder name="UnExplored - Unlocked Edition" size="202.29 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="UnExplored - Unlocked Edition.nsp" size="202.29 MiB" dateCreated="20180915" dateModified="20180915"/>
@@ -9523,9 +9522,6 @@
     </folder>
     <folder name="Vostok Inc" size="262.38 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Vostok Inc..nsp" size="262.38 MiB" dateCreated="20190921" dateModified="20180728"/>
-    </folder>
-    <folder name="Völgarr the Viking" size="144.08 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="Völgarr the Viking.nsp" size="144.08 MiB" dateCreated="20190921" dateModified="20180728"/>
     </folder>
     <folder name="War Tech Fighters [010049500DE56000][v0]" size="4.04 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="War Tech Fighters [010049500DE56000][v0].nsp" size="4.04 GiB" dateCreated="20210529" dateModified="20190629"/>
@@ -9880,6 +9876,9 @@
       <file name="Xenoblade Chronicles Definitive Edition [0100FF500E34A000][v0].nsp" size="13.66 GiB" dateCreated="20231114" dateModified="20200525"/>
       <file name="Xenoblade Chronicles Definitive Edition [0100FF500E34A800][v196608].nsp" size="49.98 MiB" dateCreated="20231114" dateModified="20200709"/>
     </folder>
+    <folder name="Xenoblade Chronicles X Definitive Edition (XCI)" size="13.86 GiB" fileCount="1" dateCreated="20250316" dateModified="20250316">
+      <file name="Xenoblade Chronicles X Definitive Edition [0100453019AA8000].xci" size="13.86 GiB" dateCreated="20250316" dateModified="20250315"/>
+    </folder>
     <folder name="Xenon Racer V1.0.6 Eur Switch-xci.com" size="6.70 GiB" fileCount="1" dateCreated="20240915" dateModified="20240915">
       <file name="Xenon Racer V1.0.6 Eur Switch-xci.com.xci" size="6.70 GiB" dateCreated="20240915" dateModified="20240915"/>
     </folder>
@@ -9915,10 +9914,6 @@
       <file name="Youkai uotchi 4++ [DLC-8] [010086C00AF7D00B][v65536].nsp" size="149.94 KiB" dateCreated="20220119" dateModified="20200912"/>
       <file name="Youkai uotchi 4++ [DLC-9] [010086C00AF7D00C][v131072].nsp" size="149.94 KiB" dateCreated="20220119" dateModified="20200912"/>
     </folder>
-    <folder name="Yoga Master" size="719.15 MiB" fileCount="2" dateCreated="20200319" dateModified="20200330">
-      <file name="YOGA MASTER [Meditation Music Pack 1][01001B6010D59001] DLC.nsz" size="24.76 MiB" dateCreated="20200703" dateModified="20200318"/>
-      <file name="Yoga Master.nsz" size="694.39 MiB" dateCreated="20200703" dateModified="20200318"/>
-    </folder>
     <folder name="Yoga Master[01001B6010D58000][US][v0]" size="1.30 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Yoga Master[01001B6010D58000][US][v0].nsp" size="1.30 GiB" dateCreated="20210727" dateModified="20200314"/>
     </folder>
@@ -9939,7 +9934,7 @@
     <folder name="Yonder - The Cloud Catcher Chronicles (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)" size="1.86 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Yonder - The Cloud Catcher Chronicles (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).xci" size="1.86 GiB" dateCreated="20210607" dateModified="19961224"/>
     </folder>
-    <folder name="Yono_and_the_Celestial_Elephants" size="1.13 GiB" fileCount="2" dateCreated="20211003" dateModified="20211003">
+    <folder name="Yono and the Celestial Elephants" size="1.13 GiB" fileCount="2" dateCreated="20211003" dateModified="20211003">
       <file name="Yono_and_the_Celestial_Elephants__0100BE50042F6000__v0_Switch-xci.com.nsp" size="1.01 GiB" dateCreated="20211002" dateModified="20211002"/>
       <file name="Yono_and_the_Celestial_Elephants__0100BE50042F6800__v65536_Switch-xci.com.nsp" size="126.33 MiB" dateCreated="20211002" dateModified="20211002"/>
     </folder>
@@ -10050,5 +10045,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2128" totalFiles="5792" totalSize="9296.35 GiB"/>
+  <summary totalFolders="2129" totalFiles="5785" totalSize="9294.99 GiB"/>
 </root>
