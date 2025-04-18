@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.19 TiB" fileCount="5889" dateCreated="20210923" dateModified="20250415">
+  <folder name="NSP 2021" size="9.19 TiB" fileCount="5889" dateCreated="20210923" dateModified="20250418">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -5932,14 +5932,14 @@
       <file name="NBA 2K24 Kobe Bryant Edition [010006501A8D8800][v65536][US](nsw2u.com).nsp" size="50.35 GiB" dateCreated="20230912" dateModified="20230909"/>
       <file name="NBA 2K24 [010006501A8D8000][v0][US](nsw2u.com).xci" size="7.44 GiB" dateCreated="20230912" dateModified="20230909"/>
     </folder>
-    <folder name="NBA 2K25 [0100DFF01ED44000][v0][US].nsp" size="58.04 GiB" fileCount="2" dateCreated="20240907" dateModified="20241230">
+    <folder name="NBA 2K25 [0100DFF01ED44000]" size="58.95 GiB" fileCount="2" dateCreated="20240907" dateModified="20250418">
+      <file name="NBA 2K25 108 [0100DFF01ED44800][v524288][UPD].nsp" size="56.56 GiB" dateCreated="20250418" dateModified="20250415"/>
       <file name="NBA 2K25 [0100DFF01ED44000][v0][US](nsw2u.com).nsp" size="2.40 GiB" dateCreated="20240910" dateModified="20240907"/>
-      <file name="NBA 2K25 [0100DFF01ED44800][v327680][US](nsw2u.com).nsp" size="55.64 GiB" dateCreated="20241230" dateModified="20241128"/>
     </folder>
     <folder name="NBA Playgrounds" size="7.11 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="NBA Playgrounds.nsp" size="7.11 GiB" dateCreated="20190319" dateModified="20180727"/>
     </folder>
-    <folder name="Necrobarista [0100E64015370000]+[v1.0.6]_patched.xci" size="3.37 GiB" fileCount="1" dateCreated="20240819" dateModified="20240819">
+    <folder name="Necrobarista [0100E64015370000]" size="3.37 GiB" fileCount="1" dateCreated="20240819" dateModified="20240819">
       <file name="Necrobarista [0100E64015370000]+[v1.0.6](nsw2u)_patched.xci" size="3.37 GiB" dateCreated="20240819" dateModified="20210812"/>
     </folder>
     <folder name="Need For Speed Hot Pursuit Remastered[010029B0118E8000][US][v0]" size="6.88 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
@@ -10207,5 +10207,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2158" totalFiles="5889" totalSize="9414.00 GiB"/>
+  <summary totalFolders="2158" totalFiles="5889" totalSize="9414.92 GiB"/>
 </root>
