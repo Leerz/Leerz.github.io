@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.19 TiB" fileCount="5891" dateCreated="20210923" dateModified="20250430">
+  <folder name="NSP 2021" size="9.19 TiB" fileCount="5889" dateCreated="20210923" dateModified="20250504">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -1645,9 +1645,6 @@
     <folder name="Chicory A Colorful Tale" size="1.48 GiB" fileCount="2" dateCreated="20220805" dateModified="20220805">
       <file name="Chicory A Colorful Tale [0100DEC01622A000][v0](nsw2u.xyz).nsp" size="1.41 GiB" dateCreated="20220802" dateModified="20211217"/>
       <file name="Chicory A Colorful Tale [0100DEC01622A800][v65536](nsw2u.xyz).nsp" size="74.23 MiB" dateCreated="20220802" dateModified="20211217"/>
-    </folder>
-    <folder name="Child of Light" size="2.15 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="Child of Light.nsp" size="2.15 GiB" dateCreated="20190317" dateModified="20190317"/>
     </folder>
     <folder name="Child of Light Ultimate Edition + Valiant Hearts The Great War" size="3.53 GiB" fileCount="1" dateCreated="20240717" dateModified="20240717">
       <file name="Child of Light Ultimate Edition + Valiant Hearts The Great War [01006C70146A2000][v0](nsw2u).nsp" size="3.53 GiB" dateCreated="20240717" dateModified="20210826"/>
@@ -4500,9 +4497,6 @@
     <folder name="Knockout Home Fitness" size="1.04 GiB" fileCount="2" dateCreated="20211003" dateModified="20211003">
       <file name="Knockout Home Fitness [0100A1B0149E4000][v0][US](nsw2u.xyz).nsp" size="934.50 MiB" dateCreated="20211002" dateModified="20211002"/>
       <file name="Knockout Home Fitness [0100A1B0149E4800][v131072][US](nsw2u).nsp" size="132.74 MiB" dateCreated="20211002" dateModified="20210904"/>
-    </folder>
-    <folder name="KOI" size="452.53 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="KOI.nsp" size="452.53 MiB" dateCreated="20190921" dateModified="20180728"/>
     </folder>
     <folder name="Koi DX" size="452.45 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Koi DX.nsp" size="452.45 MiB" dateCreated="20190921" dateModified="20180727"/>
@@ -10293,5 +10287,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2200" totalFiles="5891" totalSize="9410.16 GiB"/>
+  <summary totalFolders="2198" totalFiles="5889" totalSize="9407.57 GiB"/>
 </root>
