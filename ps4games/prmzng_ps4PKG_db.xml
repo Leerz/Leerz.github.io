@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="PS4_PKG" size="9.88 TiB" fileCount="1630" dateCreated="20241229" dateModified="20250108">
+  <folder name="PS4_PKG" size="10.07 TiB" fileCount="1640" dateCreated="20241229" dateModified="20250428">
     <folder name="7days to die" size="1.58 GiB" fileCount="1" dateCreated="20250102" dateModified="20250102">
       <file name="7days to die.pkg" size="1.58 GiB" dateCreated="20180307" dateModified="20180204"/>
     </folder>
@@ -269,7 +269,7 @@
       <file name="UP0001-CUSA18522_00-ULCQUEST00000001-A0000-V0100-CyB1K.pkg" size="1.12 MiB" dateCreated="20221226" dateModified="20220721"/>
       <file name="UP0001-CUSA18522_00-ULCQUEST00000002-A0000-V0100-CyB1K.pkg" size="1.12 MiB" dateCreated="20221226" dateModified="20220721"/>
     </folder>
-    <folder name="Assetto Corsa Competizione" size="18.59 GiB" fileCount="2" dateCreated="20230130" dateModified="20230130">
+    <folder name="Assetto Corsa Competizione" size="18.59 GiB" fileCount="2" dateCreated="20230130" dateModified="20250202">
       <file name="Assetto Corsa Competizione EP4040-CUSA17266_00-ACCOMP0000000000-A0112-V0100-9.00-CyB1K.pkg" size="9.59 GiB" dateCreated="20230130" dateModified="20230130"/>
       <file name="Assetto Corsa Competizione PS4-DUPLEX.pkg" size="8.99 GiB" dateCreated="20230130" dateModified="20230130"/>
     </folder>
@@ -312,6 +312,9 @@
     </folder>
     <folder name="Batman Return to ARKHAMCITYEP1018-CUSA02000_00-HD0000-A0100-V0102" size="34.82 GiB" fileCount="1" dateCreated="20250102" dateModified="20250102">
       <file name="Batman Return to ARKHAMCITYEP1018-CUSA02000_00-HD0000-A0100-V0102.pkg" size="34.82 GiB" dateCreated="20200819" dateModified="20200819"/>
+    </folder>
+    <folder name="Batman.Arkham.Knight" size="45.61 GiB" fileCount="1" dateCreated="20250428" dateModified="20250428">
+      <file name="Batman.Arkham.Knight.PS4-DUPLEX.pkg" size="45.61 GiB" dateCreated="20220618" dateModified="20180221"/>
     </folder>
     <folder name="battlefield 1 UP0006-CUSA02429_00-BATTLEFIELD01000-A0100-V0101" size="38.96 GiB" fileCount="1" dateCreated="20250102" dateModified="20250102">
       <file name="battlefield 1 UP0006-CUSA02429_00-BATTLEFIELD01000-A0100-V0101 .pkg" size="38.96 GiB" dateCreated="20180904" dateModified="20180904"/>
@@ -459,7 +462,7 @@
       <file name="EP0002-CUSA34029_00-COREGAME00000001-A0100-V0100-Fugazi-CyB1K (Game-2u.com).pkg" size="25.31 MiB" dateCreated="20221212" dateModified="20221209"/>
       <file name="EP0002-CUSA34029_00-COREGAME00000001-A0108-V0100-Fugazi-CyB1K.pkg" size="49.36 GiB" dateCreated="20240119" dateModified="20240119"/>
     </folder>
-    <folder name="Call of Duty Modern Warfare iii" size="79.29 GiB" fileCount="11" dateCreated="20240331" dateModified="20240331">
+    <folder name="Call of Duty Modern Warfare iii" size="79.29 GiB" fileCount="11" dateCreated="20240331" dateModified="20250224">
       <file name="Call.of.Duty.Modern.Warfare.3.CUSA23827.Campaign.Pack.1-CyB1K.pkg" size="9.80 GiB" dateCreated="20240331" dateModified="20240331"/>
       <file name="Call.of.Duty.Modern.Warfare.3.CUSA23827.Campaign.Pack.2-CyB1K.pkg" size="9.28 GiB" dateCreated="20240331" dateModified="20240331"/>
       <file name="Call.of.Duty.Modern.Warfare.3.CUSA23827.Multiplayer.Pack-CyB1K.pkg" size="11.74 GiB" dateCreated="20240331" dateModified="20240331"/>
@@ -2445,8 +2448,23 @@
       <file name="Wo.Long.Fallen.Dynasty.CUSA36986.Upheaval.in.Jingxiang-Arczi-CyB1K.pkg" size="1.00 MiB" dateCreated="20240901" dateModified="20231212"/>
       <file name="Wo.Long.Fallen.Dynasty.CUSA36986.Zhuque.Armor-Arczi-CyB1K.pkg" size="1.00 MiB" dateCreated="20240901" dateModified="20230304"/>
     </folder>
+    <folder name="Wolfenstein II The New Colossus CUSA07384" size="64.67 GiB" fileCount="6" dateCreated="20250203" dateModified="20250203">
+      <file name="CUSA07384_WOLFENSTEIN_II_TNC_FREEDOM_CHRONICLES_EP.1_DLC_FXD.pkg" size="3.33 GiB" dateCreated="20250203" dateModified="20190831"/>
+      <file name="CUSA07384_WOLFENSTEIN_II_TNC_FREEDOM_CHRONICLES_EP.2_DLC_FXD.pkg" size="3.36 GiB" dateCreated="20250203" dateModified="20190831"/>
+      <file name="CUSA07384_WOLFENSTEIN_II_TNC_FREEDOM_CHRONICLES_EP.3_DLC_FXD.pkg" size="3.25 GiB" dateCreated="20250203" dateModified="20190831"/>
+      <file name="CUSA07384_WOLFENSTEIN_II_TNC_FREEDOM_CHRONICLES_EP.ZERO_DLC_FXD.pkg" size="1.56 MiB" dateCreated="20250203" dateModified="20190831"/>
+      <file name="[SPSX]-Wolfenstein.2.The.New.Colossus-CUSA07384-USA-Game-PS4.pkg" size="44.60 GiB" dateCreated="20250203" dateModified="20250203"/>
+      <file name="[SPSX]-Wolfenstein.2.The.New.Colossus-CUSA07384-USA-Update-v1.07 -PS4.pkg" size="10.13 GiB" dateCreated="20250203" dateModified="20250203"/>
+    </folder>
+    <folder name="Wolfenstein The New Order" size="42.08 GiB" fileCount="1" dateCreated="20250203" dateModified="20250203">
+      <file name="Wolfenstein The New Order WTNO_00320-[DLPSGAME.COM].pkg" size="42.08 GiB" dateCreated="20250203" dateModified="20180303"/>
+    </folder>
     <folder name="Wolfenstein The Old Blood" size="35.41 GiB" fileCount="1" dateCreated="20250102" dateModified="20250102">
       <file name="Wolfenstein The Old Blood.pkg" size="35.41 GiB" dateCreated="20180219" dateModified="20180123"/>
+    </folder>
+    <folder name="Wolfenstein Youngblood" size="40.42 GiB" fileCount="2" dateCreated="20250203" dateModified="20250203">
+      <file name="Wolfenstein.Youngblood.Update.v1.08-CUSA13084.pkg" size="7.22 GiB" dateCreated="20250203" dateModified="20220219"/>
+      <file name="Wolfenstein.Youngblood.v1.00-CUSA13084.pkg" size="33.20 GiB" dateCreated="20250203" dateModified="20220219"/>
     </folder>
     <folder name="World War Z Aftermath" size="32.17 GiB" fileCount="2" dateCreated="20220305" dateModified="20220305">
       <file name="[DLPSGAME.COM]-[ High Speed ] UP2746-CUSA14046_00-WWZTHEGAME201800-A0100-V0102.pkg" size="12.61 GiB" dateCreated="20220305" dateModified="20220305"/>
@@ -2504,5 +2522,5 @@
       <file name="Zombie Army Trilogy EP4529-CUSA01345_00-ZATRILOGY0000000-A0100-V0102 Zombie Trilogy.pkg" size="8.19 GiB" dateCreated="20180306" dateModified="20180306"/>
     </folder>
   </folder>
-  <summary totalFolders="436" totalFiles="1630" totalSize="10118.43 GiB"/>
+  <summary totalFolders="440" totalFiles="1640" totalSize="10311.22 GiB"/>
 </root>
