@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.19 TiB" fileCount="5889" dateCreated="20210923" dateModified="20250504">
+  <folder name="NSP 2021" size="9.26 TiB" fileCount="5922" dateCreated="20210923" dateModified="20250508">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -263,6 +263,9 @@
       <file name="Afterimage [010095E01A12A000][v0][US](nsw2u.com).nsp" size="1.79 GiB" dateCreated="20250407" dateModified="20230619"/>
       <file name="Afterimage [010095E01A12A800][v589824][US](nsw2u.com).nsp" size="437.69 MiB" dateCreated="20250407" dateModified="20240530"/>
     </folder>
+    <folder name="Afterlove EP v1.0.1" size="4.04 GiB" fileCount="1" dateCreated="20250505" dateModified="20250505">
+      <file name="Afterlove EP v1.0.1 [0100A80016A0C000][v0][APP].nsp" size="4.04 GiB" dateCreated="20250505" dateModified="20250312"/>
+    </folder>
     <folder name="Afterpulse" size="1.71 GiB" fileCount="1" dateCreated="20240123" dateModified="20240123">
       <file name="Afterpulse [01004D501213C000]+[v1.0.3][US](nsw2u)_patched.xci" size="1.71 GiB" dateCreated="20240123" dateModified="20210428"/>
     </folder>
@@ -300,6 +303,13 @@
     </folder>
     <folder name="AI THE SOMNIUM FILES [010089B00D09C000]" size="10.27 GiB" fileCount="1" dateCreated="20240819" dateModified="20240819">
       <file name="AI THE SOMNIUM FILES [010089B00D09C000+[v1.0.1](nsw2u.com).xci" size="10.27 GiB" dateCreated="20240819" dateModified="20210122"/>
+    </folder>
+    <folder name="Air Conflicts Collection" size="1.40 GiB" fileCount="1" dateCreated="20250505" dateModified="20250505">
+      <file name="Air Conflicts Collection (NSP)(Base Game).nsp" size="1.40 GiB" dateCreated="20250502" dateModified="20190801"/>
+    </folder>
+    <folder name="Air Conflicts Secret Wars" size="1.54 GiB" fileCount="2" dateCreated="20250505" dateModified="20250505">
+      <file name="Air Conflicts Secret Wars[0100B2B00C7D4000][US][v0].nsp" size="1.53 GiB" dateCreated="20250502" dateModified="20210514"/>
+      <file name="Air Conflicts Secret Wars[0100B2B00C7D4800][US][v65536].nsp" size="7.57 MiB" dateCreated="20250502" dateModified="20210514"/>
     </folder>
     <folder name="AirJet Fighter Sky Dominators Aerial Assault [01006FA01CDA4000]" size="3.91 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="AirJet Fighter Sky Dominators Aerial Assault [01006FA01CDA4000][v0][US](nsw2u.com).nsp" size="3.91 GiB" dateCreated="20231124" dateModified="20230930"/>
@@ -1586,6 +1596,9 @@
     </folder>
     <folder name="Catherine Full Body [USA][0100BF00112C0000]" size="13.96 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Catherine Full Body [USA][0100BF00112C0000].nsp" size="13.96 GiB" dateCreated="20210220" dateModified="20200707"/>
+    </folder>
+    <folder name="Cave of Illusions" size="1.29 GiB" fileCount="1" dateCreated="20250429" dateModified="20250505">
+      <file name="Cave of Illusions v1.0.0[0100D33022B6A000][0][APP].nsp" size="1.29 GiB" dateCreated="20250429" dateModified="20250426"/>
     </folder>
     <folder name="Cave Story Secret Santa" size="161.40 MiB" fileCount="2" dateCreated="20230918" dateModified="20230918">
       <file name="Cave Story's Secret Santa[0100310017088800][JP][v131072].nsp" size="57.68 MiB" dateCreated="20230918" dateModified="20211218"/>
@@ -3935,6 +3948,10 @@
       <file name="Hidden Shapes Animals + Lovely Cats [010019D0168D8800][v65536][US](nsw2u.in).nsp" size="71.26 MiB" dateCreated="20230430" dateModified="20220728"/>
       <file name="Hidden Shapes Black Skull + Old West [010017D0187D0000][v0][US](nsw2u.in).nsp" size="2.17 GiB" dateCreated="20230430" dateModified="20220828"/>
     </folder>
+    <folder name="High On Life (NSP)(eShop)" size="9.59 GiB" fileCount="2" dateCreated="20250508" dateModified="20250508">
+      <file name="High On Life [0100C1101EE5A000][v0].nsp" size="8.63 GiB" dateCreated="20250508" dateModified="20250507"/>
+      <file name="High On Life [0100C1101EE5A800][v131072][1.0.2].nsp" size="979.27 MiB" dateCreated="20250508" dateModified="20250507"/>
+    </folder>
     <folder name="Hiragana Pixel Party" size="194.91 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Hiragana Pixel Party.nsp" size="194.91 MiB" dateCreated="20190921" dateModified="20180727"/>
     </folder>
@@ -4926,6 +4943,10 @@
     </folder>
     <folder name="Lumo" size="3.13 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Lumo.nsp" size="3.13 GiB" dateCreated="20190921" dateModified="20180727"/>
+    </folder>
+    <folder name="Lunar Remastered Collection" size="8.49 GiB" fileCount="2" dateCreated="20250429" dateModified="20250505">
+      <file name="Lunar Remastered Collection [0100DCD01E9EE000].nsp" size="7.62 GiB" dateCreated="20250429" dateModified="20250419"/>
+      <file name="Lunar Remastered Collection [0100DCD01E9EE800][v131072][1.0.2].nsp" size="894.89 MiB" dateCreated="20250429" dateModified="20250419"/>
     </folder>
     <folder name="Made In Abyss" size="7.52 GiB" fileCount="2" dateCreated="20221212" dateModified="20221212">
       <file name="MADE IN ABYSS - BINARY STAR FALLING INTO DARKNESS [01006080117C2000][v0][US](nsw2u.in).nsp" size="5.88 GiB" dateCreated="20221212" dateModified="20220903"/>
@@ -6640,6 +6661,11 @@
       <file name="Phantom Brave The Lost Hero [01000AE01E316000][v0][US](nsw2u.com).xci" size="3.72 GiB" dateCreated="20250220" dateModified="20250129"/>
       <file name="Phantom Brave The Lost Hero [01000AE01E316800][v65536][US](nsw2u.com).nsp" size="768.47 MiB" dateCreated="20250220" dateModified="20250131"/>
     </folder>
+    <folder name="Phantom Breaker Battle Grounds Ultimate" size="2.02 GiB" fileCount="3" dateCreated="20250505" dateModified="20250505">
+      <file name="Phantom Breaker Battle Grounds Ultimate [010031101A490000].xci" size="1.86 GiB" dateCreated="20250505" dateModified="20250418"/>
+      <file name="Phantom Breaker Battle Grounds Ultimate [PBBGU Physical Launch Editio DLC][010031101A491001].nsp" size="121.20 KiB" dateCreated="20250505" dateModified="20250418"/>
+      <file name="Phantom Breaker Battlegrounds Ultimate v1.03[010031101A490800][196608][UPD].nsp" size="165.48 MiB" dateCreated="20250505" dateModified="20250414"/>
+    </folder>
     <folder name="Phantom Doctrine switch-xci.com" size="6.58 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Phantom Doctrine switch-xci.com.nsp" size="6.58 GiB" dateCreated="20211018" dateModified="20211018"/>
     </folder>
@@ -6712,6 +6738,10 @@
     <folder name="Pine" size="2.38 GiB" fileCount="2" dateCreated="20220627" dateModified="20230520">
       <file name="Pine v0 switch-xci.com.nsp" size="1.47 GiB" dateCreated="20230422" dateModified="20230422"/>
       <file name="Pine [01002BA00D662800][v327680](nsw2u).nsp" size="931.34 MiB" dateCreated="20220621" dateModified="20220621"/>
+    </folder>
+    <folder name="Pine A Story of Loss" size="1.72 GiB" fileCount="2" dateCreated="20250505" dateModified="20250505">
+      <file name="Pine A Story of Loss [0100CEA01A712000][v0][US](nsw2u.com).nsp" size="958.04 MiB" dateCreated="20250505" dateModified="20241214"/>
+      <file name="Pine A Story of Loss [0100CEA01A712800][v196608][US](nsw2u.com).nsp" size="804.09 MiB" dateCreated="20250505" dateModified="20250207"/>
     </folder>
     <folder name="Piofiore Episodio 1926 [0100EEA0174EC000][v0]" size="6.52 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Piofiore Episodio 1926 [0100EEA0174EC000][v0].nsp" size="6.52 GiB" dateCreated="20230617" dateModified="20220926"/>
@@ -6821,6 +6851,9 @@
     <folder name="Poppy Playtime Chapter 3" size="2.59 GiB" fileCount="2" dateCreated="20250415" dateModified="20250415">
       <file name="Poppy Playtime Chapter 3 [0100BD601EC3E000][v0][US](nsw2u.com).nsp" size="2.44 GiB" dateCreated="20250430" dateModified="20241108"/>
       <file name="Poppy Playtime Chapter 3 [0100BD601EC3E800][v65536][US](nsw2u.com).nsp" size="152.01 MiB" dateCreated="20250430" dateModified="20241108"/>
+    </folder>
+    <folder name="Poppy Playtime Triple Pack" size="12.53 GiB" fileCount="1" dateCreated="20250429" dateModified="20250505">
+      <file name="Poppy Playtime Triple Pack [0100C3801C786000].xci" size="12.53 GiB" dateCreated="20250429" dateModified="20250427"/>
     </folder>
     <folder name="Poppy Playtime꞉ Chapter 2" size="5.96 GiB" fileCount="2" dateCreated="20250415" dateModified="20250415">
       <file name="Poppy Playtime꞉ Chapter 2 [0100D3801E6CE000][v0].nsp" size="5.90 GiB" dateCreated="20250430" dateModified="20241111"/>
@@ -6949,6 +6982,10 @@
     <folder name="Prodeus" size="1.86 GiB" fileCount="1" dateCreated="20240115" dateModified="20240115">
       <file name="Prodeus [0100C3A017834800][v0][US](nsw2u.com).xci" size="1.86 GiB" dateCreated="20240115" dateModified="20230508"/>
     </folder>
+    <folder name="PROGRESS ORDERS" size="2.02 GiB" fileCount="2" dateCreated="20250429" dateModified="20250505">
+      <file name="PROGRESS ORDERS [01000F801EC5A000].xci" size="1.93 GiB" dateCreated="20250429" dateModified="20250410"/>
+      <file name="PROGRESS ORDERS [01000F801EC5A800][v65536].nsp" size="98.57 MiB" dateCreated="20250429" dateModified="20250410"/>
+    </folder>
     <folder name="Project Nightmares Case 36 Henrietta Kedward" size="1.63 GiB" fileCount="2" dateCreated="20240225" dateModified="20240225">
       <file name="Project Nightmares Case 36 Henrietta Kedward [0100736019D8E000][v0][US](nsw2u.com).nsp" size="1.40 GiB" dateCreated="20240225" dateModified="20230609"/>
       <file name="Project Nightmares Case 36 Henrietta Kedward [0100736019D8E800][v131072][US](nsw2u.com).nsp" size="242.94 MiB" dateCreated="20240225" dateModified="20230606"/>
@@ -6989,6 +7026,9 @@
     <folder name="Puzzle Bobble Everbubble" size="1.66 GiB" fileCount="2" dateCreated="20231209" dateModified="20231209">
       <file name="Puzzle Bobble Everybubble [010079E01A1E0000][v0][US].nsp" size="1.38 GiB" dateCreated="20231209" dateModified="20230818"/>
       <file name="Puzzle Bobble Everybubble [010079E01A1E0800][v65536][US].nsp" size="288.17 MiB" dateCreated="20231209" dateModified="20230818"/>
+    </folder>
+    <folder name="Puzzle Bobble2XBUST-A-MOVE2 Arcade Edition Puzzle Bobble" size="548.01 MiB" fileCount="1" dateCreated="20250507" dateModified="20250507">
+      <file name="Puzzle Bobble2XBUST-A-MOVE2 Arcade Edition.nsp" size="548.01 MiB" dateCreated="20250507" dateModified="20230202"/>
     </folder>
     <folder name="Puzzle Box Maker" size="350.82 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Puzzle Box Maker.nsp" size="350.82 MiB" dateCreated="20180725" dateModified="20180725"/>
@@ -7049,6 +7089,9 @@
     <folder name="Re ZERO" size="3.86 GiB" fileCount="2" dateCreated="20220727" dateModified="20220727">
       <file name="Re ZERO -Starting Life in Another World- The Prophecy of the Throne [0100D800117F4000][v0](nsw2u).nsp" size="3.10 GiB" dateCreated="20220726" dateModified="20210403"/>
       <file name="ReZERO -Starting Life in Another World- The Prophecy of the Throne  [0100D800117F4800][v131072](nsw2u).nsp" size="781.08 MiB" dateCreated="20220726" dateModified="20210404"/>
+    </folder>
+    <folder name="Real Boxing 2 Remastered" size="1.49 GiB" fileCount="1" dateCreated="20250505" dateModified="20250505">
+      <file name="Real Boxing 2 Remastered [01004160207C0000][v0][US](nsw2u.com).nsp" size="1.49 GiB" dateCreated="20250505" dateModified="20241202"/>
     </folder>
     <folder name="Rebel Galaxy Outlaw[0100CAA01084A000][US][v0]" size="11.45 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Rebel Galaxy Outlaw[0100CAA01084A000][US][v0].nsp" size="11.45 GiB" dateCreated="20210220" dateModified="20200924"/>
@@ -7679,6 +7722,12 @@
     <folder name="Sky Force Reloaded" size="676.94 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Sky Force Reloaded.nsp" size="676.94 MiB" dateCreated="20190921" dateModified="20180728"/>
     </folder>
+    <folder name="Sky Gamblers - Air Supremacy 2" size="5.49 GiB" fileCount="1" dateCreated="20250505" dateModified="20250505">
+      <file name="Sky Gamblers - Air Supremacy 2 [0100EF0016824000][v0](nsw2u.xyz).nsp" size="5.49 GiB" dateCreated="20250502" dateModified="20220324"/>
+    </folder>
+    <folder name="Sky Gamblers Storm Raiders 2" size="3.46 GiB" fileCount="1" dateCreated="20250505" dateModified="20250505">
+      <file name="Sky Gamblers Storm Raiders 2 [010068200E96E000][v0](nsw2u.com).nsp" size="3.46 GiB" dateCreated="20250502" dateModified="20250502"/>
+    </folder>
     <folder name="Slaughter The Lost Outpost" size="2.91 GiB" fileCount="1" dateCreated="20240123" dateModified="20240123">
       <file name="Slaughter The Lost Outpost [010072801D190000][v0][US](nsw2u.com).nsp" size="2.91 GiB" dateCreated="20240123" dateModified="20231111"/>
     </folder>
@@ -7964,6 +8013,13 @@
       <file name="STAR OCEAN THE SECOND STORY R [prism badge DLC][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20231111" dateModified="20231102"/>
       <file name="STAR OCEAN THE SECOND STORY R [set of recovery items DLC][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20231111" dateModified="20231102"/>
       <file name="STAR OCEAN THE SECOND STORY R [sunrise ring DLC][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20231111" dateModified="20231102"/>
+    </folder>
+    <folder name="Star Overdrive Deluxe" size="3.28 GiB" fileCount="5" dateCreated="20250505" dateModified="20250505">
+      <file name="Star Overdrive [010047E01EA24000][v0][US](nsw2u.com).nsp" size="2.50 GiB" dateCreated="20250505" dateModified="20250410"/>
+      <file name="Star Overdrive [010047E01EA24800][v393216].nsp" size="591.81 MiB" dateCreated="20250505" dateModified="20250501"/>
+      <file name="Star Overdrive [Star Overdrive Deluxe upgrade DLC][010047E01EA25002][v0][US](nsw2u.com).nsp" size="118.20 KiB" dateCreated="20250505" dateModified="20250410"/>
+      <file name="Star Overdrive [Star Overdrive Deluxe upgrade DLC][010047E01EA25003][v0][US](nsw2u.com).nsp" size="124.55 MiB" dateCreated="20250505" dateModified="20250410"/>
+      <file name="Star Overdrive [Star Overdrive Deluxe upgrade DLC][010047E01EA25004][v0][US](nsw2u.com).nsp" size="79.55 MiB" dateCreated="20250505" dateModified="20250410"/>
     </folder>
     <folder name="Star Trek Legends" size="2.49 GiB" fileCount="2" dateCreated="20250119" dateModified="20250119">
       <file name="Star Trek Legends v1.0.0[01003CC020BA6000][v0][APP].nsp" size="1.36 GiB" dateCreated="20250119" dateModified="20241225"/>
@@ -8694,9 +8750,14 @@
       <file name="The Battle of Polytopia [Elyrion] [0100AA3015C37005][v0][US](nsw2u.com).nsp" size="149.94 KiB" dateCreated="20231223" dateModified="20221021"/>
       <file name="The Battle of Polytopia [Polaris] [0100AA3015C37010][v0][US](nsw2u.com).nsp" size="149.94 KiB" dateCreated="20231223" dateModified="20221021"/>
     </folder>
-    <folder name="The Binding of Isaac" size="979.21 MiB" fileCount="2" dateCreated="20230723" dateModified="20230723">
+    <folder name="The Binding of Isaac Afterbirth+" size="566.96 MiB" fileCount="1" dateCreated="20250507" dateModified="20250507">
       <file name="The Binding of Isaac Afterbirth+.nsp" size="566.96 MiB" dateCreated="20190921" dateModified="20180728"/>
+    </folder>
+    <folder name="The Binding of Isaac Rebirth [01009BC00C38A000][v0]" size="412.25 MiB" fileCount="1" dateCreated="20250507" dateModified="20250507">
       <file name="The Binding of Isaac Rebirth [01009BC00C38A000][v0].nsp" size="412.25 MiB" dateCreated="20230607" dateModified="20230607"/>
+    </folder>
+    <folder name="The Binding of Isaac Repentance" size="1.86 GiB" fileCount="1" dateCreated="20230723" dateModified="20250507">
+      <file name="The Binding Of Isaac Repentance.xci" size="1.86 GiB" dateCreated="20250507" dateModified="20250507"/>
     </folder>
     <folder name="The Bunker" size="2.47 GiB" fileCount="2" dateCreated="20220802" dateModified="20220802">
       <file name="The Bunker [01001B40086E2000][v0].nsp" size="2.45 GiB" dateCreated="20220802" dateModified="20200418"/>
@@ -8846,6 +8907,11 @@
     <folder name="The House of the Dead Remake" size="3.43 GiB" fileCount="2" dateCreated="20220409" dateModified="20220409">
       <file name="The House of the Dead Remake [010088401495E000][v0][US](nsw2u.xyz).nsp" size="3.07 GiB" dateCreated="20220409" dateModified="20220408"/>
       <file name="The House of the Dead Remake [010088401495E800][v65536][US](nsw2u.xyz).nsp" size="368.43 MiB" dateCreated="20220409" dateModified="20220408"/>
+    </folder>
+    <folder name="The Hundred Line -Last Defense Academy" size="13.44 GiB" fileCount="3" dateCreated="20250505" dateModified="20250505">
+      <file name="The Hundred Line -Last Defense Academy- v1.0.1.nsp" size="12.58 GiB" dateCreated="20250505" dateModified="20250426"/>
+      <file name="The Hundred Line -Last Defense Academy- v1.0.3.nsp" size="786.81 MiB" dateCreated="20250505" dateModified="20250426"/>
+      <file name="The Hundred Line -Last Defense Academy.nsp" size="98.37 MiB" dateCreated="20250505" dateModified="20250426"/>
     </folder>
     <folder name="The Jackbox Party Pack" size="7.10 GiB" fileCount="7" dateCreated="20220805" dateModified="20220805">
       <file name="The Jackbox Party Pack 2 [010015d003ee4000][v0].nsp" size="674.05 MiB" dateCreated="20200714" dateModified="20200715"/>
@@ -9552,6 +9618,10 @@
       <file name="Ultra Street Fighter II The Final Challengers US [UPD].nsz" size="20.08 MiB" dateCreated="20200703" dateModified="20191108"/>
       <file name="Ultra Street Fighter II The Final Challengers US.nsz" size="1.71 GiB" dateCreated="20200703" dateModified="20191108"/>
     </folder>
+    <folder name="Ultrawings" size="2.04 GiB" fileCount="2" dateCreated="20250505" dateModified="20250505">
+      <file name="Ultrawings [0100DAF00B620000][v0]Switch-xci.com.nsp" size="1.53 GiB" dateCreated="20250502" dateModified="20200313"/>
+      <file name="Ultrawings [0100DAF00B620800][v131072] Switch-xci.com.nsp" size="514.58 MiB" dateCreated="20250502" dateModified="20200313"/>
+    </folder>
     <folder name="Umbraclaw (NSP)(eShop)" size="1.92 GiB" fileCount="2" dateCreated="20240919" dateModified="20240919">
       <file name="Umbraclaw [010088601BD34000].nsp" size="1.67 GiB" dateCreated="20240919" dateModified="20240530"/>
       <file name="Umbraclaw [010088601BD34800][v65536][US](nsw2u.com).nsp" size="258.38 MiB" dateCreated="20240919" dateModified="20240627"/>
@@ -9801,6 +9871,9 @@
     <folder name="Warm Snow [01009B901C67A000][v0][US].nsp" size="1.54 GiB" fileCount="2" dateCreated="20240107" dateModified="20240107">
       <file name="Warm Snow [01009B901C67A000][v0][US](nsw2u.com).nsp" size="1.29 GiB" dateCreated="20240107" dateModified="20231021"/>
       <file name="Warm Snow [01009B901C67A800][v131072][US](nsw2u.com).nsp" size="253.82 MiB" dateCreated="20240107" dateModified="20231124"/>
+    </folder>
+    <folder name="Warplanes WW2 Dogfight" size="396.25 MiB" fileCount="1" dateCreated="20250505" dateModified="20250505">
+      <file name="Warplanes WW2 Dogfight [010068E00D346000]+[v2.0.3].xci" size="396.25 MiB" dateCreated="20250502" dateModified="20201213"/>
     </folder>
     <folder name="WARRIORS Abyss" size="3.36 GiB" fileCount="3" dateCreated="20250216" dateModified="20250216">
       <file name="WARRIORS Abyss [01005AE0209A8000][v0][US].nsp" size="2.45 GiB" dateCreated="20250216" dateModified="20250215"/>
@@ -10287,5 +10360,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2198" totalFiles="5889" totalSize="9407.57 GiB"/>
+  <summary totalFolders="2218" totalFiles="5922" totalSize="9484.19 GiB"/>
 </root>
