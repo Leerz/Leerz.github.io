@@ -120,7 +120,7 @@
 <body>
     <div class="toolbar" id="toolbar">PremazingPH - Topics - Introduction and Basic Concepts > Welcome to PremazingPH</div>
     <div class="menu expanded" id="menu"></div>
-    <iframe id="content-frame" src="switchguides/welcome_premark.html"></iframe>
+    <iframe id="content-frame" src="welcome_premark.html"></iframe>
 
     <script>
         const topics = {
@@ -128,7 +128,6 @@
                 display: 'Introduction and Basic Concepts',
                 subtopics: [
                     { function: 'welcome_premark', display: 'Welcome to PremazingPH' },
-                    { function: 'cmtycbox', display: 'Community Chat' },
                     { function: 'jailbreak_overview', display: 'Overview of Jailbreaking' },
                     { function: 'risks_warnings', display: 'Risks and Safety Warnings' },
                     { function: 'setup_navigation', display: 'General Setup & Navigation' }
@@ -141,9 +140,9 @@
                     { function: 'file_types', display: 'Game File Types (XCI, NSP, NSZ)' },
                     { function: 'install_gamesPC', display: 'Installing Games' },
                     { function: 'downloadfiles', display: 'Downloading Games' },
-                    { function: 'downloadergrin', display: 'Downloader :D' },
                     { function: 'install_gamesOTH', display: 'Installing Games (Other Methods)' },
                     { function: 'tinfoil', display: 'Installing Games over Wifi - Tinfoil' },
+                    { function: 'ultradbi', display: 'Installing Games over Wifi - Ultra DBI' },
                     { function: 'save_mgmt', display: 'Save Data Management' }
                 ]
             },
@@ -199,7 +198,7 @@
                 // Add click event to submenu
                 subItem.addEventListener('click', (event) => {
                     event.stopPropagation();
-                    frame.src = `switchguides/${subtopic.function}.html`;
+                    frame.src = `${subtopic.function}.html`;
 
                     // Hide menu and update toolbar text
                     menu.classList.remove('expanded');
