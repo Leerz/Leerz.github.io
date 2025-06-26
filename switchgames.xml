@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.45 TiB" fileCount="6083" dateCreated="20210923" dateModified="20250614">
+  <folder name="NSP 2021" size="9.48 TiB" fileCount="6115" dateCreated="20210923" dateModified="20250626">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -1275,6 +1275,9 @@
       <file name="Bluey  The Videogame [01008C2019598800][v327680][US](nsw2u.com).nsp" size="107.08 MiB" dateCreated="20240226" dateModified="20240223"/>
       <file name="Bluey The Videogame [01008C2019598000][v0][US](nsw2u.com).xci" size="1.86 GiB" dateCreated="20240226" dateModified="20231118"/>
     </folder>
+    <folder name="Bodycam Stray Kitty" size="323.60 MiB" fileCount="1" dateCreated="20250615" dateModified="20250615">
+      <file name="Bodycam Stray Kitty [0100F9502369E000].nsp" size="323.60 MiB" dateCreated="20250615" dateModified="20250614"/>
+    </folder>
     <folder name="Bomb Chicken" size="235.69 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Bomb Chicken.nsp" size="235.69 MiB" dateCreated="20190921" dateModified="20180726"/>
     </folder>
@@ -1726,6 +1729,10 @@
       <file name="Citizen Sleeper [0100A650179CA000][v0][US](nsw2u.xyz).nsp" size="822.75 MiB" dateCreated="20220916" dateModified="20220506"/>
       <file name="Citizen Sleeper [0100A650179CA800][v131072][US](nsw2u.xyz).nsp" size="325.92 MiB" dateCreated="20220916" dateModified="20220506"/>
     </folder>
+    <folder name="Citizen Sleeper 2 Starward Vector" size="782.95 MiB" fileCount="2" dateCreated="20250615" dateModified="20250615">
+      <file name="Citizen Sleeper 2 Starward Vector [0100B4001F81C000][v0][US](nsw2u.com).nsp" size="597.63 MiB" dateCreated="20250615" dateModified="20250201"/>
+      <file name="Citizen Sleeper 2 Starward Vector [0100B4001F81C800][v393216][US](nsw2u.com).nsp" size="185.31 MiB" dateCreated="20250615" dateModified="20250301"/>
+    </folder>
     <folder name="CLANNAD 0100A3A00CC7E000__v0_switch-xci.com" size="5.41 GiB" fileCount="2" dateCreated="20230701" dateModified="20230701">
       <file name="CLANNAD [0100A3A00CC7E800][v458752].nsp" size="40.81 MiB" dateCreated="20230630" dateModified="20200314"/>
       <file name="CLANNAD__0100A3A00CC7E000__v0_switch-xci.com.nsp" size="5.37 GiB" dateCreated="20230701" dateModified="20200107"/>
@@ -1825,6 +1832,27 @@
       <file name="Contra Rogue Corps [DLC][0100F2600D711006][v0].nsp" size="121.20 KiB" dateCreated="20191122" dateModified="20190918"/>
       <file name="Contra Rogue Corps [UPD][0100F2600D710800][v1.0.1].nsp" size="16.09 MiB" dateCreated="20191122" dateModified="20190919"/>
     </folder>
+    <folder name="Cook Serve Delicious 2" size="1.02 GiB" fileCount="2" dateCreated="20250615" dateModified="20250615">
+      <file name="Cook Serve Delicious 2 [0100FD800D594000][v0].nsp" size="992.44 MiB" dateCreated="20250615" dateModified="20200603"/>
+      <file name="Cook Serve Delicious 2 [0100FD800D594800][v65536].nsp" size="53.00 MiB" dateCreated="20250615" dateModified="20200603"/>
+    </folder>
+    <folder name="Cook Serve Delicious 3" size="1.60 GiB" fileCount="2" dateCreated="20250615" dateModified="20250615">
+      <file name="Cook Serve Delicious 3 [0100B82010B6C800][v131072](nsw2u.com).nsp" size="130.37 MiB" dateCreated="20250615" dateModified="20210107"/>
+      <file name="Cook, Serve, Delicious! 3!![0100B82010B6C000][US][v0].nsp" size="1.47 GiB" dateCreated="20250615" dateModified="20201016"/>
+    </folder>
+    <folder name="Cooking Arena" size="3.96 GiB" fileCount="11" dateCreated="20250615" dateModified="20250615">
+      <file name="Cooking Arena [01004B601BA76000][v0][US](nsw2u.com).nsp" size="3.27 GiB" dateCreated="20250615" dateModified="20230805"/>
+      <file name="Cooking Arena [01004B601BA76800][v65536][US](nsw2u.com).nsp" size="698.51 MiB" dateCreated="20250615" dateModified="20240328"/>
+      <file name="Cooking Arena [Cooking Arena Breakfast Bar Tycoon (DLC#4) DLC][01004B601BA77004][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250615" dateModified="20240403"/>
+      <file name="Cooking Arena [Cooking Arena Burger Chef Tycoon (DLC#3) DLC][01004B601BA77003][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250615" dateModified="20240403"/>
+      <file name="Cooking Arena [Cooking Arena Food Truck Tycoon Asian Cuisine (DLC#2) DLC][01004B601BA77002][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250615" dateModified="20240403"/>
+      <file name="Cooking Arena [Cooking Arena Pancake Bar Tycoon (DLC#6) DLC][01004B601BA77006][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250615" dateModified="20240403"/>
+      <file name="Cooking Arena [Cooking Arena Pizza Bar Tycoon (DLC#5) DLC][01004B601BA77005][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250615" dateModified="20240403"/>
+      <file name="Cooking Arena [Cooking Arena Salad Bar Tycoon (DLC#8) DLC][01004B601BA77008][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250615" dateModified="20240403"/>
+      <file name="Cooking Arena [Cooking Arena Sushi Time! (DLC#7) DLC][01004B601BA77007][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250615" dateModified="20240403"/>
+      <file name="Cooking Arena [Cooking Arena Sweet Bakery Tycoon (DLC#1) DLC][01004B601BA77001][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250615" dateModified="20240403"/>
+      <file name="Cooking Arena [kebab bar tycoon dlc#9 DLC][01004B601BA77009][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250615" dateModified="20240403"/>
+    </folder>
     <folder name="Cooking Festival [01006920137D2000] [v0]" size="262.57 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Cooking Festival [01006920137D2000] [v0].nsp" size="262.57 MiB" dateCreated="20210521" dateModified="20210202"/>
     </folder>
@@ -1835,6 +1863,10 @@
     <folder name="Cooking Simulator" size="2.11 GiB" fileCount="2" dateCreated="20221115" dateModified="20221115">
       <file name="Cooking Simulator [01001E400FD58000][v0].nsp" size="1.31 GiB" dateCreated="20221115" dateModified="20200515"/>
       <file name="Cooking Simulator [01001E400FD58800][v65536](nsw2u).nsp" size="822.87 MiB" dateCreated="20221115" dateModified="20210320"/>
+    </folder>
+    <folder name="Coromon" size="635.33 MiB" fileCount="2" dateCreated="20250626" dateModified="20250626">
+      <file name="Coromon 1.2.9 [010048D014322800][v262144][UPD].nsp" size="280.89 MiB" dateCreated="20250626" dateModified="20231227"/>
+      <file name="Coromon [010048D014322000][v0][US](nsw2u.in).nsp" size="354.44 MiB" dateCreated="20250626" dateModified="20220723"/>
     </folder>
     <folder name="CORPSE FACTORY [01006D2016F24000][v0][US](nsw2u.xyz)" size="951.79 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="CORPSE FACTORY [01006D2016F24000][v0][US](nsw2u.xyz).nsp" size="951.79 MiB" dateCreated="20220702" dateModified="20220701"/>
@@ -2143,6 +2175,9 @@
     </folder>
     <folder name="Death end re;Quest 2" size="7.27 GiB" fileCount="1" dateCreated="20240630" dateModified="20240630">
       <file name="Death end re;Quest 2 [0100EB701568A000][v0][US](nsw2u.xyz).nsp" size="7.27 GiB" dateCreated="20240630" dateModified="20220209"/>
+    </folder>
+    <folder name="Death Kid" size="958.16 MiB" fileCount="1" dateCreated="20250615" dateModified="20250615">
+      <file name="Death Kid [0100F34023938000][v1.0.1].nsp" size="958.16 MiB" dateCreated="20250615" dateModified="20250614"/>
     </folder>
     <folder name="Death Mark [010032800BC38000]+[v1.0.1]" size="3.85 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Death Mark [010032800BC38000]+[v1.0.1].xci" size="3.85 GiB" dateCreated="20220702" dateModified="20200519"/>
@@ -3458,6 +3493,10 @@
     <folder name="FRONT MISSION 2 Remake" size="10.26 GiB" fileCount="2" dateCreated="20231008" dateModified="20231008">
       <file name="Front Mission 2 Remake [0100C4E018A24000][v0] .nsp" size="6.47 GiB" dateCreated="20231008" dateModified="20231008"/>
       <file name="FRONT MISSION 2 Remake [0100C4E018A24800][v65536].nsp" size="3.79 GiB" dateCreated="20231008" dateModified="20231008"/>
+    </folder>
+    <folder name="Front Mission 3 Remake" size="5.11 GiB" fileCount="2" dateCreated="20250626" dateModified="20250626">
+      <file name="Front Mission 3 Remake [01007E6019872000].nsp" size="4.68 GiB" dateCreated="20250626" dateModified="20250626"/>
+      <file name="Front Mission 3 Remake [01007E6019872000][v65536][1.0.1].nsp" size="446.63 MiB" dateCreated="20250626" dateModified="20250626"/>
     </folder>
     <folder name="Frontline Zed" size="2.93 GiB" fileCount="2" dateCreated="20220805" dateModified="20220805">
       <file name="Frontline Zed [0100861012474000][v0].nsp" size="2.48 GiB" dateCreated="20211019" dateModified="20200807"/>
@@ -6506,6 +6545,9 @@
       <file name="Not Not - A Brain Buster [01004D500D9BE000][v0][US](nsw2u).nsp" size="80.53 MiB" dateCreated="20210924" dateModified="20210302"/>
       <file name="Not Not - A Brain Buster [01004D500D9BE800][v131072][US](nsw2u).nsp" size="121.06 MiB" dateCreated="20210924" dateModified="20210302"/>
     </folder>
+    <folder name="Not Not 2 - A Brain Challenge" size="331.12 MiB" fileCount="1" dateCreated="20250615" dateModified="20250615">
+      <file name="Not Not 2 - A Brain Challenge [0100B6B022CC4000][v1.0.0].nsp" size="331.12 MiB" dateCreated="20250615" dateModified="20250615"/>
+    </folder>
     <folder name="Observer" size="18.03 GiB" fileCount="1" dateCreated="20250110" dateModified="20250110">
       <file name="Observer[01002A000C478000][US][v0].nsp" size="18.03 GiB" dateCreated="20250110" dateModified="20210405"/>
     </folder>
@@ -6638,6 +6680,9 @@
     </folder>
     <folder name="ONINAKI [Japan] [En,Ja,Fr,De] [01001AF00CE54000]" size="2.79 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="ONINAKI [Japan] [En,Ja,Fr,De] [01001AF00CE54000].nsp" size="2.79 GiB" dateCreated="20210120" dateModified="20190822"/>
+    </folder>
+    <folder name="ONLY Sky Parkour Island UP!" size="440.75 MiB" fileCount="1" dateCreated="20250615" dateModified="20250615">
+      <file name="ONLY Sky Parkour Island UP! [01006E8023942000].nsp" size="440.75 MiB" dateCreated="20250615" dateModified="20250614"/>
     </folder>
     <folder name="ONLY UP! CARS" size="2.19 GiB" fileCount="1" dateCreated="20250524" dateModified="20250524">
       <file name="ONLY UP! CARS v1.0.0[010058C022794000][0][APP].nsp" size="2.19 GiB" dateCreated="20250524" dateModified="20250520"/>
@@ -7263,6 +7308,11 @@
     </folder>
     <folder name="Raiden V Directors Cut [01002B000D97E000][v0](nsw2u)" size="3.64 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Raiden V Directors Cut [01002B000D97E000][v0](nsw2u).nsp" size="3.64 GiB" dateCreated="20211104" dateModified="20210418"/>
+    </folder>
+    <folder name="Raidou Remastered the Mystery of the Soulless Army" size="12.08 GiB" fileCount="3" dateCreated="20250626" dateModified="20250626">
+      <file name="Raidou Remastered the Mystery of the Soulless Army [01002D601ADBA000][v0] (11.76 GB).nsp" size="11.76 GiB" dateCreated="20250625" dateModified="20250622"/>
+      <file name="Raidou Remastered the Mystery of the Soulless Army [01002D601ADBA800][v196608] (0.33 GB).nsp" size="329.32 MiB" dateCreated="20250625" dateModified="20250622"/>
+      <file name="Raidou Remastered the Mystery of the Soulless Army [DLC Raidou Glasses Pre Order Bonus] [01002D601ADBB006][v0].nsp" size="326.22 KiB" dateCreated="20250625" dateModified="20250622"/>
     </folder>
     <folder name="Rainbow Billy - The Curse Of The Leviathan" size="3.59 GiB" fileCount="2" dateCreated="20240531" dateModified="20240601">
       <file name="Rainbow Billy - The Curse Of The Leviathan [0100235014746000][v65536][BASE](nsw2u.xyz).nsp" size="1.74 GiB" dateCreated="20240531" dateModified="20211006"/>
@@ -9300,6 +9350,10 @@
       <file name="The Legend of Legacy HD Remastered [010099F01C258800][v196608][US](nsw2u.com).nsp" size="213.87 MiB" dateCreated="20250220" dateModified="20240417"/>
       <file name="The Legend of Legacy HD Remastered [Recovery Item Set DLC][010099F01C259001][v0][US](nsw2u.com).nsp" size="119.16 KiB" dateCreated="20250220" dateModified="20240323"/>
     </folder>
+    <folder name="The Legend of Tianding" size="2.35 GiB" fileCount="2" dateCreated="20250623" dateModified="20250623">
+      <file name="The Legend of Tianding [0100AD90155FC000][v0].nsp" size="1.19 GiB" dateCreated="20250623" dateModified="20211102"/>
+      <file name="The Legend of Tianding [0100AD90155FC800][USA][v196608].nsp" size="1.15 GiB" dateCreated="20250623" dateModified="20221116"/>
+    </folder>
     <folder name="The Legend of Zelda Breath of the Wild 1.6 dlc" size="15.71 GiB" fileCount="1" dateCreated="20220524" dateModified="20220527">
       <file name="The Legend of Zelda Breath of the Wild [01007EF00011E000][v1.6.0+2DLC].xci" size="15.71 GiB" dateCreated="20220524" dateModified="20220524"/>
     </folder>
@@ -9713,6 +9767,10 @@
     </folder>
     <folder name="Tricky Towers [010015F005C8E000][v0]" size="140.86 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Tricky Towers [010015F005C8E000][v0].nsp" size="140.86 MiB" dateCreated="20210818" dateModified="20181015"/>
+    </folder>
+    <folder name="Tridents Tale" size="3.21 GiB" fileCount="2" dateCreated="20250623" dateModified="20250623">
+      <file name="Trident's Tale [01009DF020FBA000][v0][US](nsw2u.com).nsp" size="2.46 GiB" dateCreated="20250623" dateModified="20250523"/>
+      <file name="Trident's Tale [01009DF020FBA800][v196608][US](nsw2u.com).nsp" size="770.72 MiB" dateCreated="20250623" dateModified="20250523"/>
     </folder>
     <folder name="Trine 1 Enchanted Edition" size="1.65 GiB" fileCount="1" dateCreated="20240108" dateModified="20240108">
       <file name="Trine 1 Enchanted Edition.nsz" size="1.65 GiB" dateCreated="20200703" dateModified="20191108"/>
@@ -10607,5 +10665,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2261" totalFiles="6083" totalSize="9679.63 GiB" generatedOn="20250614"/>
+  <summary totalFolders="2274" totalFiles="6115" totalSize="9712.34 GiB" generatedOn="20250626"/>
 </root>
