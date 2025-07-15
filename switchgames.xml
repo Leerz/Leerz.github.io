@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.48 TiB" fileCount="6115" dateCreated="20210923" dateModified="20250626">
+  <folder name="NSP 2021" size="9.54 TiB" fileCount="6141" dateCreated="20210923" dateModified="20250715">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -436,6 +436,9 @@
       <file name="ANIMAL WELL [010020D01AD24000][v0].nsp" size="36.56 MiB" dateCreated="20240521" dateModified="20240510"/>
       <file name="ANIMAL WELL [010020D01AD24800][v262144][1.0.4][FW 18.0.1].nsp" size="36.47 MiB" dateCreated="20240521" dateModified="20240518"/>
     </folder>
+    <folder name="Anime Dance-Off - Las Vegas" size="4.00 GiB" fileCount="1" dateCreated="20250715" dateModified="20250715">
+      <file name="Anime Dance-Off - Las Vegas [0100A0301EF18000].nsp" size="4.00 GiB" dateCreated="20250715" dateModified="20250530"/>
+    </folder>
     <folder name="Anime Girls Highschool of Dead" size="423.99 MiB" fileCount="1" dateCreated="20240123" dateModified="20240123">
       <file name="Anime Girls Highschool of Dead [01004EC01DAB6000][v0][US](nsw2u.com).nsp" size="423.99 MiB" dateCreated="20240123" dateModified="20240109"/>
     </folder>
@@ -557,6 +560,9 @@
     </folder>
     <folder name="Arcade Archives PUNCH-OUT!!" size="77.74 MiB" fileCount="1" dateCreated="20250430" dateModified="20250430">
       <file name="Arcade Archives PUNCH-OUT!!.nsp" size="77.74 MiB" dateCreated="20190921" dateModified="20180726"/>
+    </folder>
+    <folder name="Arcade Archives RIDGE RACER [010046F022B3A000]" size="186.69 MiB" fileCount="1" dateCreated="20250715" dateModified="20250715">
+      <file name="Arcade Archives RIDGE RACER [010046F022B3A000].nsp" size="186.69 MiB" dateCreated="20250715" dateModified="20250607"/>
     </folder>
     <folder name="Arcade Archives ROAD FIGHTER [0100FBA00E35C000][v0]" size="67.12 MiB" fileCount="1" dateCreated="20250430" dateModified="20250430">
       <file name="Arcade Archives ROAD FIGHTER [0100FBA00E35C000][v0].nsp" size="67.12 MiB" dateCreated="20240229" dateModified="20190728"/>
@@ -2212,6 +2218,10 @@
       <file name="Degrees of Separation [010067900B9C4000][v0].nsp" size="477.24 MiB" dateCreated="20250402" dateModified="20230103"/>
       <file name="Degrees of Separation [010067900B9C4800][v131072](Update 1.0.2).nsp" size="299.17 MiB" dateCreated="20250402" dateModified="20230103"/>
     </folder>
+    <folder name="DELTARUNE [0100A0D022A68000]" size="665.02 MiB" fileCount="2" dateCreated="20250715" dateModified="20250715">
+      <file name="DELTARUNE [0100A0D022A68000].nsp" size="616.46 MiB" dateCreated="20250715" dateModified="20250607"/>
+      <file name="DELTARUNE [0100A0D022A68800][v65536][1.00a].nsp" size="48.56 MiB" dateCreated="20250715" dateModified="20250607"/>
+    </folder>
     <folder name="Delusional Science ADV CHAOS CHILD [0100CB4016B92000][v0][JP](nsw2u.xyz)" size="2.44 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Delusional Science ADV CHAOS CHILD [0100CB4016B92000][v0][JP](nsw2u.xyz).nsp" size="2.44 GiB" dateCreated="20220928" dateModified="20220224"/>
     </folder>
@@ -3516,6 +3526,9 @@
       <file name="Fuga Melodies of Steel 2 [01003F501907A800][v196608][US](nsw2u.com).nsp" size="383.43 MiB" dateCreated="20230711" dateModified="20230629"/>
       <file name="Fuga Melodies of Steel 2 [DLC Deluxe Edition Upgrade Pack] [01003F501907B001][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20230711" dateModified="20230511"/>
     </folder>
+    <folder name="Fuga Melodies of Steel 3 v1.0.0[0100C6D0205D6000]" size="4.89 GiB" fileCount="1" dateCreated="20250715" dateModified="20250715">
+      <file name="Fuga Melodies of Steel 3 v1.0.0[0100C6D0205D6000][0][APP].nsp" size="4.89 GiB" dateCreated="20250715" dateModified="20250529"/>
+    </folder>
     <folder name="Fuga Melodies of Steel Deluxe Edition" size="1.43 GiB" fileCount="6" dateCreated="20230227" dateModified="20241217">
       <file name="Fuga Melodies of Steel [01000130120EE000][v0](nsw2u).nsp" size="1.22 GiB" dateCreated="20241217" dateModified="20210729"/>
       <file name="Fuga Melodies of Steel [01000130120EE800][v983040][US](nsw2u.com).nsp" size="214.74 MiB" dateCreated="20241217" dateModified="20241108"/>
@@ -4120,6 +4133,9 @@
     <folder name="Hob The Definitive Edition (NSP)" size="5.98 GiB" fileCount="2" dateCreated="20240813" dateModified="20240813">
       <file name="Hob The Definitive Edition [01004B100A5CC800][v262144].nsp" size="2.19 GiB" dateCreated="20240813" dateModified="20211020"/>
       <file name="Hob_The_Definitive_Edition__switch-xci.com__v0_.nsp" size="3.79 GiB" dateCreated="20240813" dateModified="20240813"/>
+    </folder>
+    <folder name="Hogtie [0100F61022CBA000]" size="824.63 MiB" fileCount="1" dateCreated="20250710" dateModified="20250710">
+      <file name="Hogtie [0100F61022CBA000][v0][US](nsw2u.com).nsp" size="824.63 MiB" dateCreated="20250710" dateModified="20250710"/>
     </folder>
     <folder name="Hogwarts Legacy" size="14.25 GiB" fileCount="6" dateCreated="20231111" dateModified="20231114">
       <file name="Hogwarts Legacy [0100F7E00C70E000][v0][US](nsw2u.com).nsp" size="6.83 GiB" dateCreated="20231111" dateModified="20231111"/>
@@ -5280,6 +5296,9 @@
     <folder name="Masters of Anima" size="996.81 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Masters of Anima.nsp" size="996.81 MiB" dateCreated="20190921" dateModified="20180727"/>
     </folder>
+    <folder name="Matchbox Driving Adventures [0100C8C01C75C000]" size="1.49 GiB" fileCount="1" dateCreated="20250715" dateModified="20250715">
+      <file name="Matchbox Driving Adventures [0100C8C01C75C000][v0][US](nsw2u.com).nsp" size="1.49 GiB" dateCreated="20250715" dateModified="20240920"/>
+    </folder>
     <folder name="MAX マジックマーカーと兄弟の絆 (体験版)" size="834.18 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="MAX マジックマーカーと兄弟の絆 (体験版).nsp" size="834.18 MiB" dateCreated="20190921" dateModified="20180727"/>
     </folder>
@@ -5869,7 +5888,7 @@
     <folder name="Morphite" size="584.39 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Morphite.nsp" size="584.39 MiB" dateCreated="20190921" dateModified="20180727"/>
     </folder>
-    <folder name="Mortal Kombat 1" size="48.05 GiB" fileCount="24" dateCreated="20230916" dateModified="20250527">
+    <folder name="Mortal Kombat 1" size="48.05 GiB" fileCount="23" dateCreated="20230916" dateModified="20250705">
       <file name="Mortal Kombat 1 - MK1 Omni-Man [01006560184E7004][v0].nsp" size="118.20 KiB" dateCreated="20250527" dateModified="20241020"/>
       <file name="Mortal Kombat 1 - MK1 Sub-Zero Día de Muertos Skin [01006560184E7003][v0].nsp" size="149.94 KiB" dateCreated="20250527" dateModified="20241020"/>
       <file name="Mortal Kombat 1 - MK1꞉ Ermac [01006560184E7007][v0].nsp" size="149.94 KiB" dateCreated="20250527" dateModified="20241020"/>
@@ -5888,7 +5907,6 @@
       <file name="Mortal Kombat 1 [01006560184E700A][v0][DLC 10].nsp" size="149.94 KiB" dateCreated="20250527" dateModified="20241020"/>
       <file name="Mortal Kombat 1 [DLC Conan] [01006560184E701A][v0].nsp" size="118.20 KiB" dateCreated="20250527" dateModified="20250205"/>
       <file name="Mortal Kombat 1 [DLC Custom Unlocker All Characters Except Conan] [01006560184E7005][v0].nsp" size="121.20 KiB" dateCreated="20250527" dateModified="20250204"/>
-      <file name="Mortal Kombat 1 [DLC Custom Unlocker][01006560184E7099][v0].nsp" size="121.20 KiB" dateCreated="20250527" dateModified="20241020"/>
       <file name="Mortal Kombat 1 [DLC Ghostface] [01006560184E7018][v0].nsp" size="118.20 KiB" dateCreated="20250527" dateModified="20250126"/>
       <file name="Mortal Kombat 1 [DLC Kitana] [01006560184E701B][v0].nsp" size="118.20 KiB" dateCreated="20250527" dateModified="20250126"/>
       <file name="Mortal Kombat 1 [MK1 Jean-Claude Van Damme Skin] [01006560184E700F][v0].nsp" size="149.94 KiB" dateCreated="20250527" dateModified="20241020"/>
@@ -6822,6 +6840,10 @@
       <file name="Pascals Wager Definitive Edition [010088401495E800][v131072][US](nsw2u.com).nsp" size="3.34 GiB" dateCreated="20250611" dateModified="20231124"/>
       <file name="Pascals Wager Definitive Edition [01009B9017D8E000][v0][US](nsw2u.in).nsp" size="4.25 GiB" dateCreated="20250611" dateModified="20220715"/>
     </folder>
+    <folder name="PATAPON 1+2 REPLAY [01006DC020DB8000]" size="1.37 GiB" fileCount="2" dateCreated="20250710" dateModified="20250710">
+      <file name="PATAPON 1+2 REPLAY [01006DC020DB8000][v0][US](nsw2u.com).nsp" size="1.25 GiB" dateCreated="20250710" dateModified="20250710"/>
+      <file name="PATAPON 1+2 REPLAY [01006DC020DB8800][v262144][US](nsw2u.com).nsp" size="122.85 MiB" dateCreated="20250710" dateModified="20250710"/>
+    </folder>
     <folder name="Paw Patrol Grand Prix" size="4.27 GiB" fileCount="3" dateCreated="20240717" dateModified="20240718">
       <file name="Paw Patrol Grand Prix [0100360016800000][US](nsw2u.in).xci" size="3.72 GiB" dateCreated="20240718" dateModified="20220930"/>
       <file name="PAW Patrol Grand Prix [0100360016800800][v196608][US](nsw2u.com).nsp" size="562.57 MiB" dateCreated="20240717" dateModified="20230314"/>
@@ -7328,6 +7350,10 @@
     <folder name="Rakuen Deluxe Edition" size="377.48 MiB" fileCount="2" dateCreated="20240609" dateModified="20240609">
       <file name="Rakuen Deluxe Edition [01006CD01A068000][v0][US](nsw2u.com).nsp" size="177.65 MiB" dateCreated="20240609" dateModified="20230409"/>
       <file name="Rakuen Deluxe Edition [01006CD01A068800][v65536].nsp" size="199.83 MiB" dateCreated="20240609" dateModified="20230408"/>
+    </folder>
+    <folder name="Rally Arcade Classics [0100A07022868000]" size="1.51 GiB" fileCount="2" dateCreated="20250715" dateModified="20250715">
+      <file name="Rally Arcade Classics [0100A07022868000].nsp" size="1.26 GiB" dateCreated="20250715" dateModified="20250602"/>
+      <file name="Rally Arcade Classics [0100A07022868800][v65536][1.26.2].nsp" size="256.37 MiB" dateCreated="20250715" dateModified="20250602"/>
     </folder>
     <folder name="Ray'z Arcade Chronology [01006E5019B7C800][v65536][AS](nsw2u.com)" size="2.48 GiB" fileCount="2" dateCreated="20230320" dateModified="20230320">
       <file name="Ray'z Arcade Chronology [01006E5019B7C000][v0][AS](nsw2u.com).xci" size="1.86 GiB" dateCreated="20230320" dateModified="20230309"/>
@@ -8126,6 +8152,10 @@
     <folder name="Sonic Superstars [01008F701C074000][v0]" size="4.12 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Sonic Superstars [01008F701C074000][v0].nsp" size="4.12 GiB" dateCreated="20231017" dateModified="20231013"/>
     </folder>
+    <folder name="SONIC WINGS REUNION" size="1.37 GiB" fileCount="2" dateCreated="20250715" dateModified="20250715">
+      <file name="SONIC WINGS REUNION v1.0.2[0100BD5020CF4800][131072][UPD].nsp" size="407.72 MiB" dateCreated="20250715" dateModified="20250531"/>
+      <file name="SONIC WINGS REUNION [0100BD5020CF4000].xci" size="998.27 MiB" dateCreated="20250715" dateModified="20250529"/>
+    </folder>
     <folder name="SONIC X SHADOW GENERATIONS (XCI)" size="14.88 GiB" fileCount="1" dateCreated="20241020" dateModified="20241020">
       <file name="SONIC X SHADOW GENERATIONS [01005EA01C0FC000][v0] [NKA][NC][NT].xci" size="14.88 GiB" dateCreated="20241020" dateModified="20241020"/>
     </folder>
@@ -8183,6 +8213,9 @@
     <folder name="Sparklite" size="1.89 GiB" fileCount="2" dateCreated="20240813" dateModified="20240813">
       <file name="Sparklite [01007ED00C032000][v0].nsp" size="957.35 MiB" dateCreated="20240813" dateModified="20240712"/>
       <file name="Sparklite [01007ED00C032800][v458752].nsp" size="979.92 MiB" dateCreated="20240813" dateModified="20200820"/>
+    </folder>
+    <folder name="Special Strike v1.0.0" size="4.82 GiB" fileCount="1" dateCreated="20250715" dateModified="20250715">
+      <file name="Special Strike v1.0.0[010073A02398C000][0][APP].nsp" size="4.82 GiB" dateCreated="20250715" dateModified="20250531"/>
     </folder>
     <folder name="Speed or Death [010029C018EA6000]" size="5.06 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Speed or Death [010029C018EA6000].nsp" size="5.06 GiB" dateCreated="20231203" dateModified="20231201"/>
@@ -8847,6 +8880,9 @@
       <file name="Syberia 2 [010028C003FD6000].nsp" size="1.23 GiB" dateCreated="20230422" dateModified="20191109"/>
       <file name="Syberia 2 [010028C003FD6800][v65536].nsp" size="11.03 MiB" dateCreated="20230422" dateModified="20191109"/>
       <file name="Syberia 3 [0100CBE004E6C000].nsp" size="6.77 GiB" dateCreated="20230422" dateModified="20191109"/>
+    </folder>
+    <folder name="System Shock 2 25th Anniversary Remaster [0100CD901E498000]" size="3.51 GiB" fileCount="1" dateCreated="20250710" dateModified="20250710">
+      <file name="System Shock 2 25th Anniversary Remaster [0100CD901E498000][v0][US](nsw2u.com).nsp" size="3.51 GiB" dateCreated="20250710" dateModified="20250710"/>
     </folder>
     <folder name="Tactics Ogre Reborn" size="7.47 GiB" fileCount="2" dateCreated="20221201" dateModified="20221201">
       <file name="Tactics Ogre Reborn [0100E12013C1A000][v0][US](nsw2u.com).xci" size="7.44 GiB" dateCreated="20221113" dateModified="20221111"/>
@@ -9616,8 +9652,16 @@
     <folder name="To the Moon" size="812.59 MiB" fileCount="1" dateCreated="20240329" dateModified="20240329">
       <file name="To The Moon [010036700F83E000]+[v1.8](nsw2u)_Patched.xci" size="812.59 MiB" dateCreated="20240329" dateModified="20210827"/>
     </folder>
+    <folder name="Tokyo Dark – Remembrance" size="977.01 MiB" fileCount="2" dateCreated="20250703" dateModified="20250703">
+      <file name="Tokyo Dark – Remembrance – [01003E500F962000][v0](nsw2u.com).nsz" size="904.52 MiB" dateCreated="20250703" dateModified="20250703"/>
+      <file name="TOKYO_DARK_REMEMBRANCE__Switch-xci.com__v65536_.nsp" size="72.49 MiB" dateCreated="20250703" dateModified="20250703"/>
+    </folder>
     <folder name="Tokyo Mirage Sessions FE Encore [Asia] [En,Ja,Fr,Zh] [0100A9400C9C2000]" size="11.26 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Tokyo Mirage Sessions FE Encore [Asia] [En,Ja,Fr,Zh] [0100A9400C9C2000].nsp" size="11.26 GiB" dateCreated="20201208" dateModified="20200115"/>
+    </folder>
+    <folder name="TOKYO PSYCHODEMIC" size="3.11 GiB" fileCount="2" dateCreated="20250703" dateModified="20250703">
+      <file name="TOKYO PSYCHODEMIC v1.1.0[01003ED0208D8000][v0][APP].nsp" size="3.04 GiB" dateCreated="20250703" dateModified="20241129"/>
+      <file name="TOKYO PSYCHODEMIC [01003ED0208D8800][v131072][US](nsw2u.com).nsp" size="72.94 MiB" dateCreated="20250703" dateModified="20241226"/>
     </folder>
     <folder name="Tokyo Xanadu eX+ (NSP)(eShop)" size="6.72 GiB" fileCount="1" dateCreated="20240805" dateModified="20240805">
       <file name="Tokyo Xanadu eX+ [0100E8901E74C000].nsp" size="6.72 GiB" dateCreated="20240805" dateModified="20240726"/>
@@ -9635,6 +9679,13 @@
     </folder>
     <folder name="Tony Hawks Pro Skater 1 Plus 2 [0100CC00102B4000]" size="8.67 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Tony Hawks Pro Skater 1 Plus 2 [0100CC00102B4000].nsp" size="8.67 GiB" dateCreated="20210703" dateModified="20210625"/>
+    </folder>
+    <folder name="Tony Hawks Pro Skater 3 + 4" size="19.94 GiB" fileCount="5" dateCreated="20250710" dateModified="20250711">
+      <file name="Tony Hawk's Pro Skater 3 + 4  v1.03[01000AD01F94A800][131072][UPD].nsp" size="13.35 GiB" dateCreated="20250710" dateModified="20250710"/>
+      <file name="Tony Hawk's Pro Skater 3 + 4 v1.0[01000AD01F94A000][0][APP].nsp" size="6.58 GiB" dateCreated="20250711" dateModified="20250710"/>
+      <file name="Tony Hawk's Pro Skater 3 + 4 [01000AD01F94B001][Deluxe Edition Content DLC].nsp" size="119.16 KiB" dateCreated="20250711" dateModified="20250710"/>
+      <file name="Tony Hawk's Pro Skater 3 + 4 [01000AD01F94B002][Content Pack DLC].nsp" size="119.16 KiB" dateCreated="20250711" dateModified="20250710"/>
+      <file name="Tony Hawk's Pro Skater 3 + 4 [01000AD01F94B00e][Wireframe Tony Shader DLC].nsp" size="119.16 KiB" dateCreated="20250711" dateModified="20250710"/>
     </folder>
     <folder name="Tools Up [010093F00E818800][v655360](nsw2u)" size="956.96 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Tools Up [010093F00E818800][v655360](nsw2u).nsp" size="956.96 MiB" dateCreated="20230430" dateModified="20210803"/>
@@ -10263,6 +10314,9 @@
       <file name="Wartales [010055501B14C000][v0][US](nsw2u.com).nsp" size="7.97 GiB" dateCreated="20230928" dateModified="20230915"/>
       <file name="Wartales [010055501B14C800][v131072][1.0.28259].nsp" size="1.43 GiB" dateCreated="20230928" dateModified="20230922"/>
     </folder>
+    <folder name="Water Blast Shooter - Wet Gun [0100A4702064A000]" size="1.48 GiB" fileCount="1" dateCreated="20250710" dateModified="20250710">
+      <file name="Water Blast Shooter - Wet Gun [0100A4702064A000][v0][US](nsw2u.com).nsp" size="1.48 GiB" dateCreated="20250710" dateModified="20250710"/>
+    </folder>
     <folder name="We Love Katamari REROLL+ Royal Reverie [0100E71018D1A000][v0][US].nsp" size="3.23 GiB" fileCount="2" dateCreated="20240823" dateModified="20240823">
       <file name="We Love Katamari REROLL+ Royal Reverie [0100E71018D1A000][v0][US](nsw2u.com).nsp" size="2.97 GiB" dateCreated="20240823" dateModified="20230607"/>
       <file name="We Love Katamari REROLL+ Royal Reverie [0100E71018D1A800][v196608][Update].nsp" size="262.27 MiB" dateCreated="20240823" dateModified="20231021"/>
@@ -10326,6 +10380,10 @@
     <folder name="Wizardry Proving Grounds of the Mad Overlord" size="1.58 GiB" fileCount="2" dateCreated="20241211" dateModified="20241211">
       <file name="Wizardry Proving Grounds of the Mad Overlord [010033F01AD2E000][FW 18.0.0].nsp" size="1.36 GiB" dateCreated="20241211" dateModified="20240524"/>
       <file name="Wizardry Proving Grounds of the Mad Overlord [010033F01AD2E800][v196608][US](nsw2u.com).nsp" size="225.47 MiB" dateCreated="20241211" dateModified="20240917"/>
+    </folder>
+    <folder name="Wobbly Life v0.9.5.2" size="1.96 GiB" fileCount="2" dateCreated="20250715" dateModified="20250715">
+      <file name="Wobbly Life v0.9.5.2[010039501F11C000][0][APP].nsp" size="846.67 MiB" dateCreated="20250715" dateModified="20250531"/>
+      <file name="Wobbly Life v0.9.6.5[010039501F11C800][65536][UPD].nsp" size="1.13 GiB" dateCreated="20250715" dateModified="20250531"/>
     </folder>
     <folder name="Wolfenstein II The New Colossus" size="22.08 GiB" fileCount="2" dateCreated="20190301" dateModified="20190301">
       <file name="Wolfenstein II The New Colossus [01009040091E0000].nsp" size="13.77 GiB" dateCreated="20190301" dateModified="20190302"/>
@@ -10665,5 +10723,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2274" totalFiles="6115" totalSize="9712.34 GiB" generatedOn="20250626"/>
+  <summary totalFolders="2290" totalFiles="6141" totalSize="9764.38 GiB" generatedOn="20250715"/>
 </root>
