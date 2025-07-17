@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.54 TiB" fileCount="6141" dateCreated="20210923" dateModified="20250715">
+  <folder name="NSP 2021" size="9.54 TiB" fileCount="6147" dateCreated="20210923" dateModified="20250716">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -1627,9 +1627,11 @@
     <folder name="Castlevania Dominus Collection (NSP)(eShop)" size="1.11 GiB" fileCount="1" dateCreated="20240829" dateModified="20240829">
       <file name="Castlevania Dominus Collection [0100FA501AF90000].nsp" size="1.11 GiB" dateCreated="20240829" dateModified="20240828"/>
     </folder>
-    <folder name="cat quest" size="857.78 MiB" fileCount="2" dateCreated="20210923" dateModified="20210923">
-      <file name="Cat Quest II [01008BE00E968000][v0](nsw2u.com).nsp" size="620.72 MiB" dateCreated="20210703" dateModified="20210703"/>
+    <folder name="Cat Quest" size="237.06 MiB" fileCount="1" dateCreated="20210923" dateModified="20250716">
       <file name="Cat Quest.nsp" size="237.06 MiB" dateCreated="20190921" dateModified="20180726"/>
+    </folder>
+    <folder name="Cat Quest II" size="620.72 MiB" fileCount="1" dateCreated="20250716" dateModified="20250716">
+      <file name="Cat Quest II [01008BE00E968000][v0](nsw2u.com).nsp" size="620.72 MiB" dateCreated="20210703" dateModified="20210703"/>
     </folder>
     <folder name="Cat Quest III [010088501B8F2000]" size="1.40 GiB" fileCount="2" dateCreated="20250220" dateModified="20250220">
       <file name="Cat Quest III [010088501B8F2000][v0][Base].nsp" size="772.77 MiB" dateCreated="20250220" dateModified="20240808"/>
@@ -4563,7 +4565,7 @@
     <folder name="Katana ZERO" size="345.53 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Katana_ZERO_V1.0.5_Switch-xci.com.xci" size="345.53 MiB" dateCreated="20220616" dateModified="20220616"/>
     </folder>
-    <folder name="Kaze and the Wild Masks [010038B00F142000]]" size="977.43 MiB" fileCount="4" dateCreated="20250220" dateModified="20250220">
+    <folder name="Kaze and the Wild Masks [010038B00F142000]" size="977.43 MiB" fileCount="4" dateCreated="20250220" dateModified="20250220">
       <file name="Kaze and the Wild Masks [010038B00F142000][v0](nsw2u).nsp" size="496.74 MiB" dateCreated="20250220" dateModified="20210327"/>
       <file name="Kaze and the Wild Masks [010038B00F142800][v458752][US](nsw2u.xyz).nsp" size="480.40 MiB" dateCreated="20250220" dateModified="20211019"/>
       <file name="Kaze and the Wild Masks [Kaze and the Wild Masks - Pre-Order DLC][010038B00F143001][US][v0].nsp" size="149.94 KiB" dateCreated="20250220" dateModified="20210330"/>
@@ -10046,6 +10048,14 @@
       <file name="Untitled_Goose_Game_NSW-CAF.nsp" size="795.65 MiB" dateCreated="20191122" dateModified="20190921"/>
       <file name="Untitled_Goose_Game_UPD_v65536_NSW-CAF.nsp" size="185.12 MiB" dateCreated="20191122" dateModified="20190921"/>
     </folder>
+    <folder name="Urban Flow" size="4.74 GiB" fileCount="6" dateCreated="20250716" dateModified="20250716">
+      <file name="Urban Flow [0100B110109F8000][USA][v0].nsp" size="2.94 GiB" dateCreated="20250716" dateModified="20200626"/>
+      <file name="Urban Flow [0100B110109F8800][USA][v589824].nsp" size="1.80 GiB" dateCreated="20250716" dateModified="20240425"/>
+      <file name="Urban Flow [Expansion Pack DLC][0100B110109F9001][USA][v0].nsp" size="118.20 KiB" dateCreated="20250716" dateModified="20230313"/>
+      <file name="Urban Flow [London Rules DLC][0100B110109F9003][USA][v0].nsp" size="118.20 KiB" dateCreated="20250716" dateModified="20230313"/>
+      <file name="Urban flow [Streets Supplement 2 DLC][0100B110109F9005][USA][v0].nsp" size="121.20 KiB" dateCreated="20250716" dateModified="20240427"/>
+      <file name="Urban Flow [Winter Expansion Pack DLC][0100B110109F9002][USA][v0].nsp" size="118.20 KiB" dateCreated="20250716" dateModified="20230313"/>
+    </folder>
     <folder name="Urban Myth Dissolution Center" size="2.13 GiB" fileCount="2" dateCreated="20250325" dateModified="20250325">
       <file name="Urban Myth Dissolution Center [0100B2401D2A8000][v0][US](nsw2u.com).xci" size="1.86 GiB" dateCreated="20250313" dateModified="20250213"/>
       <file name="Urban Myth Dissolution Center [0100B2401D2A8800][v131072][US](nsw2u.com).nsp" size="278.56 MiB" dateCreated="20250313" dateModified="20250228"/>
@@ -10723,5 +10733,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2290" totalFiles="6141" totalSize="9764.38 GiB" generatedOn="20250715"/>
+  <summary totalFolders="2292" totalFiles="6147" totalSize="9769.12 GiB" generatedOn="20250717"/>
 </root>
