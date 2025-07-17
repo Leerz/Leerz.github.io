@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="PS4_PKG" size="10.31 TiB" fileCount="1712" dateCreated="20241229" dateModified="20250520">
+  <folder name="PS4_PKG" size="10.37 TiB" fileCount="1712" dateCreated="20241229" dateModified="20250708">
     <folder name="7days to die" size="1.58 GiB" fileCount="1" dateCreated="20250102" dateModified="20250102">
       <file name="7days to die.pkg" size="1.58 GiB" dateCreated="20180307" dateModified="20180204"/>
     </folder>
@@ -945,12 +945,10 @@
       <file name="GreedFall_CUSA14211_v1.00_[6.72]_OPOISSO893.pkg" size="9.69 GiB" dateCreated="20250108" dateModified="20241105"/>
       <file name="GreedFall_CUSA14211_v1.08_[6.72]_OPOISSO893.pkg" size="906.38 MiB" dateCreated="20250108" dateModified="20241105"/>
     </folder>
-    <folder name="GTA V" size="140.95 GiB" fileCount="5" dateCreated="20221118" dateModified="20250520">
+    <folder name="GTA V" size="86.85 GiB" fileCount="3" dateCreated="20221118" dateModified="20250520">
       <file name="EP1004-CUSA00411_00-GTAPREORDERBONUS.pkg" size="1.56 MiB" dateCreated="20250519" dateModified="20250519"/>
       <file name="Grand.Theft.Auto.V_CUSA00411_v1.00_[5.05]_OPOISSO893.pkg" size="41.68 GiB" dateCreated="20250520" dateModified="20210222"/>
       <file name="Grand.Theft.Auto.V_CUSA00411_v1.52_BACKPORT_[5.05]_OPOISSO893.pkg" size="45.17 GiB" dateCreated="20250520" dateModified="20241211"/>
-      <file name="GTAVDIGITALDOWNL-A0100-V0105.pkg" size="41.68 GiB" dateCreated="20180623" dateModified="20180623"/>
-      <file name="GTAVDIGITALDOWNL-A0123-V0100.pkg" size="12.42 GiB" dateCreated="20180623" dateModified="20180623"/>
     </folder>
     <folder name="GUILTY GEAR Xrd Rev.2 EP4293-CUSA08260_00-GGXRDREV2EU00100 GUILTY.GEAR.Xrd.REV.2.PS4" size="9.08 GiB" fileCount="1" dateCreated="20250102" dateModified="20250102">
       <file name="GUILTY GEAR Xrd Rev.2 EP4293-CUSA08260_00-GGXRDREV2EU00100 GUILTY.GEAR.Xrd.REV.2.PS4.pkg" size="9.08 GiB" dateCreated="20180409" dateModified="20180312"/>
@@ -1693,6 +1691,10 @@
       <file name="EP1001-CUSA42312_00-NBA2K24000000000-A0100-V0100-CyB1K.pkg" size="45.03 GiB" dateCreated="20240419" dateModified="20240419"/>
       <file name="EP1001-CUSA42312_00-NBA2K24000000000-A0105-V0100-CyB1K.pkg" size="70.71 GiB" dateCreated="20240419" dateModified="20240419"/>
       <file name="NBA.2K24.CUSA42312.International.Commentary.Pack-xmrallx-CyB1K.pkg" size="3.67 GiB" dateCreated="20240419" dateModified="20240419"/>
+    </folder>
+    <folder name="NBA 2K25" size="124.84 GiB" fileCount="2" dateCreated="20250708" dateModified="20250708">
+      <file name="[SuperPSX]-NBA.2K25_CUSA48139_v1.00_[11.00]_OPOISSO893.pkg" size="44.18 GiB" dateCreated="20250708" dateModified="20250708"/>
+      <file name="[SuperPSX]-NBA.2K25_CUSA48139_v1.07_[11.00]_OPOISSO893.pkg" size="80.66 GiB" dateCreated="20250708" dateModified="20250708"/>
     </folder>
     <folder name="NBA.2K14.iNTERNAL.PS4-DarKmooN" size="38.61 GiB" fileCount="1" dateCreated="20250102" dateModified="20250102">
       <file name="NBA.2K14.iNTERNAL.PS4-DarKmooN.pkg" size="38.61 GiB" dateCreated="20180827" dateModified="20180828"/>
@@ -2624,5 +2626,5 @@
       <file name="Zombie Army Trilogy EP4529-CUSA01345_00-ZATRILOGY0000000-A0100-V0102 Zombie Trilogy.pkg" size="8.19 GiB" dateCreated="20180306" dateModified="20180306"/>
     </folder>
   </folder>
-  <summary totalFolders="455" totalFiles="1712" totalSize="10552.60 GiB"/>
+  <summary totalFolders="456" totalFiles="1712" totalSize="10623.34 GiB"/>
 </root>
