@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.54 TiB" fileCount="6147" dateCreated="20210923" dateModified="20250716">
+  <folder name="NSP 2021" size="9.57 TiB" fileCount="6160" dateCreated="20210923" dateModified="20250720">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -658,6 +658,10 @@
     </folder>
     <folder name="ARMS" size="2.22 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="ARMS.nsp" size="2.22 GiB" dateCreated="20190921" dateModified="20180726"/>
+    </folder>
+    <folder name="Ashwood Valley" size="276.63 MiB" fileCount="2" dateCreated="20250718" dateModified="20250718">
+      <file name="Ashwood Valley [010070F0233D2000] [v0].nsp" size="183.39 MiB" dateCreated="20250718" dateModified="20250630"/>
+      <file name="Ashwood Valley [010070F0233D2800] [v131072].nsp" size="93.24 MiB" dateCreated="20250718" dateModified="20250630"/>
     </folder>
     <folder name="Asphalt 9 Legends" size="4.99 GiB" fileCount="11" dateCreated="20231228" dateModified="20240909">
       <file name="Asphalt 9 Legends 4.0.2a [01007B000C834800][v2359296][UPD].nsp" size="3.38 GiB" dateCreated="20231228" dateModified="20231223"/>
@@ -1940,6 +1944,10 @@
       <file name="CRISIS CORE –FINAL FANTASY VII– REUNION [01004BC0166CC000][v0][US](nsw2u.com).xci" size="14.88 GiB" dateCreated="20221212" dateModified="20221212"/>
       <file name="CRISIS CORE –FINAL FANTASY VII– REUNION [01004BC0166CC800][v65536][US](nsw2u.com).nsp" size="661.49 MiB" dateCreated="20221212" dateModified="20221211"/>
     </folder>
+    <folder name="Critter Cafe (NSP)" size="1.67 GiB" fileCount="2" dateCreated="20250718" dateModified="20250718">
+      <file name="Critter Cafe v1.0[010077A01F486000][v0][APP].nsp" size="1.48 GiB" dateCreated="20250718" dateModified="20241127"/>
+      <file name="Critter Cafe [010077A01F486800][v131072][1.1.1].nsp" size="200.77 MiB" dateCreated="20250718" dateModified="20250216"/>
+    </folder>
     <folder name="Cross Tails" size="743.97 MiB" fileCount="2" dateCreated="20230916" dateModified="20230916">
       <file name="Cross Tails [01001D401A2A0000][v0][US](nsw2u.com).nsp" size="541.59 MiB" dateCreated="20230909" dateModified="20230720"/>
       <file name="Cross Tails [01001D401A2A0800][v65536][NO](nsw2u.com).nsp" size="202.38 MiB" dateCreated="20230909" dateModified="20230713"/>
@@ -2810,6 +2818,10 @@
     <folder name="Dungeons 4 - Nintendo Switch Edition (NSP)(eShop)" size="5.16 GiB" fileCount="2" dateCreated="20241020" dateModified="20241020">
       <file name="Dungeons 4 - Nintendo Switch Edition [0100F7901971C000][v0][US].nsp" size="4.65 GiB" dateCreated="20241020" dateModified="20241018"/>
       <file name="Dungeons 4 - Nintendo Switch Edition [0100F7901971C800][v65536][US][1.7].nsp" size="530.33 MiB" dateCreated="20241020" dateModified="20241017"/>
+    </folder>
+    <folder name="DUNGEONS and DRAGONS" size="21.42 GiB" fileCount="2" dateCreated="20250718" dateModified="20250720">
+      <file name="DUNGEONS and DRAGONS NEVERWINTER NIGHTS 2 ED v0.nsp" size="20.07 GiB" dateCreated="20250718" dateModified="20250717"/>
+      <file name="DUNGEONS and DRAGONS NEVERWINTER NIGHTS 2 ED [65536][UPD].nsp" size="1.35 GiB" dateCreated="20250718" dateModified="20250717"/>
     </folder>
     <folder name="Dusk Diver" size="3.36 GiB" fileCount="6" dateCreated="20221030" dateModified="20221030">
       <file name="Dusk Diver [0100B2B00E7AA800][US][v393216].nsp" size="351.60 MiB" dateCreated="20221030" dateModified="20201023"/>
@@ -4229,6 +4241,12 @@
     <folder name="Huntdown" size="1.20 GiB" fileCount="2" dateCreated="20220615" dateModified="20220615">
       <file name="Huntdown [0100EBA004726800][v524288](nsw2u.xyz).nsp" size="552.54 MiB" dateCreated="20220615" dateModified="20211130"/>
       <file name="HUNTDOWN[0100EBA004726000][US][v0].nsp" size="677.11 MiB" dateCreated="20220615" dateModified="20200513"/>
+    </folder>
+    <folder name="Hunter x Hunter Nen x Impact" size="2.64 GiB" fileCount="4" dateCreated="20250720" dateModified="20250720">
+      <file name="Hunter x Hunter Nen x Impact [DLC Chrollo Costume B] [010035E01A403002][v0].nsp" size="103.64 KiB" dateCreated="20250720" dateModified="20250719"/>
+      <file name="Hunter x Hunter Nen x Impact [DLC Preorder Bonus Gon Costume B Color 5] [010035E01A403001][v0].nsp" size="103.64 KiB" dateCreated="20250720" dateModified="20250719"/>
+      <file name="HUNTER×HUNTER NEN×IMPACT v1.0.2[010035E01A402800][131072][UPD].nsp" size="521.46 MiB" dateCreated="20250720" dateModified="20250719"/>
+      <file name="HUNTER×HUNTER NEN×IMPACT [JP][010035E01A402000].xci" size="2.13 GiB" dateCreated="20250720" dateModified="20250719"/>
     </folder>
     <folder name="Hunting Simulator 2" size="5.68 GiB" fileCount="2" dateCreated="20210727" dateModified="20210727">
       <file name="Hunting Simulator 2[010061F010C3A000][US][v0]-010.nsp" size="4.18 GiB" dateCreated="20210727" dateModified="20201017"/>
@@ -8958,6 +8976,9 @@
     <folder name="Tales of Vesperia Definitive Edition eur" size="12.87 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Tales of Vesperia Definitive Edition [Europe] [En,Ja,Fr,De,Es,It,Pt,Ru,Ko,Zh] [01002C0008E52000].nsp" size="12.87 GiB" dateCreated="20200717" dateModified="20191226"/>
     </folder>
+    <folder name="Tamagotchi Plaza (NSP)(US)(eShop)" size="980.88 MiB" fileCount="1" dateCreated="20250718" dateModified="20250718">
+      <file name="Tamagotchi Plaza v1.0.0[010064C01A9BA000][0][APP].nsp" size="980.88 MiB" dateCreated="20250718" dateModified="20250701"/>
+    </folder>
     <folder name="Taxi Chaos[0100B76011DAA000][US][v0]" size="1.38 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Taxi Chaos[0100B76011DAA000][US][v0].nsp" size="1.38 GiB" dateCreated="20210308" dateModified="20210225"/>
     </folder>
@@ -8991,6 +9012,10 @@
     <folder name="Teenage Mutant Ninja Turtles The Cowabunga Collection" size="3.77 GiB" fileCount="2" dateCreated="20220902" dateModified="20220902">
       <file name="Teenage Mutant Ninja Turtles The Cowabunga Collection [0100FDB0154E4000][v0][US](nsw2u.in).xci" size="3.72 GiB" dateCreated="20220902" dateModified="20220827"/>
       <file name="Teenage Mutant Ninja Turtles The Cowabunga Collection [0100FDB0154E4800][v65536][US](nsw2u.in).nsp" size="54.37 MiB" dateCreated="20220902" dateModified="20220901"/>
+    </folder>
+    <folder name="Tell Me Your Story (NSP)(eShop)" size="1.88 GiB" fileCount="2" dateCreated="20250718" dateModified="20250718">
+      <file name="Tell Me Your Story [010012501E8D6000].nsp" size="1.75 GiB" dateCreated="20250718" dateModified="20240425"/>
+      <file name="Tell Me Your Story [010012501E8D6800][131072][1.0.2].nsp" size="129.20 MiB" dateCreated="20250718" dateModified="20240918"/>
     </folder>
     <folder name="Telling Lies[010021100DF22000][US][v0]" size="7.41 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Telling Lies[010021100DF22000][US][v0].nsp" size="7.41 GiB" dateCreated="20220802" dateModified="20200430"/>
@@ -10733,5 +10758,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2292" totalFiles="6147" totalSize="9769.12 GiB" generatedOn="20250717"/>
+  <summary totalFolders="2298" totalFiles="6160" totalSize="9797.95 GiB" generatedOn="20250721"/>
 </root>
