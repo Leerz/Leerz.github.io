@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.57 TiB" fileCount="6160" dateCreated="20210923" dateModified="20250720">
-    <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0](nsw2u.xyz).nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
+  <folder name="NSP 2021" size="9.62 TiB" fileCount="6174" dateCreated="20210923" dateModified="20250726">
+    <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20250722">
+      <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
-    <folder name="1 Sudokus" size="169.74 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
-      <file name="1 Sudokus [0100CDD016BB0000][v0](nsw2u.xyz).nsp" size="169.74 MiB" dateCreated="20230430" dateModified="20211126"/>
+    <folder name="1 Sudokus" size="169.74 MiB" fileCount="1" dateCreated="20231227" dateModified="20250722">
+      <file name="1 Sudokus [0100CDD016BB0000][v0].nsp" size="169.74 MiB" dateCreated="20230430" dateModified="20211126"/>
     </folder>
     <folder name="1-2-Switch (NSP)" size="1.39 GiB" fileCount="2" dateCreated="20231223" dateModified="20231223">
       <file name="1-2-Switch[01000320000CC000][US][v0].nsp" size="1.38 GiB" dateCreated="20231223" dateModified="20210706"/>
@@ -197,21 +197,21 @@
       <file name="Ace Attorney Investigations Collection [010005501E68C000].xci" size="7.34 GiB" dateCreated="20240927" dateModified="20240905"/>
       <file name="Ace Attorney Investigations [010005501E68D001][v0].nsp" size="118.22 KiB" dateCreated="20240927" dateModified="20240909"/>
     </folder>
-    <folder name="ACE COMBAT 7 SKIES UNKNOWN DELUXE EDITION (NSP)" size="14.88 GiB" fileCount="14" dateCreated="20240809" dateModified="20240809">
-      <file name="ACE COMBAT 7 SKIES UNKNOWN DELUXE EDITION [0100E3401D660000][v0][US](nsw2u.com).xci" size="14.88 GiB" dateCreated="20240809" dateModified="20240713"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_asf_x_shinden_ii_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_cfa_44_nosferatu_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_cutting_edge_aircraft_series_special_bonus_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_experimental_aircraft_series_special_bonus_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_fb_22_strike_raptor_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_f_15_s_mtd_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_f_16xl_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_f_2a_super_kai_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_f_a_18f_super_hornet_block_iii_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_mig_35d_super_fulcrum_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_original_aircraft_series_special_bonus_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_top_gun_maverick_aircraft_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
-      <file name="sxs-ace_combat_7_skies_unknown_deluxe_edition_multi7_xfa_27_set_dlc.nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+    <folder name="ACE COMBAT 7 SKIES UNKNOWN DELUXE EDITION (NSP)" size="14.88 GiB" fileCount="14" dateCreated="20240809" dateModified="20250722">
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - ASF-X Shinden II Set [0100E3401D661003][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - CFA-44 Nosferatu Set [0100E3401D661001][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - Cutting-Edge Aircraft Series Special Bonus Set [0100E3401D66100C][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - Experimental Aircraft Series Special Bonus Set [0100E3401D661008][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - F-15 S-MTD Set [0100E3401D661005][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - F-16XL Set [0100E3401D661006][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - F-2A -Super Kai- Set [0100E3401D66100A][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - F-A-18F Super Hornet Block III Set [0100E3401D661009][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - FB-22 Strike Raptor Set [0100E3401D661007][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - MiG-35D Super Fulcrum Set [0100E3401D66100B][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - Original Aircraft Series Special Bonus Set [0100E3401D661004][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - TOP GUN- Maverick Aircraft Set [0100E3401D66100D][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN - XFA-27 Set [0100E3401D661002][v0].nsp" size="121.20 KiB" dateCreated="20240809" dateModified="20240712"/>
+      <file name="ACE COMBAT™7- SKIES UNKNOWN DELUXE EDITION [0100E3401D660000][v0].xci" size="14.88 GiB" dateCreated="20240809" dateModified="20240713"/>
     </folder>
     <folder name="Ace of Seafood" size="235.73 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Ace of Seafood.nsp" size="235.73 MiB" dateCreated="20190921" dateModified="20180726"/>
@@ -956,6 +956,10 @@
     <folder name="Azure Striker GUNVOLT STRIKER PACK [01003C100655A000]" size="3.30 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Azure Striker GUNVOLT STRIKER PACK [01003C100655A000]+[v1.7] (nsw2u).xci" size="3.30 GiB" dateCreated="20220826" dateModified="20210210"/>
     </folder>
+    <folder name="Azure Striker Gunvolt Trilogy Enhanced v1.0.1" size="6.73 GiB" fileCount="2" dateCreated="20250726" dateModified="20250726">
+      <file name="Azure Striker Gunvolt Trilogy Enhanced v1.0.1[0100E40022CE2800][65536][UPD].nsp" size="168.98 MiB" dateCreated="20250726" dateModified="20250725"/>
+      <file name="Azure Striker Gunvolt Trilogy Enhanced v1.0[0100E40022CE2000][0][APP].nsp" size="6.57 GiB" dateCreated="20250726" dateModified="20250725"/>
+    </folder>
     <folder name="Baba Is You V1.0.7 Eur" size="183.07 MiB" fileCount="1" dateCreated="20241021" dateModified="20241021">
       <file name="Baba Is You V1.0.7 Eur Switch-xci.com.xci" size="183.07 MiB" dateCreated="20241021" dateModified="20200313"/>
     </folder>
@@ -986,6 +990,10 @@
     </folder>
     <folder name="Baldurs Gate Dark Alliance" size="3.88 GiB" fileCount="1" dateCreated="20230723" dateModified="20241126">
       <file name="Baldurs Gate Dark Alliance [0100FD1014726000][v0].nsp" size="3.88 GiB" dateCreated="20210529" dateModified="20210522"/>
+    </folder>
+    <folder name="Bambas!" size="820.89 MiB" fileCount="2" dateCreated="20250726" dateModified="20250726">
+      <file name="Bambas! v1.00[010067C021AC4000][0][APP].nsp" size="463.68 MiB" dateCreated="20250725" dateModified="20250722"/>
+      <file name="Bambas! v1.3[010067C021AC4800][131072][UPD].nsp" size="357.21 MiB" dateCreated="20250725" dateModified="20250711"/>
     </folder>
     <folder name="BanG Dream Girls Band Party" size="6.90 GiB" fileCount="2" dateCreated="20220627" dateModified="20240909">
       <file name="BanG Dream Girls Band Party for Nintendo Switch [010070D01483A000][v0][JP](nsw2u).nsp" size="6.67 GiB" dateCreated="20220621" dateModified="20210916"/>
@@ -1605,6 +1613,10 @@
     </folder>
     <folder name="Cartoon Network Battle Crashers[EUR][0100085003A2A000][v0]" size="157.75 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Cartoon Network Battle Crashers[EUR][0100085003A2A000][v0].nsp" size="157.75 MiB" dateCreated="20220814" dateModified="20200602"/>
+    </folder>
+    <folder name="CarX Drift Racing Online [01001A10134B8000][v0]" size="5.57 GiB" fileCount="2" dateCreated="20250726" dateModified="20250726">
+      <file name="CarX Drift Racing Online v2.22.3[01001A10134B8800][v1245184][UPD].nsp" size="2.95 GiB" dateCreated="20250725" dateModified="20241126"/>
+      <file name="CarX Drift Racing Online [01001A10134B8000][v0].nsp" size="2.63 GiB" dateCreated="20250725" dateModified="20241126"/>
     </folder>
     <folder name="Cassette Beasts" size="766.48 MiB" fileCount="3" dateCreated="20230711" dateModified="20230711">
       <file name="Cassette Beasts [010066F01A0E0000][v0][US](nsw2u.com).nsp" size="641.76 MiB" dateCreated="20230711" dateModified="20230529"/>
@@ -5986,6 +5998,10 @@
       <file name="MotoGP 23 [0100B750198C6000][v0][US](nsw2u.com).nsp" size="9.28 GiB" dateCreated="20240217" dateModified="20230615"/>
       <file name="MotoGP 23 [0100B750198C6800][USA][v458752].nsp" size="2.03 GiB" dateCreated="20240217" dateModified="20231005"/>
     </folder>
+    <folder name="MotoGP 25 [01006C7021024800]" size="10.01 GiB" fileCount="2" dateCreated="20250726" dateModified="20250726">
+      <file name="MotoGP 25 v1.0.0[01006C7021024000][0][APP].nsp" size="8.75 GiB" dateCreated="20250726" dateModified="20250501"/>
+      <file name="MotoGP 25 [01006C7021024800][v131072][1.0.2].nsp" size="1.26 GiB" dateCreated="20250726" dateModified="20250522"/>
+    </folder>
     <folder name="MotoGP18" size="9.69 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="MotoGP18.nsp" size="9.69 GiB" dateCreated="20190921" dateModified="20180727"/>
     </folder>
@@ -7078,6 +7094,9 @@
       <file name="Pokemon Cafe Mix [010072400E04A000][US][v0].nsp" size="106.00 MiB" dateCreated="20210923" dateModified="20200630"/>
       <file name="Pokemon Cafe Mix[010072400E04A800][US][v393216][CR-10].nsp" size="61.17 MiB" dateCreated="20210923" dateModified="20201022"/>
     </folder>
+    <folder name="Pokemon Friends [010008C01E742000][v0]" size="725.61 MiB" fileCount="1" dateCreated="20250726" dateModified="20250726">
+      <file name="Pokemon Friends [010008C01E742000][v0] (0.72 GB).nsp" size="725.61 MiB" dateCreated="20250726" dateModified="20250725"/>
+    </folder>
     <folder name="Pokemon Legends Arceus" size="6.10 GiB" fileCount="2" dateCreated="20231114" dateModified="20250108">
       <file name="Pokemon Legends Arceus [01001F5010DFA800][v262144].nsp" size="88.91 MiB" dateCreated="20250108" dateModified="20220318"/>
       <file name="Pokemon Legends Arceus[01001F5010DFA000][US][v0].nsp" size="6.02 GiB" dateCreated="20231114" dateModified="20220205"/>
@@ -7867,6 +7886,10 @@
     <folder name="Severed Steel [0100E1C0148F8000][v0]" size="2.96 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Severed Steel [0100E1C0148F8000][v0].nsp" size="2.96 GiB" dateCreated="20220802" dateModified="20220725"/>
     </folder>
+    <folder name="Shadow Labyrinth [JP][0100B4001E0E6000]" size="4.94 GiB" fileCount="2" dateCreated="20250726" dateModified="20250726">
+      <file name="Shadow Labyrinth v1.0.3[0100B4001E0E6800][196608][UPD].nsp" size="1.61 GiB" dateCreated="20250726" dateModified="20250719"/>
+      <file name="Shadow Labyrinth [JP][0100B4001E0E6000].xci" size="3.33 GiB" dateCreated="20250726" dateModified="20250719"/>
+    </folder>
     <folder name="Shadows of the Damned Hella Remastered" size="4.91 GiB" fileCount="2" dateCreated="20241106" dateModified="20241106">
       <file name="Shadows of the Damned Hella Remastered [010037A01F96C000][v0][US](nsw2u.com).nsp" size="4.88 GiB" dateCreated="20241106" dateModified="20241031"/>
       <file name="Shadows of the Damned Hella Remastered [010037A01F96C800][v65536][US](nsw2u.com).nsp" size="26.75 MiB" dateCreated="20241106" dateModified="20241031"/>
@@ -8136,6 +8159,9 @@
       <file name="Snufkin Melody of Moominvalley [010085001A17C000][v0][US](nsw2u.com).nsp" size="1.21 GiB" dateCreated="20240911" dateModified="20240308"/>
       <file name="Snufkin Melody of Moominvalley [010085001A17C800][v196608][US](nsw2u.com).nsp" size="498.76 MiB" dateCreated="20240911" dateModified="20240508"/>
       <file name="Snufkin Melody of Moominvalley [Snufkin Melody of Moominvalley - Cherished Keepsakes] [010085001A17D001][v0].nsp" size="118.20 KiB" dateCreated="20240911" dateModified="20240316"/>
+    </folder>
+    <folder name="Soma v1.0.0[0100927023A34000][0][APP]" size="15.94 GiB" fileCount="1" dateCreated="20250726" dateModified="20250726">
+      <file name="Soma v1.0.0[0100927023A34000][0][APP].nsp" size="15.94 GiB" dateCreated="20250726" dateModified="20250725"/>
     </folder>
     <folder name="Song of Memories" size="5.87 GiB" fileCount="2" dateCreated="20240329" dateModified="20240329">
       <file name="Song of Memories [010039D015FE2000][v0][US](nsw2u.com).nsp" size="5.86 GiB" dateCreated="20240329" dateModified="20230324"/>
@@ -9653,6 +9679,10 @@
     <folder name="Thunder Ray [010015C01812C000][v0][US](nsw2u.com)" size="1.00 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Thunder Ray [010015C01812C000][v0][US](nsw2u.com).nsp" size="1.00 GiB" dateCreated="20231009" dateModified="20230920"/>
     </folder>
+    <folder name="TIEBREAK Plus Ace Edition" size="11.11 GiB" fileCount="2" dateCreated="20250721" dateModified="20250721">
+      <file name="TIEBREAK Plus Ace Edition [010008301AA96000].xci" size="10.53 GiB" dateCreated="20250721" dateModified="20250517"/>
+      <file name="Tiebreak+ Official Game of the ATP and WTA [010008301AA96800][v131072][US](nsw2u.com).nsp" size="598.76 MiB" dateCreated="20250721" dateModified="20250606"/>
+    </folder>
     <folder name="Time Loader [0100BE4016674000][v0](nsw2u.xyz)" size="3.34 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Time Loader [0100BE4016674000][v0](nsw2u.xyz).nsp" size="3.34 GiB" dateCreated="20220814" dateModified="20220310"/>
     </folder>
@@ -10758,5 +10788,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2298" totalFiles="6160" totalSize="9797.95 GiB" generatedOn="20250721"/>
+  <summary totalFolders="2306" totalFiles="6174" totalSize="9853.77 GiB" generatedOn="20250727"/>
 </root>
