@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="PS4_PKG" size="10.34 TiB" fileCount="1688" dateCreated="20241229" dateModified="20250816">
+  <folder name="PS4_PKG" size="10.37 TiB" fileCount="1689" dateCreated="20241229" dateModified="20250816">
     <folder name="7days to die" size="1.58 GiB" fileCount="1" dateCreated="20250102" dateModified="20250815">
       <file name="CUSA03455 Game [7 Days To Die] 1.00.pkg" size="1.58 GiB" dateCreated="20180307" dateModified="20180204"/>
     </folder>
@@ -2176,11 +2176,12 @@
       <file name="CUSA24899 Game [Stray] 1.00.pkg" size="6.75 GiB" dateCreated="20220821" dateModified="20220821"/>
       <file name="CUSA24899 Patch [Stray] 1.00.pkg" size="6.50 GiB" dateCreated="20220821" dateModified="20220821"/>
     </folder>
-    <folder name="Street Fighter 6" size="35.99 GiB" fileCount="4" dateCreated="20230613" dateModified="20250815">
-      <file name="CUSA31498 Addon [Street Fighter 6 Fighting Ground] 1.01.pkg" size="2.88 GiB" dateCreated="20230613" dateModified="20230602"/>
-      <file name="CUSA31498 Addon [Street Fighter 6 World Tour] 1.01.pkg" size="1.50 MiB" dateCreated="20230613" dateModified="20230602"/>
-      <file name="CUSA31498 Game [Street Fighter 6] 1.00.pkg" size="32.44 GiB" dateCreated="20230613" dateModified="20230613"/>
-      <file name="CUSA31498 Patch [Street Fighter 6] 1.00.pkg" size="684.94 MiB" dateCreated="20230613" dateModified="20230613"/>
+    <folder name="Street Fighter 6" size="61.67 GiB" fileCount="5" dateCreated="20230613" dateModified="20250816">
+      <file name="CUSA31498 Addon [Street Fighter 6 Fighting Ground] 1.01.pkg" size="2.88 GiB" dateCreated="20250816" dateModified="20230602"/>
+      <file name="CUSA31498 Addon [Street Fighter 6 World Tour] 1.01.pkg" size="1.50 MiB" dateCreated="20250816" dateModified="20230602"/>
+      <file name="CUSA31498 Addon [Street Fighter 6 Year2 Ultimate Pass] 1.00.pkg" size="1.50 MiB" dateCreated="20250816" dateModified="20240627"/>
+      <file name="CUSA31498 Game [Street Fighter 6] 1.20.pkg" size="58.43 GiB" dateCreated="20250816" dateModified="20250816"/>
+      <file name="CUSA31498 Patch [Street Fighter 6] 1.00.pkg" size="365.69 MiB" dateCreated="20250816" dateModified="20250816"/>
     </folder>
     <folder name="Street.Fighter.V CUSA270065" size="36.94 GiB" fileCount="2" dateCreated="20220322" dateModified="20250815">
       <file name="CUSA01222 Addon [SF5 General Story DLC] 1.01.pkg" size="7.57 GiB" dateCreated="20220321" dateModified="20220321"/>
@@ -2598,5 +2599,5 @@
       <file name="CUSA01345 Game [Zombie Army Trilogy] 1.02.pkg" size="8.19 GiB" dateCreated="20180306" dateModified="20180306"/>
     </folder>
   </folder>
-  <summary totalFolders="454" totalFiles="1688" totalSize="10591.10 GiB"/>
+  <summary totalFolders="454" totalFiles="1689" totalSize="10616.78 GiB"/>
 </root>
