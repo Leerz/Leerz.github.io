@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.62 TiB" fileCount="6174" dateCreated="20210923" dateModified="20250726">
+  <folder name="NSP 2021" size="9.70 TiB" fileCount="6220" dateCreated="20210923" dateModified="20250816">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20250722">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -445,9 +445,13 @@
     <folder name="Anime Tank Blitz Warbound Legends" size="1.65 GiB" fileCount="1" dateCreated="20240123" dateModified="20240123">
       <file name="Anime Tank Blitz Warbound Legends 1.0.0 [010022B01D6DE000][v0][APP].nsp" size="1.65 GiB" dateCreated="20240123" dateModified="20231226"/>
     </folder>
-    <folder name="ANIMUS" size="2.64 GiB" fileCount="2" dateCreated="20240108" dateModified="20241205">
-      <file name="ANIMUS [010097600C322000][v0].nsp" size="1.84 GiB" dateCreated="20240101" dateModified="20200608"/>
-      <file name="ANIMUS [010097600C322800][v196608].nsp" size="818.02 MiB" dateCreated="20240101" dateModified="20200608"/>
+    <folder name="ANIMUS" size="2.64 GiB" fileCount="2" dateCreated="20240108" dateModified="20250805">
+      <folder name="ANIMUS [010097600C322000][v0]" size="1.84 GiB" fileCount="1" dateCreated="20250805" dateModified="20250805">
+        <file name="ANIMUS [010097600C322000][v0].nsp" size="1.84 GiB" dateCreated="20240101" dateModified="20200608"/>
+      </folder>
+      <folder name="ANIMUS [010097600C322800][v196608]" size="818.02 MiB" fileCount="1" dateCreated="20250805" dateModified="20250805">
+        <file name="ANIMUS [010097600C322800][v196608].nsp" size="818.02 MiB" dateCreated="20240101" dateModified="20200608"/>
+      </folder>
     </folder>
     <folder name="ANIMUS Harbinger" size="2.07 GiB" fileCount="2" dateCreated="20240108" dateModified="20240108">
       <file name="ANIMUS Harbinger [0100E5A00FD38800][v131072].nsp" size="411.51 MiB" dateCreated="20240101" dateModified="20200608"/>
@@ -1898,6 +1902,10 @@
     <folder name="Corpse Party Blood Drive [010016400B1FE000][v0]" size="2.52 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Corpse Party Blood Drive [010016400B1FE000][v0].nsp" size="2.52 GiB" dateCreated="20191122" dateModified="20191022"/>
     </folder>
+    <folder name="Cotton Reboot High Tension" size="2.41 GiB" fileCount="2" dateCreated="20250816" dateModified="20250816">
+      <file name="Cotton Reboot High Tension [ 010050001F7E4000] [v0].nsp" size="2.09 GiB" dateCreated="20250816" dateModified="20250731"/>
+      <file name="Cotton Reboot High Tension [010050001F7E4800] [v65536].nsp" size="328.06 MiB" dateCreated="20250816" dateModified="20250731"/>
+    </folder>
     <folder name="Counter Delta 2 Eastern Crisis" size="2.39 GiB" fileCount="2" dateCreated="20240123" dateModified="20240123">
       <file name="Counter Delta 2 Eastern Crisis [01003E601C35E000][v0][US](nsw2u.com).nsp" size="2.25 GiB" dateCreated="20240123" dateModified="20230730"/>
       <file name="Counter Delta 2 Eastern Crisis [01003E601C35E800][v65536](Update 1.0.3).nsp" size="146.68 MiB" dateCreated="20240123" dateModified="20231115"/>
@@ -2256,6 +2264,15 @@
       <file name="Demon Slayer -Kimetsu no Yaiba- Sweep the Board! [Set of 3 Premium Tickets DLC][0100A7101B807002][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20240722" dateModified="20240426"/>
       <file name="Demon Slayer -Kimetsu no Yaiba- Sweep the Board! [Set of 4 Stamps DLC][0100A7101B807001][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20240722" dateModified="20240426"/>
     </folder>
+    <folder name="Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2" size="16.44 GiB" fileCount="7" dateCreated="20250807" dateModified="20250807">
+      <file name="Character Unlock Keys .NSP" size="103.16 KiB" dateCreated="20250807" dateModified="20250802"/>
+      <file name="Character Unlock Keys Academy Rengoku and Academy Uzui [0100AD80208A9005][v0][DLC].nsp" size="103.16 KiB" dateCreated="20250807" dateModified="20250802"/>
+      <file name="Character Unlock Keys Muichiro Tokito and Mitsuri Kanroji [0100AD80208A9004][v0][DLC].nsp" size="103.16 KiB" dateCreated="20250807" dateModified="20250802"/>
+      <file name="Character Unlock Keys Obanai Iguro, Sanemi Shinazugawa, and Gyomei Himejima [0100AD80208A9002][v0][DLC].nsp" size="103.16 KiB" dateCreated="20250807" dateModified="20250802"/>
+      <file name="Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 [BASE][0100AD80208A8000][v0].nsp" size="12.84 GiB" dateCreated="20250807" dateModified="20250807"/>
+      <file name="Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 [UPD][0100AD80208A8800][v131072].nsp" size="3.60 GiB" dateCreated="20250807" dateModified="20250807"/>
+      <file name="VS Mode System Voice Upper Rank Demons Set (Akaza, Daki, Gyutaro, Gyokko, Zohakuten) [0100AD80208A9003][v0][DLC].nsp" size="103.16 KiB" dateCreated="20250807" dateModified="20250802"/>
+    </folder>
     <folder name="Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba" size="8.74 GiB" fileCount="3" dateCreated="20220613" dateModified="20220613">
       <file name="Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [0100309016E7A000][v0][US](nsw2u.xyz).nsp" size="8.74 GiB" dateCreated="20220613" dateModified="20220610"/>
       <file name="Demon Slayer The Hinokami Chronicles [DLC Character Unlock Nezuko Kamado, Zenitsu Agatsuma, Inosuke Hashibira] [0100309016E7B002][v0].nsp" size="104.13 KiB" dateCreated="20220613" dateModified="20220610"/>
@@ -2548,39 +2565,43 @@
       <file name="Dr Kawashimas Brain Training [0100ED000D390000][v0][US](nsw2u.com).nsp" size="303.75 MiB" dateCreated="20210924" dateModified="20210110"/>
       <file name="Dr Kawashimas Brain Training [0100ED000D390800][v196608][US](nsw2u.com).nsp" size="77.19 MiB" dateCreated="20210924" dateModified="20210110"/>
     </folder>
-    <folder name="DRAGON BALL FIGHTERZ" size="6.23 GiB" fileCount="32" dateCreated="20210122" dateModified="20231010">
-      <file name="DRAGON BALL FIGHTERZ [0100A250097F0000][v0].nsp" size="6.22 GiB" dateCreated="20210120" dateModified="20190527"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Android 17][0100A250097F100D][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Android 21 Unlock][0100A250097F1002][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Anime Music Pack][0100A250097F1005][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Bardock][0100A250097F1007][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Broly (DBS)][0100A250097F1019].nsp" size="121.20 KiB" dateCreated="20210120" dateModified="20200227"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Broly][0100A250097F1008][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Character Pack 14][0100A250097F1019][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Commentator Voice Pack 2][0100A250097F101A][US][v65536].nsp" size="149.94 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Commentator Voice Pack 3][0100A250097F101B][US][v65536].nsp" size="149.94 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Commentator Voice Pack 4][0100A250097F101C][US][v65536].nsp" size="149.94 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Commentator Voice Pack][0100A250097F1006][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Cooler][0100A250097F100E][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Exclusive SS Goku Lobby Avatar][0100A250097F100F][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - FighterZ Pack 16][0100A250097F101E][US][v0].nsp" size="149.94 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - FighterZ Pack 17][0100A250097F101F][US][v0].nsp" size="149.94 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - FighterZ Pack 18][0100A250097F1020][US][v0].nsp" size="149.94 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - FighterZ Pack 19][0100A250097F1021][US][v0].nsp" size="149.94 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Gogeta SSGSS][0100A250097F1018][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Goku GT][0100A250097F1016][US][v65536].nsp" size="149.94 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Goku][0100A250097F100B][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Janemba][0100A250097F1017][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Jiren][0100A250097F1014][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Kefla][0100A250097F101D][US][v0].nsp" size="149.94 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - SSGSS Goku and SSGSS Vegeta Unlock][0100A250097F1001][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - SSGSS Lobby Avatars][0100A250097F1003][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Stamps Girls Pack][0100A250097F1004][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Vegeta][0100A250097F100C][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Vegito SSGSS][0100A250097F100A][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Videl][0100A250097F1015][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Zamasu Fused][0100A250097F1009][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
-      <file name="DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ – Anime Music Pack 2][0100A250097F1013][US][v0].nsp" size="150.83 KiB" dateCreated="20210120" dateModified="20200615"/>
+    <folder name="DRAGON BALL FIGHTERZ" size="9.85 GiB" fileCount="36" dateCreated="20210122" dateModified="20250824">
+      <file name="DRAGON BALL FIGHTERZ [0100A250097F0800][v1441792][US](nsw2u.com).nsp" size="3.63 GiB" dateCreated="20250726" dateModified="20240907"/>
+      <file name="DRAGON BALL FighterZ [0100A250097F1022][v0].nsp" size="118.20 KiB" dateCreated="20250726" dateModified="20220225"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-10] [0100A250097F100A][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-11] [0100A250097F100B][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-12] [0100A250097F100D][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-13] [0100A250097F100E][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-14] [0100A250097F100F][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-15] [0100A250097F1010][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-16] [0100A250097F1011][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-17] [0100A250097F1012][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-18] [0100A250097F1013][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-19] [0100A250097F1014][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-1] [0100A250097F1001][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-20] [0100A250097F1015][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-21] [0100A250097F1016][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-22] [0100A250097F1017][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-23] [0100A250097F1018][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-24] [0100A250097F1019][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-25] [0100A250097F101A][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-26] [0100A250097F101B][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-27] [0100A250097F101C][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-28] [0100A250097F101D][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-29] [0100A250097F101E][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-2] [0100A250097F1002][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-30] [0100A250097F101F][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-31] [0100A250097F1020][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-32] [0100A250097F1021][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-33] [0100A250097F100C][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-3] [0100A250097F1003][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-4] [0100A250097F1004][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-5] [0100A250097F1005][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-6] [0100A250097F1006][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-7] [0100A250097F1007][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-8] [0100A250097F1008][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="DRAGON BALL FIGHTERZ [DLC-9] [0100A250097F1009][v655360].nsp" size="121.20 KiB" dateCreated="20250726" dateModified="20200728"/>
+      <file name="Dragon_Ball_Fighter_Z[0100a250097f0000][v0].nsp" size="6.22 GiB" dateCreated="20250726" dateModified="20180923"/>
     </folder>
     <folder name="DRAGON BALL THE BREAKERS" size="4.06 GiB" fileCount="5" dateCreated="20231010" dateModified="20231010">
       <file name="DRAGON BALL THE BREAKERS [010093F011A26000][v0][US](nsw2u.com).nsp" size="3.82 GiB" dateCreated="20231010" dateModified="20221028"/>
@@ -3254,6 +3275,10 @@
       <file name="Fate Samurai Remnant [特典衣装：幻想霊衣「宮本武蔵」] [01000DA017CF1005][v0].nsp" size="9.87 MiB" dateCreated="20231006" dateModified="20231004"/>
       <file name="Fate Samurai Remnant [特典装備：上世宝剣拵] [01000DA017CF1001][v0].nsp" size="3.13 MiB" dateCreated="20231006" dateModified="20231004"/>
     </folder>
+    <folder name="Fatehollow ataraxia REMASTERED" size="7.83 GiB" fileCount="2" dateCreated="20250816" dateModified="20250816">
+      <file name="Fatehollow ataraxia REMASTERED v1.0.0 b471[010070E022546000][v0][APP].nsp" size="7.72 GiB" dateCreated="20250816" dateModified="20250813"/>
+      <file name="Fatehollow ataraxia REMASTERED v1.0.2 b723[010070E022546800][v131072][UPD].nsp" size="110.25 MiB" dateCreated="20250816" dateModified="20250813"/>
+    </folder>
     <folder name="Fe" size="1.12 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Fe.nsp" size="1.12 GiB" dateCreated="20190921" dateModified="20180726"/>
     </folder>
@@ -3467,6 +3492,9 @@
     </folder>
     <folder name="FM Touch 2018" size="2.58 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="FM Touch 2018.nsp" size="2.58 GiB" dateCreated="20190921" dateModified="20180726"/>
+    </folder>
+    <folder name="Footgun Underground" size="328.39 MiB" fileCount="1" dateCreated="20250816" dateModified="20250816">
+      <file name="Footgun Underground [01002C0020DD2000][v0].nsp" size="328.39 MiB" dateCreated="20250816" dateModified="20250808"/>
     </folder>
     <folder name="For The King [010069400B6BE000]]" size="564.56 MiB" fileCount="2" dateCreated="20250220" dateModified="20250220">
       <file name="For The King [010069400B6BE000][v0](nsw2u.com).nsz" size="452.22 MiB" dateCreated="20250220" dateModified="20250220"/>
@@ -3817,6 +3845,10 @@
       <file name="GRISAIA PHANTOM TRIGGER 01 to 05 [01004AB0133E8000][v0](nsw2u).nsp" size="6.09 GiB" dateCreated="20230829" dateModified="20210826"/>
       <file name="GRISAIA PHANTOM TRIGGER 5 5 to 08 [010039C01AC6C000][v0][US](nsw2u.com).nsp" size="6.99 GiB" dateCreated="20230829" dateModified="20230629"/>
     </folder>
+    <folder name="GROOVE COASTER FUTURE PERFORMAERS" size="3.85 GiB" fileCount="2" dateCreated="20250816" dateModified="20250816">
+      <file name="GROOVE COASTER FUTURE PERFORMAERS v1.0.0[01003F80212D8000][0][APP].nsp" size="3.73 GiB" dateCreated="20250816" dateModified="20250801"/>
+      <file name="GROOVE COASTER FUTURE PERFORMERS v1.0.1[01003F80212D8800][65536][UPD].nsp" size="120.08 MiB" dateCreated="20250816" dateModified="20250801"/>
+    </folder>
     <folder name="GROOVE COASTER WAI WAI PARTY" size="4.23 GiB" fileCount="51" dateCreated="20250608" dateModified="20250608">
       <file name="GROOVE COASTER WAI WAI PARTY!!!! CHUNITHM Pack [0100EB500D92F032][v131072].nsp" size="56.82 MiB" dateCreated="20250608" dateModified="20250109"/>
       <file name="GROOVE COASTER WAI WAI PARTY!!!! Hit Song + VTuber Pack 6 [0100EB500D92F030][v131072].nsp" size="51.27 MiB" dateCreated="20250608" dateModified="20250109"/>
@@ -4116,6 +4148,10 @@
     <folder name="Henchman Story" size="1.20 GiB" fileCount="1" dateCreated="20240329" dateModified="20240329">
       <file name="Henchman Story[01003580162D8000][US][v0](nsw2u.xyz).nsp" size="1.20 GiB" dateCreated="20240329" dateModified="20211017"/>
     </folder>
+    <folder name="Heretic plus Hexen" size="1.32 GiB" fileCount="2" dateCreated="20250816" dateModified="20250816">
+      <file name="Heretic plus Hexen v1.0.0[01005200216A0000][v0][APP].nsp" size="677.67 MiB" dateCreated="20250816" dateModified="20250810"/>
+      <file name="Heretic plus Hexen v1.1.0[01005200216A0800][v65536][UPD].nsp" size="677.05 MiB" dateCreated="20250816" dateModified="20250810"/>
+    </folder>
     <folder name="Heroes of Hammerwatch" size="584.40 MiB" fileCount="2" dateCreated="20240114" dateModified="20240115">
       <file name="Heroes of Hammerwatch - Ultimate Edition [0100D2B00BC54800][v524288][US](nsw2u.in).nsp" size="290.16 MiB" dateCreated="20240114" dateModified="20220830"/>
       <file name="Heroes of Hammerwatch[0100D2B00BC54000][US][v0].nsp" size="294.24 MiB" dateCreated="20240114" dateModified="20200805"/>
@@ -4412,6 +4448,10 @@
     </folder>
     <folder name="Ion Fury [010041C00D086000]+[v1.07]" size="512.31 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Ion Fury [010041C00D086000]+[v1.07].xci" size="512.31 MiB" dateCreated="20221204" dateModified="20200701"/>
+    </folder>
+    <folder name="ION Shift" size="312.13 MiB" fileCount="2" dateCreated="20250816" dateModified="20250816">
+      <file name="ION Shift [ 01001DA023794000] [v0].nsp" size="244.65 MiB" dateCreated="20250816" dateModified="20250731"/>
+      <file name="ION Shift [01001DA023794800] [v131072].nsp" size="67.48 MiB" dateCreated="20250816" dateModified="20250731"/>
     </folder>
     <folder name="Iris School of Wizardry -Vinculum Hearts-[0100AD300B786000][US][v0]" size="405.29 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Iris School of Wizardry -Vinculum Hearts-[0100AD300B786000][US][v0].nsz" size="405.29 MiB" dateCreated="20210117" dateModified="20210117"/>
@@ -5486,13 +5526,24 @@
     <folder name="METAGAL" size="33.30 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="METAGAL .nsz" size="33.30 MiB" dateCreated="20200703" dateModified="20191104"/>
     </folder>
-    <folder name="METAL GEAR SOLID MASTER COLLECTION Vol.1 MULTI" size="31.85 GiB" fileCount="6" dateCreated="20231021" dateModified="20240108">
-      <file name="METAL GEAR SOLID - Master Collection Version [010033301A9C0800][v262144][EU](nsw2u.com).nsp" size="7.30 GiB" dateCreated="20231024" dateModified="20231023"/>
-      <file name="METAL GEAR SOLID - Master Collection Version [0100C1301A9C2000][v0][US](nsw2u.com).xci" size="7.44 GiB" dateCreated="20231020" dateModified="20231019"/>
-      <file name="METAL GEAR SOLID 2 Sons of Liberty - Master Collection Version [0100A4301AA0C800][v262144][US](nsw2u.com).nsp" size="6.53 GiB" dateCreated="20231024" dateModified="20231023"/>
-      <file name="METAL GEAR SOLID 3 Snake Eater - Master Collection Version [010047F01AA10800][v327680][US](nsw2u.com).nsp" size="10.40 GiB" dateCreated="20231024" dateModified="20231023"/>
-      <file name="METAL GEAR SOLID MASTER COLLECTION Vol 1 BONUS CONTENT [010056901AA16800][v196608][US](nsw2u.com).nsp" size="11.16 MiB" dateCreated="20231020" dateModified="20231008"/>
-      <file name="METAL GEAR SOLID MASTER COLLECTION Vol.1 BONUS CONTENT [010056901AA16000][v0][US](nsw2u.com).nsp" size="177.96 MiB" dateCreated="20231020" dateModified="20231020"/>
+    <folder name="METAL GEAR SOLID MASTER COLLECTION Vol.1 MULTI" size="46.17 GiB" fileCount="17" dateCreated="20231021" dateModified="20250824">
+      <file name="Metal Gear and Metal Gear 2 Solid Snake [010083801AA14000][v0] (0.41 GB).nsz" size="221.17 MiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear and Metal Gear 2 Solid Snake [010083801AA14800][v524288] (0.21 GB).nsz" size="129.91 MiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid - Master Collection Version [0100C1301A9C2000][v0] (0.45 GB).nsz" size="433.86 MiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid - Master Collection Version [0100C1301A9C2800][v393216] (7.30 GB).nsz" size="4.67 GiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid - Master Collection Version [DLC Japanese Language Pack] [0100C1301A9C3001][v0] (3.16 GB).nsz" size="1.95 GiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid - Master Collection Version [DLC North American Pack] [0100C1301A9C3002][v0] (1.80 GB).nsz" size="1.11 GiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid 2 Sons of Liberty - Master Collection Version [0100A4301AA0C000][v0] (0.34 GB).nsz" size="236.66 MiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid 2 Sons of Liberty - Master Collection Version [0100A4301AA0C800][v589824] (6.58 GB).nsz" size="4.27 GiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid 2 Sons of Liberty - Master Collection Version [DLC Japanese Language Pack] [0100A4301AA0D001][v0] (5.49 GB).nsz" size="4.05 GiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid 3 Snake Eater - Master Collection Version [010047F01AA10000][v0] (0.37 GB).nsz" size="251.17 MiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid 3 Snake Eater - Master Collection Version [010047F01AA10800][v655360].nsp" size="10.44 GiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid 3 Snake Eater - Master Collection Version [DLC Japanese Language Pack] [010047F01AA11001][v0] (7.12 GB).nsz" size="6.01 GiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid Master Collection Vol.1 Bonus Content [010056901AA16000][v0] (0.18 GB).nsz" size="168.56 MiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid Master Collection Vol.1 Bonus Content [010056901AA16800][v524288] (0.21 GB).nsz" size="197.55 MiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid Master Collection Vol.1 Bonus Content [DLC MGS Digital Graphic Novel] [010056901AA17002][v0] (5.06 GB).nsz" size="5.06 GiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid Master Collection Vol.1 Bonus Content [DLC MGS2 Digital Graphic Novel] [010056901AA17004][v0] (7.01 GB).nsz" size="7.01 GiB" dateCreated="20250818" dateModified="20250818"/>
+      <file name="Metal Gear Solid Master Collection Vol.1 Bonus Content [DLC Pre-Order Bonus] [010056901AA17005][v0] (0.01 GB).nsz" size="12.80 MiB" dateCreated="20250818" dateModified="20250818"/>
     </folder>
     <folder name="METAL MAX Xeno Reborn" size="4.29 GiB" fileCount="8" dateCreated="20240114" dateModified="20240115">
       <file name="METAL MAX Xeno Reborn [010063D01560A000][v0][US](nsw2u.xyz).nsp" size="4.25 GiB" dateCreated="20240114" dateModified="20220610"/>
@@ -5595,6 +5646,9 @@
     </folder>
     <folder name="Mini Car Racing 2[0100779015FFE000][US][v0](nsw2u.xyz)" size="1.61 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Mini Car Racing 2[0100779015FFE000][US][v0](nsw2u.xyz).nsp" size="1.61 GiB" dateCreated="20211004" dateModified="20211003"/>
+    </folder>
+    <folder name="Mini Wheels Racers Turbo Toy Playground" size="982.20 MiB" fileCount="1" dateCreated="20250816" dateModified="20250816">
+      <file name="Mini Wheels Racers Turbo Toy Playground [01002BD024288000] [v0].nsp" size="982.20 MiB" dateCreated="20250816" dateModified="20250731"/>
     </folder>
     <folder name="Minit" size="133.49 MiB" fileCount="1" dateCreated="20250110" dateModified="20250110">
       <file name="Minit [0100ED600A87A000][v0] ROMSLAB.nsp" size="133.49 MiB" dateCreated="20250110" dateModified="20220515"/>
@@ -6566,6 +6620,10 @@
       <file name="No More Heroes 3 [01007C600EB42800][v65536].nsp" size="1.14 GiB" dateCreated="20210923" dateModified="20210827"/>
       <file name="No More Heroes [0100F0400F202000].nsp" size="1.73 GiB" dateCreated="20210220" dateModified="20201029"/>
     </folder>
+    <folder name="No Sleep For Kaname Date - From AI THE SOMNIUM FILES" size="9.14 GiB" fileCount="2" dateCreated="20250816" dateModified="20250816">
+      <file name="No Sleep For Kaname Date - From AI THE SOMNIUM FILES v1.0.0[0100DC801ED6C000][0][APP].nsp" size="8.82 GiB" dateCreated="20250816" dateModified="20250726"/>
+      <file name="No Sleep For Kaname Date - From AI THE SOMNIUM FILES v1.0.3[0100DC801ED6C800][196608][UPD].nsp" size="335.17 MiB" dateCreated="20250816" dateModified="20250727"/>
+    </folder>
     <folder name="No Straight Roads [01009F3011004000]" size="4.38 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="No Straight Roads [01009F3011004000].nsp" size="4.38 GiB" dateCreated="20201215" dateModified="20200825"/>
     </folder>
@@ -6752,6 +6810,10 @@
     <folder name="Open Roads" size="5.98 GiB" fileCount="2" dateCreated="20250110" dateModified="20250110">
       <file name="Open Roads [010034401672A000][v0][US](nsw2u.com).nsp" size="5.00 GiB" dateCreated="20250110" dateModified="20240329"/>
       <file name="Open Roads [010034401672A800][v131072][US](nsw2u.com).nsp" size="1007.82 MiB" dateCreated="20250110" dateModified="20240510"/>
+    </folder>
+    <folder name="OPERATION NIGHT STRIKERS" size="1.49 GiB" fileCount="2" dateCreated="20250816" dateModified="20250816">
+      <file name="OPERATION NIGHT STRIKERS v1.1.0[0100AAF01D9E0800][v65536][UPD].nsp" size="159.00 MiB" dateCreated="20250816" dateModified="20250813"/>
+      <file name="OPERATION NIGHT STRIKERS [0100AAF01D9E0000].xci" size="1.33 GiB" dateCreated="20250816" dateModified="20250814"/>
     </folder>
     <folder name="Operation Wolf Returns First Mission" size="2.77 GiB" fileCount="1" dateCreated="20240217" dateModified="20240217">
       <file name="Operation Wolf Returns First Mission [010035301766A000][v0][US](nsw2u.com).nsp" size="2.77 GiB" dateCreated="20240216" dateModified="20230925"/>
@@ -8080,6 +8142,9 @@
     <folder name="Sleep Tight [madloader][v0]" size="1.34 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Sleep Tight [madloader][v0].nsp" size="1.34 GiB" dateCreated="20220802" dateModified="20220802"/>
     </folder>
+    <folder name="Slime Heroes" size="1.74 GiB" fileCount="1" dateCreated="20250816" dateModified="20250816">
+      <file name="Slime Heroes [01009ED020870000] [v0].nsp" size="1.74 GiB" dateCreated="20250816" dateModified="20250801"/>
+    </folder>
     <folder name="Slime Rancher Plortable Edition [0100B9C0148D0000][v0]" size="882.78 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Slime Rancher Plortable Edition [0100B9C0148D0000][v0].nsp" size="882.78 MiB" dateCreated="20210905" dateModified="20210822"/>
     </folder>
@@ -8335,6 +8400,9 @@
     <folder name="Sports Party [0100DE9005170000][v0](eShop) nsp" size="3.84 GiB" fileCount="2" dateCreated="20230423" dateModified="20230729">
       <file name="Sports Party [0100DE9005170000][v0](nsw2u).nsp" size="2.62 GiB" dateCreated="20230424" dateModified="20210723"/>
       <file name="Sports Party [0100DE9005170800][v327680](nsw2u).nsp" size="1.22 GiB" dateCreated="20230424" dateModified="20210724"/>
+    </folder>
+    <folder name="Spy Drops" size="1.63 GiB" fileCount="1" dateCreated="20250816" dateModified="20250816">
+      <file name="Spy Drops [0100661020C1A000] [v0].nsp" size="1.63 GiB" dateCreated="20250816" dateModified="20250731"/>
     </folder>
     <folder name="Spyro Reignited Trilogy" size="6.29 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Spyro Reignited Trilogy.nsp" size="6.29 GiB" dateCreated="20190904" dateModified="20190904"/>
@@ -8998,6 +9066,10 @@
     <folder name="Tales of Symphonia Remastered" size="10.37 GiB" fileCount="2" dateCreated="20230608" dateModified="20230608">
       <file name="Tales of Symphonia Remastered [0100A410169A4000][v0][US](nsw2u.com).nsp" size="10.32 GiB" dateCreated="20230608" dateModified="20230303"/>
       <file name="Tales of Symphonia Remastered [0100A410169A4800][v65536][US](nsw2u.com).nsp" size="48.31 MiB" dateCreated="20230608" dateModified="20230303"/>
+    </folder>
+    <folder name="Tales of the Shire A The Lord of The Rings Game" size="1.58 GiB" fileCount="2" dateCreated="20250816" dateModified="20250816">
+      <file name="Tales of the Shire A The Lord of The Rings Game [010094D01DC7E000][v0].nsp" size="1.22 GiB" dateCreated="20250816" dateModified="20250808"/>
+      <file name="Tales of the Shire A The Lord of The Rings Game [010094D01DC7E800][v196608][1.0.3].nsp" size="368.04 MiB" dateCreated="20250816" dateModified="20250808"/>
     </folder>
     <folder name="Tales of Vesperia Definitive Edition eur" size="12.87 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Tales of Vesperia Definitive Edition [Europe] [En,Ja,Fr,De,Es,It,Pt,Ru,Ko,Zh] [01002C0008E52000].nsp" size="12.87 GiB" dateCreated="20200717" dateModified="20191226"/>
@@ -9971,6 +10043,10 @@
       <file name="TUNIC [0100DA801624E000][v0][US](nsw2u.in).nsp" size="2.79 GiB" dateCreated="20221227" dateModified="20220928"/>
       <file name="TUNIC [0100DA801624E800][v65536][US](nsw2u.in).nsp" size="124.81 MiB" dateCreated="20221227" dateModified="20220928"/>
     </folder>
+    <folder name="Turbo Kid" size="2.29 GiB" fileCount="2" dateCreated="20250816" dateModified="20250816">
+      <file name="Turbo Kid [010094001DB1C000] [v0].nsp" size="1.86 GiB" dateCreated="20250816" dateModified="20250804"/>
+      <file name="Turbo Kid [010094001DB1C800] [v65536].nsp" size="446.01 MiB" dateCreated="20250816" dateModified="20250804"/>
+    </folder>
     <folder name="Turbo Overkill [0100D1A01D7BA000]" size="3.90 GiB" fileCount="2" dateCreated="20250317" dateModified="20250317">
       <file name="Turbo Overkill [BASE][0100D1A01D7BA000][v0].nsz" size="3.40 GiB" dateCreated="20250317" dateModified="20250317"/>
       <file name="Turbo Overkill [UPDATE][0100D1A01D7BA800][v65536].nsz" size="509.75 MiB" dateCreated="20250317" dateModified="20250317"/>
@@ -10688,6 +10764,10 @@
       <file name="Yoshi's Crafted World [01006000040C2000][v0].nsp" size="5.30 GiB" dateCreated="20210924" dateModified="20190702"/>
       <file name="Yoshi’s Crafted World[01006000040C2800][US][v65536].nsp" size="307.46 MiB" dateCreated="20210924" dateModified="20190702"/>
     </folder>
+    <folder name="Young Souls" size="5.16 GiB" fileCount="2" dateCreated="20250811" dateModified="20250811">
+      <file name="Young Souls [010097900F550000][v0](nsw2u.xyz).nsp" size="4.04 GiB" dateCreated="20250811" dateModified="20220311"/>
+      <file name="Young Souls [010097900F550800][v196608][US](nsw2u.xyz).nsp" size="1.12 GiB" dateCreated="20250811" dateModified="20220419"/>
+    </folder>
     <folder name="Youtube" size="69.04 MiB" fileCount="1" dateCreated="20231208" dateModified="20231208">
       <file name="YouTube v2.0.0 Patched [05003A400C3DA000][v262144] (set correct date and time first).nsp" size="69.04 MiB" dateCreated="20231208" dateModified="20210905"/>
     </folder>
@@ -10788,5 +10868,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2306" totalFiles="6174" totalSize="9853.77 GiB" generatedOn="20250727"/>
+  <summary totalFolders="2323" totalFiles="6220" totalSize="9928.19 GiB" generatedOn="20250824"/>
 </root>
