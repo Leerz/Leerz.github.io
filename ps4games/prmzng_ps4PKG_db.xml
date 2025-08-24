@@ -717,7 +717,11 @@
       <file name="CUSA12555 Game [Dying Light 2 - Stay Human] 1.01.pkg" size="19.92 GiB" dateCreated="20241202" dateModified="20230228"/>
       <file name="CUSA12555 Patch [Dying Light 2 - Stay Human] 1.00.pkg" size="40.10 GiB" dateCreated="20241202" dateModified="20241031"/>
     </folder>
-    <folder name="EA SPORTS UFC 4" size="34.96 GiB" fileCount="24" dateCreated="20240901" dateModified="20250815">
+    <folder name="EA SPORTS UFC 4" size="34.96 GiB" fileCount="24" dateCreated="20240901" dateModified="20250817">
+      <folder name="xx" size="11.92 GiB" fileCount="2" dateCreated="20250817" dateModified="20250817">
+        <file name="CUSA14204 Patch 2 [EA SPORTS™ UFC® 4]  4.02 .pkg" size="3.45 GiB" dateCreated="20240901" dateModified="20210423"/>
+        <file name="CUSA14204 Patch [EA SPORTS™ UFC® 4] 1.00.pkg" size="8.47 GiB" dateCreated="20240901" dateModified="20240414"/>
+      </folder>
       <file name="CUSA14204 Addon [UFC® 4 - 100 UFC POINTS] 1.00.pkg" size="1.38 MiB" dateCreated="20240901" dateModified="20211224"/>
       <file name="CUSA14204 Addon [UFC® 4 - 1050 UFC POINTS] 1.00.pkg" size="1.38 MiB" dateCreated="20240901" dateModified="20211224"/>
       <file name="CUSA14204 Addon [UFC® 4 - 12000 UFC POINTS] 1.00.pkg" size="1.38 MiB" dateCreated="20240901" dateModified="20211224"/>
@@ -740,8 +744,6 @@
       <file name="CUSA14204 Addon [UFC® 4 - Starter Bundle] 1.00.pkg" size="1.88 MiB" dateCreated="20240901" dateModified="20211224"/>
       <file name="CUSA14204 Addon [UFC® 4 - Tyson Fury] 1.00.pkg" size="1.88 MiB" dateCreated="20240901" dateModified="20211224"/>
       <file name="CUSA14204 Game [EA SPORTS™ UFC® 4] 1.00.pkg" size="23.00 GiB" dateCreated="20240901" dateModified="20210423"/>
-      <file name="CUSA14204 Patch 2 [EA SPORTS™ UFC® 4]  4.02 .pkg" size="3.45 GiB" dateCreated="20240901" dateModified="20210423"/>
-      <file name="CUSA14204 Patch [EA SPORTS™ UFC® 4] 1.00.pkg" size="8.47 GiB" dateCreated="20240901" dateModified="20240414"/>
     </folder>
     <folder name="Eagle Flight VR" size="3.11 GiB" fileCount="1" dateCreated="20250102" dateModified="20250815">
       <file name="CUSA04876 Game [Eagle Flight] 1.03.pkg" size="3.11 GiB" dateCreated="20180413" dateModified="20180204"/>
@@ -2599,5 +2601,5 @@
       <file name="CUSA01345 Game [Zombie Army Trilogy] 1.02.pkg" size="8.19 GiB" dateCreated="20180306" dateModified="20180306"/>
     </folder>
   </folder>
-  <summary totalFolders="454" totalFiles="1689" totalSize="10616.78 GiB"/>
+  <summary totalFolders="455" totalFiles="1689" totalSize="10616.78 GiB"/>
 </root>
