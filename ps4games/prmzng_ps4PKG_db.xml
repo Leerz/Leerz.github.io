@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="PS4_PKG" size="10.57 TiB" fileCount="1757" dateCreated="20241229" dateModified="20250829">
+  <folder name="PS4_PKG" size="10.63 TiB" fileCount="1771" dateCreated="20241229" dateModified="20250830">
     <folder name="7days to die" size="1.58 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP2026-CUSA03455_00-0000000000000000_CUSA03455_1.00_Game.pkg" size="1.58 GiB" dateCreated="20180307" dateModified="20180204"/>
     </folder>
@@ -1756,14 +1756,21 @@
     <folder name="Nier Automata" size="32.56 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP0082-CUSA04551_00-ANDROIDS20030612_CUSA04551_1.00_Game.pkg" size="32.56 GiB" dateCreated="20180306" dateModified="20180307"/>
     </folder>
-    <folder name="NIOH" size="6.78 GiB" fileCount="4" dateCreated="20221118" dateModified="20250829">
-      <file name="EP9000-CUSA07123_00-NIOHEU0000000000_CUSA07123_1.10_Patch.pkg" size="6.78 GiB" dateCreated="20180625" dateModified="20180308"/>
-      <file name="EP9000-CUSA07123_00-NIOHSTORYDLC1001_CUSA07123__Addon.pkg" size="512.00 KiB" dateCreated="20180625" dateModified="20180607"/>
-      <file name="EP9000-CUSA07123_00-NIOHSTORYDLC2001_CUSA07123__Addon.pkg" size="640.00 KiB" dateCreated="20180625" dateModified="20180607"/>
-      <file name="EP9000-CUSA07123_00-NIOHSTORYDLC3001_CUSA07123__Addon.pkg" size="576.00 KiB" dateCreated="20180625" dateModified="20180607"/>
-    </folder>
-    <folder name="Nioh Ce" size="45.08 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="JP0106-CUSA10126_00-NIOH000000000000_CUSA10126_1.00_Game.pkg" size="45.08 GiB" dateCreated="20200819" dateModified="20200819"/>
+    <folder name="NIOH" size="51.47 GiB" fileCount="14" dateCreated="20221118" dateModified="20250830">
+      <file name="EP4108-CUSA03968_00-NIOHBETAREWARD00_CUSA03968__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP4108-CUSA03968_00-NIOHTRIALGYOSON0_CUSA03968__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-ACCOMIC000000000_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-ACDELUXE00000000_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-ACFAMITSU0000000_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-ACPREORDER000000_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-ACSANADA00000000_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-ACSHOP0100000000_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-NIOHEU0000000000_CUSA07123_1.00_Game.pkg" size="36.57 GiB" dateCreated="20250830" dateModified="20250830"/>
+      <file name="EP9000-CUSA07123_00-NIOHEU0000000000_CUSA07123_1.23_Patch.pkg" size="14.88 GiB" dateCreated="20250830" dateModified="20250830"/>
+      <file name="EP9000-CUSA07123_00-NIOHSTORYDLC1001_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-NIOHSTORYDLC2001_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-NIOHSTORYDLC3001_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
+      <file name="EP9000-CUSA07123_00-SPASS10000000000_CUSA07123__Addon.pkg" size="1.00 MiB" dateCreated="20250830" dateModified="20230227"/>
     </folder>
     <folder name="nobunagas ambition sphere of influence" size="4.05 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4108-CUSA02032_00-SOUZOUWPK0000000_CUSA02032_1.00_Game.pkg" size="4.05 GiB" dateCreated="20180409" dateModified="20180331"/>
@@ -2490,8 +2497,17 @@
     <folder name="Tomb Raider Definitive Edition" size="18.56 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP0082-CUSA00109_00-000000TOMBRAIDER_CUSA00109_1.00_Game.pkg" size="18.56 GiB" dateCreated="20180219" dateModified="20180207"/>
     </folder>
-    <folder name="Tony Hawks 5" size="4.00 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="UP0002-CUSA01412_00-TONYHAWKWORLDPS4_CUSA01412_1.00_Game.pkg" size="4.00 GiB" dateCreated="20180309" dateModified="20180309"/>
+    <folder name="Tony Hawk Pro Skater 1 plus 2" size="24.02 GiB" fileCount="2" dateCreated="20250830" dateModified="20250830">
+      <file name="UP0002-CUSA17922_00-TH12RTHEGAME0001_CUSA17922_1.00_Game.pkg" size="18.51 GiB" dateCreated="20250830" dateModified="20250329"/>
+      <file name="UP0002-CUSA17922_00-TH12RTHEGAME0001_CUSA17922_1.10_Patch.pkg" size="5.51 GiB" dateCreated="20250830" dateModified="20250329"/>
+    </folder>
+    <folder name="Tony Hawk Pro Skater 3 plus 4" size="34.44 GiB" fileCount="2" dateCreated="20250830" dateModified="20250830">
+      <file name="UP0002-CUSA44732_00-TH34RTHEGAME0001_CUSA44732_1.00_Game.pkg" size="34.27 GiB" dateCreated="20250830" dateModified="20250713"/>
+      <file name="UP0002-CUSA44732_00-TH34RTHEGAME0001_CUSA44732_1.03_Patch.pkg" size="178.31 MiB" dateCreated="20250830" dateModified="20250713"/>
+    </folder>
+    <folder name="Tony Hawk Pro Skater 5" size="12.12 GiB" fileCount="2" dateCreated="20250830" dateModified="20250830">
+      <file name="UP0002-CUSA01412_00-TONYHAWKWORLDPS4_CUSA01412_1.00_Game.pkg" size="7.30 GiB" dateCreated="20250830" dateModified="20210307"/>
+      <file name="UP0002-CUSA01412_00-TONYHAWKWORLDPS4_CUSA01412_1.07_Patch.pkg" size="4.82 GiB" dateCreated="20250830" dateModified="20210307"/>
     </folder>
     <folder name="Toukiden" size="17.48 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP4108-CUSA02002_00-PKGTOUKIDEN00000_CUSA02002_1.00_Game.pkg" size="17.48 GiB" dateCreated="20180512" dateModified="20180224"/>
@@ -2683,5 +2699,5 @@
       <file name="EP4529-CUSA01345_00-ZATRILOGY0000000_CUSA01345_1.00_Game.pkg" size="8.19 GiB" dateCreated="20180306" dateModified="20180306"/>
     </folder>
   </folder>
-  <summary totalFolders="462" totalFiles="1757" totalSize="10823.93 GiB"/>
+  <summary totalFolders="463" totalFiles="1771" totalSize="10890.12 GiB"/>
 </root>
