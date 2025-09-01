@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="PS4_PKG" size="10.63 TiB" fileCount="1771" dateCreated="20241229" dateModified="20250830">
+  <folder name="PS4_PKG" size="10.73 TiB" fileCount="1783" dateCreated="20241229" dateModified="20250901">
     <folder name="7days to die" size="1.58 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP2026-CUSA03455_00-0000000000000000_CUSA03455_1.00_Game.pkg" size="1.58 GiB" dateCreated="20180307" dateModified="20180204"/>
     </folder>
@@ -338,6 +338,26 @@
     <folder name="BIOSHOCK Infinite Complete" size="30.10 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP1001-CUSA03986_00-BIOSHOCKCOMPLETE_CUSA03986_1.00_Game.pkg" size="30.10 GiB" dateCreated="20180904" dateModified="20180904"/>
     </folder>
+    <folder name="Black Ops Cold War" size="155.29 GiB" fileCount="18" dateCreated="20250901" dateModified="20250901">
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0001_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210530"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0002_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210520"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0003_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210520"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0004_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0005_CUSA15010__Addon.pkg" size="11.88 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0006_CUSA15010__Addon.pkg" size="16.15 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0007_CUSA15010__Addon.pkg" size="10.39 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0008_CUSA15010__Addon.pkg" size="9.91 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0009_CUSA15010__Addon.pkg" size="3.42 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0010_CUSA15010__Addon.pkg" size="4.49 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0011_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0012_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0013_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0014_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0015_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWDISCONLY001_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWTHEGAME0001_CUSA15010_1.00_Game.pkg" size="12.68 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA15010_00-CODCWTHEGAME0001_CUSA15010_1.41_Patch.pkg" size="86.37 GiB" dateCreated="20250901" dateModified="20250901"/>
+    </folder>
     <folder name="Blackguards 2" size="13.41 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4365-CUSA07275_00-DAEDAKALYBLACKG2_CUSA07275_1.00_Game.pkg" size="13.41 GiB" dateCreated="20180826" dateModified="20180827"/>
     </folder>
@@ -378,8 +398,15 @@
       <file name="UP2565-CUSA15259_00-BUSSIMXXXXXXXXXX_CUSA15259_2.22_Patch.pkg" size="143.50 MiB" dateCreated="20230130" dateModified="20221106"/>
       <file name="UP2565-CUSA15259_00-BUSSIMXXXXXXXXXX_CUSA15259_2.22_Patch_B.pkg" size="6.31 MiB" dateCreated="20230130" dateModified="20221106"/>
     </folder>
-    <folder name="Call of Duty BLACK OPS 3" size="40.68 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="EP0002-CUSA02626_00-BLACKOPS3GAME000_CUSA02626_1.00_Game.pkg" size="40.68 GiB" dateCreated="20180605" dateModified="20180125"/>
+    <folder name="Call Of Duty Black Ops 3" size="106.68 GiB" fileCount="8" dateCreated="20250901" dateModified="20250901">
+      <file name="UP0002-CUSA02290_00-BLACKOPS3GAME000_CUSA02290_1.00_Game.pkg" size="40.68 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA02290_00-BLACKOPS3GAME000_CUSA02290_1.33_Patch.pkg" size="24.80 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA02290_00-BLACKOPS3GIANT00_CUSA02290__Game.pkg" size="1.36 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA02290_00-BLACKOPS3MAPPAK1_CUSA02290__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA02290_00-BLACKOPS3MAPPAK2_CUSA02290__Addon.pkg" size="6.83 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA02290_00-BLACKOPS3MAPPAK3_CUSA02290__Addon.pkg" size="7.74 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA02290_00-BLACKOPS3MAPPAK4_CUSA02290__Addon.pkg" size="11.93 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA02290_00-CODBO3ZOMBIESHD1_CUSA02290__Addon.pkg" size="13.34 GiB" dateCreated="20250901" dateModified="20250901"/>
     </folder>
     <folder name="Call Of Duty Black Ops 6" size="276.80 GiB" fileCount="24" dateCreated="20240807" dateModified="20250829">
       <file name="UP0002-CUSA23827_00-CODBO6CONTENT001_CUSA23827__Addon.pkg" size="10.37 GiB" dateCreated="20241210" dateModified="20241210"/>
@@ -407,28 +434,13 @@
       <file name="UP0002-CUSA23827_00-COREGAME00000001_CUSA23827_1.58_Patch.pkg" size="51.42 GiB" dateCreated="20241210" dateModified="20241210"/>
       <file name="UP0002-CUSA23827_00-COREGAME00000001_CUSA23827_1.58_Patch_b.pkg" size="25.31 MiB" dateCreated="20241210" dateModified="20241210"/>
     </folder>
-    <folder name="Call of Duty cold war" size="151.92 GiB" fileCount="18" dateCreated="20220303" dateModified="20250829">
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0001_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210530"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0002_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210520"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0003_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210520"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0004_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0005_CUSA15010__Addon.pkg" size="11.88 GiB" dateCreated="20220303" dateModified="20220303"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0006_CUSA15010__Addon.pkg" size="16.15 GiB" dateCreated="20220303" dateModified="20220303"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0007_CUSA15010__Addon.pkg" size="10.39 GiB" dateCreated="20220303" dateModified="20220303"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0008_CUSA15010__Addon.pkg" size="9.91 GiB" dateCreated="20220303" dateModified="20220303"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0009_CUSA15010__Addon.pkg" size="3.42 GiB" dateCreated="20220303" dateModified="20220303"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0010_CUSA15010__Addon.pkg" size="4.49 GiB" dateCreated="20220303" dateModified="20220303"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0011_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0012_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0013_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0014_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0015_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWDISCONLY001_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20220303" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWTHEGAME0001_CUSA15010_1.00_Game.pkg" size="12.68 GiB" dateCreated="20220303" dateModified="20220303"/>
-      <file name="UP0002-CUSA15010_00-CODCWTHEGAME0001_CUSA15010_1.27_Patch.pkg" size="82.99 GiB" dateCreated="20220303" dateModified="20220303"/>
-    </folder>
-    <folder name="Call Of Duty Ghosts" size="27.93 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="EP0002-CUSA00028_00-CALLDUTYGHOSTSDL_CUSA00028_1.00_Game.pkg" size="27.93 GiB" dateCreated="20180306" dateModified="20180306"/>
+    <folder name="Call of Duty Ghosts" size="51.90 GiB" fileCount="6" dateCreated="20250901" dateModified="20250901">
+      <file name="UP0002-CUSA00018_00-CALLDUTYGHOSDLC3_CUSA00018__Addon.pkg" size="4.91 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA00018_00-CALLDUTYGHOSDLC4_CUSA00018__Addon.pkg" size="5.04 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA00018_00-CALLDUTYGHOSDLC5_CUSA00018__Addon.pkg" size="5.82 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA00018_00-CALLDUTYGHOSDLC6_CUSA00018__Addon.pkg" size="4.94 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA00018_00-CALLDUTYGHOSTSDL_CUSA00018_1.00_Game.pkg" size="28.78 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA00018_00-CALLDUTYGHOSTSDL_CUSA00018_1.21_Patch.pkg" size="2.43 GiB" dateCreated="20250901" dateModified="20250901"/>
     </folder>
     <folder name="Call of Duty Modern Warfare" size="185.62 GiB" fileCount="8" dateCreated="20241222" dateModified="20250829">
       <file name="UP0002-CUSA08829_00-CODMWGMRE22CP001_CUSA08829__Addon.pkg" size="12.22 GiB" dateCreated="20241222" dateModified="20241222"/>
@@ -1719,9 +1731,9 @@
       <file name="EP1001-CUSA42312_00-NBA2K24000000000_CUSA42312_1.00_Game.pkg" size="45.03 GiB" dateCreated="20240419" dateModified="20240419"/>
       <file name="EP1001-CUSA42312_00-NBA2K24000000000_CUSA42312_1.05_Patch.pkg" size="70.71 GiB" dateCreated="20240419" dateModified="20240419"/>
     </folder>
-    <folder name="NBA 2K25" size="124.84 GiB" fileCount="2" dateCreated="20250708" dateModified="20250829">
-      <file name="EP1001-CUSA48139_00-NBA2K25000000000_CUSA48139_1.00_Game.pkg" size="44.18 GiB" dateCreated="20250708" dateModified="20250708"/>
-      <file name="EP1001-CUSA48139_00-NBA2K25000000000_CUSA48139_1.07_Patch.pkg" size="80.66 GiB" dateCreated="20250708" dateModified="20250708"/>
+    <folder name="NBA 2K25" size="124.84 GiB" fileCount="2" dateCreated="20250708" dateModified="20250901">
+      <file name="EP1001-CUSA48139_00-NBA2K25000000000_CUSA48139_1.00_Game.pkg" size="44.18 GiB" dateCreated="20250901" dateModified="20240912"/>
+      <file name="EP1001-CUSA48139_00-NBA2K25000000000_CUSA48139_1.07_Patch.pkg" size="80.66 GiB" dateCreated="20250901" dateModified="20241212"/>
     </folder>
     <folder name="NBA2K18" size="48.67 GiB" fileCount="2" dateCreated="20250102" dateModified="20250829">
       <file name="UP1001-CUSA08500_00-NBA2K18000000000_CUSA08500_1.00_Game.pkg" size="43.34 GiB" dateCreated="20180603" dateModified="20180530"/>
@@ -2699,5 +2711,5 @@
       <file name="EP4529-CUSA01345_00-ZATRILOGY0000000_CUSA01345_1.00_Game.pkg" size="8.19 GiB" dateCreated="20180306" dateModified="20180306"/>
     </folder>
   </folder>
-  <summary totalFolders="463" totalFiles="1771" totalSize="10890.12 GiB"/>
+  <summary totalFolders="463" totalFiles="1783" totalSize="10983.47 GiB"/>
 </root>
