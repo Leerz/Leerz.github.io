@@ -152,7 +152,8 @@ async function startGame(){
       }
     },1000);
 
-    function measure(){
+    /* uses live voice actual visualization
+	function measure(){
       const loudness = getLoudness();
       loudnessSpan.textContent = loudness;
       score += loudness;
@@ -160,7 +161,19 @@ async function startGame(){
       // update visualization
       bar.style.height = Math.min(100, loudness) + "%";
       rafId = requestAnimationFrame(measure);
-    }
+    }*/
+	
+	function measure(){ /*show total score*/
+  const loudness = getLoudness();
+  loudnessSpan.textContent = loudness;
+  score += loudness;
+  scoreSpan.textContent = score;
+  // visualize progress toward target score
+  const percent = Math.min(100, (score / targetScore) * 100);
+  bar.style.height = percent + "%";
+  rafId = requestAnimationFrame(measure);
+}
+
     measure();
   });
 }
