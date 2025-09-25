@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Scream Booth - Score Based</title>
+<style>
+  body { font-family: Arial,sans-serif; text-align:center; background:#222; color:white; }
+  #controls, #status { margin: 20px; }
+  #progress { width: 80%; height: 30px; background: #444; margin:20px auto; border-radius:15px; overflow:hidden; }
+  #progress-bar { height:100%; width:0%; background:limegreen; transition: width 0.1s linear; }
+  #overlay { position:fixed; top:0; left:0; width:100%; height:100%; display:flex; justify-content:center; align-items:center; background:rgba(0,0,0,0.8); color:white; font-size:80px; z-index:9999; visibility:hidden; }
+
+    #configPanel {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: #222;
+      padding: 20px;
+      border-radius: 10px;
+      display: none;
+      flex-direction: column;
+      gap: 10px;
+    }
+    #configPanel input {
+      width: 100%;
+    }
+</style>
+</head>
+<body>
+
+<h1>Scream Booth 🎤</h1>
+
+<div id="controls">
+  <button id="startBtn">Start</button><br>
+  <button id="configBtn">⚙️ Config</button>
+</div>
+
+  <div id="configPanel">
+  <label>Target Score: <input type="number" id="targetScore" value="2500"></label><br><br>
+  <label>Duration (seconds): <input type="number" id="duration" value="20"></label><br><br>
+    <button id="saveConfig">Save</button>
+  </div>
+  
+<div id="status">
+  <p>Elapsed: <span id="elapsed">0</span>s / <span id="total">0</span>s</p>
+  <p>Current Loudness: <span id="loudness">0</span></p>
+  <p>Score: <span id="score">0</span></p>
+  <p>Result: <span id="result">---</span></p>
+</div>
+
+<div id="progress"><div id="progress-bar"></div></div>
+<div id="overlay">3</div>
+
+<script>
+const startBtn = document.getElementById('startBtn');
+const overlay = document.getElementById('overlay');
+const loudnessSpan = document.getElementById('loudness');
+const elapsedSpan = document.getElementById('elapsed');
+const totalSpan = document.getElementById('total');
+const scoreSpan = document.getElementById('score');
+const resultSpan = document.getElementById('result');
+const progressBar = document.getElementById('progress-bar');
+const saveConfig = document.getElementById("saveConfig");
+
+const targetScoreinput = document.getElementById("targetScore");
+const durationinput = document.getElementById("duration");
+
+const configBtn = document.getElementById("configBtn");
+const configPanel = document.getElementById("configPanel");
+
+let audioCtx, analyser, mic, dataArray;
+let score = 0, elapsed = 0, timer, rafId;
+
+let targetScore = 2500;   // target loudness
+let duration = 20;     // seconds
+	
+	  
+	configBtn.onclick = () => {
+      configPanel.style.display = "flex";
+      targetScoreinput.value = targetScore;
+      durationinput.value = duration;
+    };
+	
+    saveConfig.onclick = () => {
+      targetScore = parseInt(targetScore.value, 10);
+      duration = parseInt(duration.value, 10);
+      configPanel.style.display = "none";
+    };
+	
+async function setupAudio() {
+  if (!audioCtx) {
+    audioCtx = new (window.AudioContext||window.webkitAudioContext)();
+    mic = await navigator.mediaDevices.getUserMedia({audio:true});
+    const source = audioCtx.createMediaStreamSource(mic);
+    analyser = audioCtx.createAnalyser();
+    analyser.fftSize = 256;
+    source.connect(analyser);
+    dataArray = new Uint8Array(analyser.frequencyBinCount);
+  }
+}
+
+function getLoudness() {
+  analyser.getByteTimeDomainData(dataArray);
+  let sum = 0;
+  for(let i=0;i<dataArray.length;i++){
+    const val = (dataArray[i]-128)/128;
+    sum += val*val;
+  }
+  let rms = Math.sqrt(sum/dataArray.length);
+  return Math.round(rms*100); // simple loudness score
+}
+
+function showCountdown(callback){
+  overlay.style.visibility = "visible";
+  let count = 3;
+  overlay.textContent = count;
+  const cd = setInterval(()=>{
+    count--;
+    if(count>0) overlay.textContent = count;
+    else if(count===0) overlay.textContent="GO!";
+    else{
+      clearInterval(cd);
+      overlay.style.visibility="hidden";
+      callback();
+    }
+  },1000);
+}
+
+async function startGame(){
+  await setupAudio();
+  const duration = parseInt(document.getElementById('duration').value);
+  const targetScore = parseInt(document.getElementById('targetScore').value);
+
+  totalSpan.textContent = duration;
+  elapsed = 0;
+  score = 0;
+  scoreSpan.textContent=0;
+  elapsedSpan.textContent=0;
+  resultSpan.textContent="---";
+  progressBar.style.width="0%";
+
+  showCountdown(()=>{
+    timer = setInterval(()=>{
+      elapsed++;
+      elapsedSpan.textContent = elapsed;
+      progressBar.style.width = (elapsed/duration)*100 + "%";
+      if(elapsed>=duration){
+        clearInterval(timer);
+        cancelAnimationFrame(rafId);
+        resultSpan.textContent = (score>=targetScore)?"✅ PASS!":"❌ FAIL!";
+      }
+    },1000);
+
+    function measure(){
+      const loudness = getLoudness();
+      loudnessSpan.textContent = loudness;
+      score += loudness;
+      scoreSpan.textContent = score;
+      rafId = requestAnimationFrame(measure);
+    }
+    measure();
+  });
+}
+
+startBtn.addEventListener('click', startGame);
+</script>
+</body>
+</html>
