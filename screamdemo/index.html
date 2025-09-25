@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Scream Booth FX</title>
+<style>
+  body { margin:0; height:100vh; display:flex; align-items:center; justify-content:center;
+         font-family:sans-serif; background:#111; color:#fff; overflow:hidden; }
+  .overlay { position:absolute; inset:0; background:radial-gradient(circle at center, #ff4040 0%, transparent 70%);
+             opacity:0; transition:opacity 0.1s; pointer-events:none; }
+  .container { position:relative; z-index:2; text-align:center; }
+  .meter { width:80%; height:30px; background:#222; border-radius:8px; overflow:hidden; margin:20px auto; }
+  .level { height:100%; width:0%; background:linear-gradient(90deg, #4ade80, #facc15, #f87171); }
+  .winner { font-size:3rem; font-weight:bold; text-shadow:0 0 20px rgba(255,255,255,0.5); opacity:0; transition:all .3s; }
+  .winner.show { opacity:1; transform:scale(1.2); }
+  button, input[type=range] { margin:10px; padding:8px 12px; border:none; border-radius:6px; cursor:pointer; }
+</style>
+</head>
+<body>
+<div class="overlay" id="fx"></div>
+
+<div class="container">
+  <h1>Scream Booth</h1>
+  <div class="meter"><div class="level" id="level"></div></div>
+  <div>
+    <label>Target Loudness: <input id="targetRange" type="range" min="0.05" max="0.4" step="0.01" value="0.15"></label>
+    <span id="targetVal">0.15</span>
+  </div>
+  <div>
+    <button id="startBtn">Start</button>
+    <button id="stopBtn" disabled>Stop</button>
+  </div>
+  <div id="winner" class="winner">🎉 YOU WIN! 🎉</div>
+</div>
+
+<script>
+let audioCtx, analyser, micStream, raf;
+let running = false;
+let threshold = parseFloat(document.getElementById('targetRange').value);
+let displayedLevel = 0;
+
+const startBtn = document.getElementById('startBtn');
+const stopBtn = document.getElementById('stopBtn');
+const levelEl = document.getElementById('level');
+const winnerEl = document.getElementById('winner');
+const fxEl = document.getElementById('fx');
+const targetRange = document.getElementById('targetRange');
+const targetVal = document.getElementById('targetVal');
+
+targetRange.addEventListener('input', e=>{
+  threshold = parseFloat(e.target.value);
+  targetVal.textContent = threshold.toFixed(2);
+});
+
+startBtn.onclick = start;
+stopBtn.onclick = stop;
+
+async function start(){
+  if (running) return;
+  try {
+    audioCtx = new (window.AudioContext||window.webkitAudioContext)();
+    micStream = await navigator.mediaDevices.getUserMedia({audio:true});
+    const source = audioCtx.createMediaStreamSource(micStream);
+    analyser = audioCtx.createAnalyser();
+    analyser.fftSize = 1024;
+    source.connect(analyser);
+    running = true;
+    startBtn.disabled = true;
+    stopBtn.disabled = false;
+    monitor();
+  } catch(e){ alert('Mic access denied'); }
+}
+
+function stop(){
+  running = false;
+  cancelAnimationFrame(raf);
+  if (micStream) micStream.getTracks().forEach(t=>t.stop());
+  if (audioCtx) audioCtx.close();
+  startBtn.disabled = false;
+  stopBtn.disabled = true;
+  fxEl.style.opacity = 0;
+  levelEl.style.width = "0%";
+}
+
+function getRMS(buf){
+  let sum=0;
+  for (let i=0;i<buf.length;i++){ let v=buf[i]/128-1; sum+=v*v; }
+  return Math.sqrt(sum/buf.length);
+}
+
+function monitor(){
+  const data = new Uint8Array(analyser.fftSize);
+  analyser.getByteTimeDomainData(data);
+  const rms = getRMS(data);
+  // Smooth
+  displayedLevel = 0.8*displayedLevel + 0.2*rms;
+  const pct = Math.min(1, displayedLevel/0.5)*100;
+  levelEl.style.width = pct+"%";
+
+  // Background FX pulsing
+  fxEl.style.opacity = Math.min(displayedLevel*4, 1);
+
+  // Trigger win
+  if (rms >= threshold) {
+    winnerEl.classList.add('show');
+  } else {
+    winnerEl.classList.remove('show');
+  }
+
+  raf = requestAnimationFrame(monitor);
+}
+</script>
+</body>
+</html>
