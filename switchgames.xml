@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.78 TiB" fileCount="6226" dateCreated="20210923" dateModified="20250912">
+  <folder name="NSP 2021" size="9.83 TiB" fileCount="6261" dateCreated="20210923" dateModified="20250926">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20250722">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -363,6 +363,9 @@
     <folder name="All Of Us Are Dead" size="1.11 GiB" fileCount="1" dateCreated="20240108" dateModified="20240108">
       <file name="All Of Us Are Dead [010007301AB9C000][v0][AS](nsw2u.com).nsp" size="1.11 GiB" dateCreated="20240107" dateModified="20231215"/>
     </folder>
+    <folder name="All of You" size="1.01 GiB" fileCount="1" dateCreated="20250926" dateModified="20250926">
+      <file name="All of You v1.0.0[010084F02428A000][v0][APP].nsp" size="1.01 GiB" dateCreated="20250926" dateModified="20250920"/>
+    </folder>
     <folder name="Alpaca Ball Allstars" size="1.70 GiB" fileCount="2" dateCreated="20230728" dateModified="20230728">
       <file name="Alpaca Ball Allstars [0100DE70131F4000][v0].nsp" size="727.21 MiB" dateCreated="20230728" dateModified="20201018"/>
       <file name="Alpaca Ball Allstars [0100DE70131F4800][v131072][US](nsw2u.xyz).nsp" size="1018.60 MiB" dateCreated="20230728" dateModified="20211015"/>
@@ -451,13 +454,9 @@
     <folder name="Anime Tank Blitz Warbound Legends" size="1.65 GiB" fileCount="1" dateCreated="20240123" dateModified="20240123">
       <file name="Anime Tank Blitz Warbound Legends 1.0.0 [010022B01D6DE000][v0][APP].nsp" size="1.65 GiB" dateCreated="20240123" dateModified="20231226"/>
     </folder>
-    <folder name="ANIMUS" size="2.64 GiB" fileCount="2" dateCreated="20240108" dateModified="20250805">
-      <folder name="ANIMUS [010097600C322000][v0]" size="1.84 GiB" fileCount="1" dateCreated="20250805" dateModified="20250805">
-        <file name="ANIMUS [010097600C322000][v0].nsp" size="1.84 GiB" dateCreated="20240101" dateModified="20200608"/>
-      </folder>
-      <folder name="ANIMUS [010097600C322800][v196608]" size="818.02 MiB" fileCount="1" dateCreated="20250805" dateModified="20250805">
-        <file name="ANIMUS [010097600C322800][v196608].nsp" size="818.02 MiB" dateCreated="20240101" dateModified="20200608"/>
-      </folder>
+    <folder name="ANIMUS" size="2.64 GiB" fileCount="2" dateCreated="20240108" dateModified="20250912">
+      <file name="ANIMUS [010097600C322000][v0].nsp" size="1.84 GiB" dateCreated="20240101" dateModified="20200608"/>
+      <file name="ANIMUS [010097600C322800][v196608].nsp" size="818.02 MiB" dateCreated="20240101" dateModified="20200608"/>
     </folder>
     <folder name="ANIMUS Harbinger" size="2.07 GiB" fileCount="2" dateCreated="20240108" dateModified="20240108">
       <file name="ANIMUS Harbinger [0100E5A00FD38800][v131072].nsp" size="411.51 MiB" dateCreated="20240101" dateModified="20200608"/>
@@ -971,6 +970,9 @@
     <folder name="BAKERU" size="3.22 GiB" fileCount="2" dateCreated="20250525" dateModified="20250525">
       <file name="BAKERU [01007CD01FAE0000][v0][US](nsw2u.com).nsp" size="3.12 GiB" dateCreated="20250525" dateModified="20240904"/>
       <file name="BAKERU [01007CD01FAE0800][v131072][US](nsw2u.com).nsp" size="95.08 MiB" dateCreated="20250525" dateModified="20241204"/>
+    </folder>
+    <folder name="Baki Hanma Blood Arena" size="1.24 GiB" fileCount="1" dateCreated="20250925" dateModified="20250925">
+      <file name="Baki Hanma Blood Arena v1.0.0[0100464021934000][v0][APP].nsp" size="1.24 GiB" dateCreated="20250925" dateModified="20250917"/>
     </folder>
     <folder name="Bakugan Champions of Vestroia" size="4.42 GiB" fileCount="2" dateCreated="20240412" dateModified="20240412">
       <file name="Bakugan Champions of Vestroia [0100730011BDC000][v0].nsp" size="3.15 GiB" dateCreated="20240412" dateModified="20201106"/>
@@ -1890,6 +1892,9 @@
       <file name="Cooking Simulator [01001E400FD58000][v0].nsp" size="1.31 GiB" dateCreated="20221115" dateModified="20200515"/>
       <file name="Cooking Simulator [01001E400FD58800][v65536](nsw2u).nsp" size="822.87 MiB" dateCreated="20221115" dateModified="20210320"/>
     </folder>
+    <folder name="Cookulo" size="131.40 MiB" fileCount="1" dateCreated="20250925" dateModified="20250925">
+      <file name="Cookulo [01002590210D8000][v0].nsp" size="131.40 MiB" dateCreated="20250925" dateModified="20250110"/>
+    </folder>
     <folder name="Coromon" size="635.33 MiB" fileCount="2" dateCreated="20250626" dateModified="20250626">
       <file name="Coromon 1.2.9 [010048D014322800][v262144][UPD].nsp" size="280.89 MiB" dateCreated="20250626" dateModified="20231227"/>
       <file name="Coromon [010048D014322000][v0][US](nsw2u.in).nsp" size="354.44 MiB" dateCreated="20250626" dateModified="20220723"/>
@@ -2041,6 +2046,10 @@
     <folder name="Cyber Shadow" size="414.78 MiB" fileCount="2" dateCreated="20240207" dateModified="20240207">
       <file name="Cyber Shadow [0100C1F0141AA000][v0](nsw2u.com).nsp" size="138.89 MiB" dateCreated="20240207" dateModified="20210126"/>
       <file name="Cyber Shadow [0100C1F0141AA000][v196608](nsw2u).nsp" size="275.88 MiB" dateCreated="20240207" dateModified="20210624"/>
+    </folder>
+    <folder name="Cynthia Hidden in the Moonshadow" size="3.05 GiB" fileCount="2" dateCreated="20250925" dateModified="20250925">
+      <file name="Cynthia Hidden in the Moonshadow [010001C01BCAC000][v0][US](nsw2u.com).nsp" size="2.37 GiB" dateCreated="20250925" dateModified="20240111"/>
+      <file name="Cynthia Hidden in the Moonshadow [010001C01BCAC800][v131072][US](nsw2u.com).nsp" size="696.61 MiB" dateCreated="20250925" dateModified="20240813"/>
     </folder>
     <folder name="Cytus alpha" size="2.27 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Cytus alpha [010063100B2C2000]+[v1.0.6].xci" size="2.27 GiB" dateCreated="20220621" dateModified="20201123"/>
@@ -2832,6 +2841,14 @@
     </folder>
     <folder name="Dual Brain Vol 3Switch-xci.com" size="122.72 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Dual Brain Vol 3[0100C0F01078E000][v0]Switch-xci.com.nsp" size="122.72 MiB" dateCreated="20210924" dateModified="20200228"/>
+    </folder>
+    <folder name="Duck Detective The Ghost of Glamping" size="504.79 MiB" fileCount="2" dateCreated="20250925" dateModified="20250925">
+      <file name="Duck Detective The Ghost of Glamping [0100D4702160A000].nsp" size="391.98 MiB" dateCreated="20250925" dateModified="20250523"/>
+      <file name="Duck Detective The Ghost of Glamping [0100D4702160A800][v65536][US](nsw2u.com).nsp" size="112.81 MiB" dateCreated="20250925" dateModified="20250523"/>
+    </folder>
+    <folder name="Duck Detective The Secret Salami" size="258.23 MiB" fileCount="2" dateCreated="20250925" dateModified="20250925">
+      <file name="Duck Detective - The Secret Salami [0100F3D01E094800][v327680][US](nsw2u.com).nsp" size="81.85 MiB" dateCreated="20250925" dateModified="20240924"/>
+      <file name="Duck Detective The Secret Salami [0100F3D01E094000][FW 18.0.0].nsp" size="176.38 MiB" dateCreated="20250925" dateModified="20240524"/>
     </folder>
     <folder name="Duck Game" size="281.05 MiB" fileCount="2" dateCreated="20220805" dateModified="20220805">
       <file name="Duck Game Update [v131072] - xcinspdotcom.nsp" size="45.69 MiB" dateCreated="20210703" dateModified="20190504"/>
@@ -3996,6 +4013,10 @@
     <folder name="Hades" size="5.59 GiB" fileCount="2" dateCreated="20220805" dateModified="20220805">
       <file name="Hades[0100535012974000][US][v0].nsp" size="3.93 GiB" dateCreated="20201202" dateModified="20200918"/>
       <file name="Hades[0100535012974800][US][v131072][CR-16].nsp" size="1.66 GiB" dateCreated="20210201" dateModified="20200918"/>
+    </folder>
+    <folder name="Hades II" size="6.45 GiB" fileCount="2" dateCreated="20250926" dateModified="20250926">
+      <file name="Hades II [0100A00019DE0000].nsp" size="4.22 GiB" dateCreated="20250926" dateModified="20250926"/>
+      <file name="Hades II [0100A00019DE0800][v196608][1.0.131248].nsp" size="2.23 GiB" dateCreated="20250926" dateModified="20250926"/>
     </folder>
     <folder name="Hakuoki" size="46.43 GiB" fileCount="8" dateCreated="20240106" dateModified="20240106">
       <file name="Hakuoki Shinkai Fuukaden for Nintendo Switch [01008B7005B64800][JP][v65536].nsz" size="6.89 MiB" dateCreated="20240106" dateModified="20201018"/>
@@ -5951,6 +5972,10 @@
     <folder name="Moon Hunters" size="1.73 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Moon Hunters.nsp" size="1.73 GiB" dateCreated="20190921" dateModified="20180727"/>
     </folder>
+    <folder name="Moonglow Bay" size="1.20 GiB" fileCount="2" dateCreated="20250925" dateModified="20250925">
+      <file name="Moonglow Bay [010010F018908000][v0][US].nsp" size="967.50 MiB" dateCreated="20250925" dateModified="20240412"/>
+      <file name="moonglow bay [010010F018908800][v262144][US](nsw2u.com).nsp" size="262.28 MiB" dateCreated="20250925" dateModified="20241012"/>
+    </folder>
     <folder name="Moonlighter" size="1.20 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Moonlighter.nsp" size="1.20 GiB" dateCreated="20190905" dateModified="20190905"/>
     </folder>
@@ -6864,6 +6889,10 @@
       <file name="PAC-MAN MUSEUM+ [0100A91015275004][v0].nsp" size="2.33 MiB" dateCreated="20240207" dateModified="20220527"/>
       <file name="PAC-MAN MUSEUM+ [0100A91015275005][v0].nsp" size="2.33 MiB" dateCreated="20240207" dateModified="20220527"/>
     </folder>
+    <folder name="PAC-MAN WORLD 2 Re-PAC" size="5.86 GiB" fileCount="2" dateCreated="20250926" dateModified="20250926">
+      <file name="PAC-MAN WORLD 2 Re-PAC v1.0.0[010065A01CFB6000][v0][APP].nsp" size="4.92 GiB" dateCreated="20250926" dateModified="20250926"/>
+      <file name="PAC-MAN WORLD 2 Re-PAC [010065A01CFB6800][v131072] (0.97 GB).nsp" size="968.50 MiB" dateCreated="20250926" dateModified="20250926"/>
+    </folder>
     <folder name="PAC-MAN WORLD Re-PAC" size="3.46 GiB" fileCount="2" dateCreated="20220902" dateModified="20220902">
       <file name="PAC-MAN WORLD Re-PAC [010081A01565A000][v0][JP](nsw2u.in).nsp" size="2.34 GiB" dateCreated="20220902" dateModified="20220829"/>
       <file name="PAC-MAN WORLD Re-PAC [010081A01565A800][v65536][JP](nsw2u.in).nsp" size="1.13 GiB" dateCreated="20220902" dateModified="20220825"/>
@@ -7108,6 +7137,9 @@
     <folder name="PlateUp!" size="1.11 GiB" fileCount="2" dateCreated="20240406" dateModified="20240406">
       <file name="PlateUp! [01003F901A83E000][v0][US](nsw2u.com).nsp" size="942.07 MiB" dateCreated="20240406" dateModified="20240219"/>
       <file name="PlateUp! [01003F901A83E800][v196608][US](nsw2u.com).nsp" size="192.56 MiB" dateCreated="20240406" dateModified="20240219"/>
+    </folder>
+    <folder name="Platypus Reclayed" size="1.33 GiB" fileCount="1" dateCreated="20250926" dateModified="20250926">
+      <file name="Platypus Reclayed v1.0.0[01009F7023642000][v0][APP].nsp" size="1.33 GiB" dateCreated="20250926" dateModified="20250920"/>
     </folder>
     <folder name="Playroom Racer" size="226.59 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Playroom Racer [0100C5E01CFDA000][v0].nsp" size="226.59 MiB" dateCreated="20231013" dateModified="20230930"/>
@@ -8234,6 +8266,11 @@
       <file name="Sonic Origins [Sonic Origins Premium Fun Pack] [01009FB016287002][v0][US](nsw2u.xyz).nsp" size="9.82 MiB" dateCreated="20221204" dateModified="20220623"/>
       <file name="Sonic Origins [Sonic Origins Start Dash Pack] [01009FB016287001][v0][US](nsw2u.xyz).nsp" size="262.20 KiB" dateCreated="20221204" dateModified="20220623"/>
     </folder>
+    <folder name="Sonic Racing CrossWorlds" size="9.66 GiB" fileCount="3" dateCreated="20250926" dateModified="20250926">
+      <file name="Sonic Racing CrossWorlds - Werehog Pack v[01006E001823D008][v0][DLC].nsp" size="119.16 KiB" dateCreated="20250926" dateModified="20250926"/>
+      <file name="Sonic Racing CrossWorlds v1.00[01006E001823C000][v0][APP].nsp" size="7.94 GiB" dateCreated="20250926" dateModified="20250926"/>
+      <file name="Sonic Racing CrossWorlds v1.12[01006E001823C800][v131072][UPD].nsp" size="1.72 GiB" dateCreated="20250926" dateModified="20250926"/>
+    </folder>
     <folder name="Sonic Superstars" size="4.12 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Sonic Superstars [01008F701C074000][v0].nsp" size="4.12 GiB" dateCreated="20231017" dateModified="20231013"/>
     </folder>
@@ -8804,6 +8841,16 @@
       <file name="Super Robot Wars X [DLC-4] [010026800E305147][v0].nsp" size="166.20 KiB" dateCreated="20240804" dateModified="20201213"/>
       <file name="Super Robot Wars X [DLC-5] [010026800E305148][v0].nsp" size="166.20 KiB" dateCreated="20240804" dateModified="20201213"/>
     </folder>
+    <folder name="SUPER ROBOT WARS Y" size="12.70 GiB" fileCount="8" dateCreated="20250926" dateModified="20250926">
+      <file name="SUPER ROBOT WARS Y v1.0.4[010063301BD50800][v262144][UPD].nsp" size="493.52 MiB" dateCreated="20250926" dateModified="20250920"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD50000].xci" size="11.80 GiB" dateCreated="20250926" dateModified="20250827"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51001][v0][DLC 1].nsp" size="3.55 MiB" dateCreated="20250926" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51002][v0][DLC 2].nsp" size="614.20 KiB" dateCreated="20250926" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51003][v0][DLC 3].nsp" size="158.21 MiB" dateCreated="20250926" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51006][v0][DLC 6].nsp" size="263.60 MiB" dateCreated="20250926" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51009][v0][DLC 9].nsp" size="166.20 KiB" dateCreated="20250926" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD5100A][v0][DLC 10].nsp" size="166.20 KiB" dateCreated="20250926" dateModified="20250829"/>
+    </folder>
     <folder name="Super Sami Roll" size="2.01 GiB" fileCount="2" dateCreated="20240721" dateModified="20240721">
       <file name="Super Sami Roll [0100C69014B1E000][v0][US](nsw2u.xyz).nsp" size="1.59 GiB" dateCreated="20240721" dateModified="20211104"/>
       <file name="Super Sami Roll [0100C69014B1E800][v196608][US](nsw2u.xyz).nsp" size="430.94 MiB" dateCreated="20240721" dateModified="20211120"/>
@@ -9041,6 +9088,9 @@
     </folder>
     <folder name="Tales From The Borderlands" size="7.03 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Tales From The Borderlands [0100F0C011A68000][v0](nsw2u).nsp" size="7.03 GiB" dateCreated="20220916" dateModified="20210325"/>
+    </folder>
+    <folder name="Tales from Toyotoki Arrival of the Witch" size="930.99 MiB" fileCount="1" dateCreated="20250925" dateModified="20250925">
+      <file name="Tales from Toyotoki Arrival of the Witch [010097E01E8EA000][v0][US](nsw2u.com).nsp" size="930.99 MiB" dateCreated="20250925" dateModified="20241113"/>
     </folder>
     <folder name="Tales of Graces f Remastered" size="11.49 GiB" fileCount="4" dateCreated="20250119" dateModified="20250119">
       <file name="Tales of Graces f Remastered - Digital Artbook &amp; Soundtrack [01001D301EA7A000][v0].nsp" size="1.03 GiB" dateCreated="20250119" dateModified="20250118"/>
@@ -9643,6 +9693,10 @@
       <file name="The Stanley Parable Ultra Deluxe [010029300E5C4000][v0][US](nsw2u.xyz).nsp" size="1.48 GiB" dateCreated="20221115" dateModified="20220428"/>
       <file name="The Stanley Parable Ultra Deluxe [010029300E5C4800][v131072][US](nsw2u.xyz).nsp" size="296.12 MiB" dateCreated="20221115" dateModified="20220423"/>
     </folder>
+    <folder name="The Star Named EOS" size="1.65 GiB" fileCount="2" dateCreated="20250925" dateModified="20250925">
+      <file name="The Star Named EOS [0100E2401CF82000][v0][US](nsw2u.com).nsp" size="1.04 GiB" dateCreated="20250925" dateModified="20240822"/>
+      <file name="The Star Named EOS [0100E2401CF82800][v131072][US](nsw2u.com).nsp" size="620.94 MiB" dateCreated="20250925" dateModified="20240822"/>
+    </folder>
     <folder name="The Stretchers" size="1.85 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="The Stretchers [0100AA400A238000][v0].nsp" size="1.85 GiB" dateCreated="20230422" dateModified="20191109"/>
     </folder>
@@ -9754,6 +9808,10 @@
     <folder name="Timespinner" size="439.79 MiB" fileCount="2" dateCreated="20240114" dateModified="20240115">
       <file name="Timespinner [0100DD300CF3A000][v0].nsp" size="393.98 MiB" dateCreated="20240114" dateModified="20200123"/>
       <file name="Timespinner [0100DD300CF3A800][v65536](nsw2u).nsp" size="45.81 MiB" dateCreated="20240115" dateModified="20210904"/>
+    </folder>
+    <folder name="Tiny Bookshop" size="414.59 MiB" fileCount="2" dateCreated="20250925" dateModified="20250925">
+      <file name="Tiny Bookshop [0100F7A023F14000] [v0].nsz" size="246.84 MiB" dateCreated="20250925" dateModified="20250817"/>
+      <file name="Tiny Bookshop [0100F7A023F14800] [v65536].nsz" size="167.74 MiB" dateCreated="20250925" dateModified="20250817"/>
     </folder>
     <folder name="Tiny Troopers Global Ops" size="4.40 GiB" fileCount="1" dateCreated="20250325" dateModified="20250325">
       <file name="Tiny Troopers Global Ops [0100347013E4C000][v0][US](nsw2u.com).nsp" size="4.40 GiB" dateCreated="20250313" dateModified="20230312"/>
@@ -9873,6 +9931,9 @@
       <file name="Touken Ranbu Warriors [Uchiban Outfit Yagen Toushiro] [0100DC9016C7D009][v0].nsp" size="149.94 KiB" dateCreated="20240130" dateModified="20220525"/>
       <file name="Touken Ranbu Warriors [Uchiban Outfit Yamanbagiri Chougi] [0100DC9016C7D00F][v65536].nsp" size="149.94 KiB" dateCreated="20240130" dateModified="20220525"/>
       <file name="Touken Ranbu Warriors [Uchiban Outfit Yamanbagiri Kunihiro] [0100DC9016C7D00E][v65536].nsp" size="149.94 KiB" dateCreated="20240130" dateModified="20220525"/>
+    </folder>
+    <folder name="Towa and the Guardians of the Sacred Tree" size="5.21 GiB" fileCount="1" dateCreated="20250926" dateModified="20250926">
+      <file name="Towa and the Guardians of the Sacred Tree v1.0[0100F52019002000][v0][APP].nsp" size="5.21 GiB" dateCreated="20250926" dateModified="20250920"/>
     </folder>
     <folder name="Tower of Babel - no mercy" size="168.28 MiB" fileCount="2" dateCreated="20220805" dateModified="20220805">
       <file name="Tower of Babel - no mercy[01002D20103E0000][US][v0].nsp" size="131.19 MiB" dateCreated="20201123" dateModified="20200222"/>
@@ -10456,6 +10517,10 @@
       <file name="We Love Katamari REROLL+ Royal Reverie [0100E71018D1A000][v0][US](nsw2u.com).nsp" size="2.97 GiB" dateCreated="20240823" dateModified="20230607"/>
       <file name="We Love Katamari REROLL+ Royal Reverie [0100E71018D1A800][v196608][Update].nsp" size="262.27 MiB" dateCreated="20240823" dateModified="20231021"/>
     </folder>
+    <folder name="We Were Here Too" size="945.85 MiB" fileCount="2" dateCreated="20250926" dateModified="20250926">
+      <file name="We Were Here Too v1.0.0[0100C5C024396000][v0][APP].nsp" size="708.35 MiB" dateCreated="20250926" dateModified="20250920"/>
+      <file name="We Were Here Too v1.0.1[0100C5C024396800][v65536][UPD].nsp" size="237.50 MiB" dateCreated="20250926" dateModified="20250920"/>
+    </folder>
     <folder name="Welcome to Primson Lake" size="1.01 GiB" fileCount="1" dateCreated="20240302" dateModified="20240302">
       <file name="Welcome to Primrose Lake[0100D7F010B94000][v0]Switch-xci.com.nsp" size="1.01 GiB" dateCreated="20240302" dateModified="20240302"/>
     </folder>
@@ -10862,5 +10927,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2317" totalFiles="6226" totalSize="10013.12 GiB" generatedOn="20250912"/>
+  <summary totalFolders="2332" totalFiles="6261" totalSize="10065.60 GiB" generatedOn="20250926"/>
 </root>
