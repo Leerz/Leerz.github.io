@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PremazingPH - Topics</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .toolbar {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #e60012; /* Nintendo Red */
+            padding: 10px 15px;
+            border-bottom: 2px solid #cc000f;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 10;
+            height: 30px;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer; /* Make toolbar clickable */
+        }
+
+        .menu {
+            margin-top: 60px;
+            width: 100%;
+            background: white;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            max-height: 0; /* Start collapsed */
+            transition: max-height 0.3s ease-out; /* Smooth expand/collapse */
+        }
+
+        .menu.expanded {
+            max-height: 500px; /* Large enough to fit the entire menu */
+        }
+
+        .menu-item {
+            cursor: pointer;
+            padding: 15px 20px;
+            border-bottom: 1px solid #ddd;
+            background: #fff;
+            transition: background 0.3s, color 0.3s;
+            font-size: 16px;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .menu-item:hover {
+            background: #e60012; /* Nintendo Red */
+            color: white;
+        }
+
+        .menu-item.active {
+            background: #e60012;
+            color: white;
+        }
+
+        .menu-item .arrow {
+            font-size: 18px;
+            transform: rotate(0);
+            transition: transform 0.3s ease;
+        }
+
+        .menu-item.active .arrow {
+            transform: rotate(90deg);
+        }
+
+        .dropdown {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+            background: #f0f0f0;
+            padding-left: 10px;
+            border-left: 3px solid #e60012;
+        }
+
+        .dropdown.expanded {
+            max-height: 300px; /* Large enough to fit all subcategories */
+        }
+
+        .dropdown li {
+            padding: 10px 20px;
+            list-style: none;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+            font-size: 14px;
+            color: #333;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        .dropdown li:hover {
+            background: #0056b3; /* Nintendo Blue */
+            color: white;
+        }
+
+        iframe {
+            flex: 1;
+            width: 100%;
+            border: none;
+            background: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <div class="toolbar" id="toolbar">PremazingPH - Topics - Introduction and Basic Concepts > Welcome to PremazingPH</div>
+    <div class="menu expanded" id="menu"></div>
+    <iframe id="content-frame" src="welcome_premark.html"></iframe>
+
+    <script>
+        const topics = {
+            'topic_1': {
+                display: 'Introduction and Basic Concepts',
+                subtopics: [
+                    { function: 'welcome_premark', display: 'Welcome to PremazingPH' },
+                    { function: 'jailbreak_overview', display: 'Overview of Jailbreaking' },
+                    { function: 'risks_warnings', display: 'Risks and Safety Warnings' },
+                    { function: 'setup_navigation', display: 'General Setup & Navigation' }
+                ]
+            },
+            'topic_2': {
+                display: 'Game Management',
+                subtopics: [
+                    { function: 'delete_games', display: 'Deleting Games' },
+                    { function: 'file_types', display: 'Game File Types (XCI, NSP, NSZ)' },
+                    { function: 'downloadfiles', display: 'Downloading Games' },
+                    { function: 'save_mgmt', display: 'Save Data Management' }
+                ]
+            },
+            'topic_2b': {
+                display: 'Installing Games',
+                subtopics: [
+                    { function: 'install_gamesPC', display: 'Installing Games' },
+                    { function: 'install_gamesOTH', display: 'Installing Games (Other Methods)' },
+                    { function: 'tinfoil', display: 'Installing Games over Wifi - Tinfoil' },
+                    { function: 'ultradbi', display: 'Installing Games over Wifi - Ultra DBI' }
+                ]
+            },
+            'topic_3': {
+                display: 'Jailbreak Setup and Configuration',
+                subtopics: [
+                    { function: 'update_fw', display: 'Updating Firmware Safely' },
+                    { function: 'extra_homebrew', display: 'Themes, Cheats, 60fps, Overclock' }
+                ]
+            },
+            'topic_4': {
+                display: 'Troubleshooting',
+                subtopics: [
+                    { function: 'joycon_fixes', display: 'Joy-Con Pairing Fixes (Level 1-3)' },
+                    { function: 'load_errors', display: 'Fixing Game Load Errors' },
+                    { function: 'sdcard_issues', display: 'SD Card Issues and Solutions' },
+                    { function: 'other_errors', display: 'Other Errors, Issues Troubleshooting' },
+                    { function: 'networkerror', display: 'Network Errors' }
+                ]
+            },
+            'topic_5': {
+                display: 'Advanced Procedures',
+                subtopics: [
+                    { function: 'upgradesd', display: 'Upgrading SDcards' },
+                    { function: 'setupscratch', display: 'Setting up from Scratch' },
+                    { function: 'android_linux', display: 'Android and Linux' }
+                ]
+            }
+        };
+
+        const toolbar = document.getElementById('toolbar');
+        const menu = document.getElementById('menu');
+        const frame = document.getElementById('content-frame');
+
+        // Toggle menu visibility with animation
+        toolbar.addEventListener('click', () => {
+            menu.classList.toggle('expanded');
+        });
+
+        // Populate the menu dynamically
+        Object.entries(topics).forEach(([topicKey, topic]) => {
+            const menuItem = document.createElement('div');
+            menuItem.className = 'menu-item';
+            menuItem.textContent = topic.display;
+
+            const dropdown = document.createElement('ul');
+            dropdown.className = 'dropdown';
+
+            topic.subtopics.forEach(subtopic => {
+                const subItem = document.createElement('li');
+                subItem.textContent = subtopic.display;
+
+                // Add click event to submenu
+                subItem.addEventListener('click', (event) => {
+                    event.stopPropagation();
+                    frame.src = `${subtopic.function}.html`;
+
+                    // Hide menu and update toolbar text
+                    menu.classList.remove('expanded');
+                    toolbar.textContent = `PremazingPH - Topics - ${topic.display} > ${subtopic.display}`;
+                });
+
+                dropdown.appendChild(subItem);
+            });
+
+            menuItem.addEventListener('click', () => {
+                const isActive = menuItem.classList.contains('active');
+
+                // Close all dropdowns
+                document.querySelectorAll('.dropdown').forEach(d => d.classList.remove('expanded'));
+                document.querySelectorAll('.menu-item').forEach(item => item.classList.remove('active'));
+
+                if (!isActive) {
+                    // Expand the clicked dropdown
+                    dropdown.classList.add('expanded');
+                    menuItem.classList.add('active');
+
+                    // Update toolbar text to the main topic
+                    toolbar.textContent = `PremazingPH - Topics - ${topic.display}`;
+
+                    // Load main topic content
+                    frame.src = `${topicKey}.html`;
+                }
+            });
+
+            menuItem.appendChild(dropdown);
+            menu.appendChild(menuItem);
+        });
+
+        // Set default topic_1 and expand its dropdown
+        document.querySelector('.menu-item').classList.add('active');
+        //document.querySelector('.dropdown').classList.add('expanded');
+		toolbar.textContent = `PremazingPH - Topics`;
+    </script>
+</body>
+</html>

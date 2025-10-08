@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Scream Booth</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background: black;
+      color: white;
+      font-family: sans-serif;
+      overflow: hidden;
+    }
+    #visualizer {
+      flex: 1;
+      width: 100%;
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+      background: #111;
+    }
+    #bar {
+      width: 50%;
+      background: lime;
+      height: 0%;
+      transition: height 0.1s;
+    }
+    #controls {
+      margin: 10px;
+    }
+    #result {
+      font-size: 2em;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    #configPanel {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: #222;
+      padding: 20px;
+      border-radius: 10px;
+      display: none;
+      flex-direction: column;
+      gap: 10px;
+    }
+    #configPanel input {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Scream Booth 🎤</h1>
+  
+  <div id="controls">
+    <button id="startBtn">▶️ Start</button>
+    <button id="configBtn">⚙️ Config</button>
+  </div>
+  <div id="visualizer"><div id="bar"></div></div>
+
+  <div id="result"></div>
+
+  <div id="configPanel">
+    <label>Target Loudness: <input type="number" id="thresholdInput" value="60"></label>
+    <label>Duration (seconds): <input type="number" id="durationInput" value="5"></label>
+    <button id="saveConfig">Save</button>
+  </div>
+
+  <script>
+    let audioCtx, analyser, dataArray, micStream;
+    let threshold = 60;   // target loudness
+    let duration = 5;     // seconds
+    let recording = false;
+
+    const startBtn = document.getElementById("startBtn");
+    const configBtn = document.getElementById("configBtn");
+    const configPanel = document.getElementById("configPanel");
+    const saveConfig = document.getElementById("saveConfig");
+    const bar = document.getElementById("bar");
+    const result = document.getElementById("result");
+    const thresholdInput = document.getElementById("thresholdInput");
+    const durationInput = document.getElementById("durationInput");
+
+    async function setupMic() {
+      if (!audioCtx) {
+        micStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        const source = audioCtx.createMediaStreamSource(micStream);
+        analyser = audioCtx.createAnalyser();
+        analyser.fftSize = 256;
+        dataArray = new Uint8Array(analyser.frequencyBinCount);
+        source.connect(analyser);
+      }
+    }
+
+    function getLoudness() {
+      analyser.getByteFrequencyData(dataArray);
+      let sum = 0;
+      for (let i = 0; i < dataArray.length; i++) sum += dataArray[i];
+      return sum / dataArray.length;
+    }
+
+    function animate() {
+      if (!recording) return;
+      requestAnimationFrame(animate);
+      const loudness = getLoudness();
+      const percent = Math.min(100, (loudness / 128) * 100);
+      bar.style.height = percent + "%";
+    }
+
+    startBtn.onclick = async () => {
+      await setupMic();
+      result.textContent = "";
+      recording = true;
+      let maxLoudness = 0;
+      const startTime = Date.now();
+
+      function loop() {
+        if (!recording) return;
+        const loudness = getLoudness();
+        if (loudness > maxLoudness) maxLoudness = loudness;
+
+        if ((Date.now() - startTime) / 1000 >= duration) {
+          recording = false;
+          if (maxLoudness >= threshold) {
+            result.textContent = "✅ PASS!";
+            result.style.color = "lime";
+          } else {
+            result.textContent = "❌ FAIL!";
+            result.style.color = "red";
+          }
+        } else {
+          requestAnimationFrame(loop);
+        }
+      }
+      animate();
+      loop();
+    };
+
+    configBtn.onclick = () => {
+      configPanel.style.display = "flex";
+      thresholdInput.value = threshold;
+      durationInput.value = duration;
+    };
+
+    saveConfig.onclick = () => {
+      threshold = parseInt(thresholdInput.value, 10);
+      duration = parseInt(durationInput.value, 10);
+      configPanel.style.display = "none";
+    };
+  </script>
+</body>
+</html>
