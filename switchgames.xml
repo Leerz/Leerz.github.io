@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.85 TiB" fileCount="6291" dateCreated="20210923" dateModified="20251001">
+  <folder name="NSP 2021" size="9.87 TiB" fileCount="6297" dateCreated="20210923" dateModified="20251010">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20250722">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -5128,6 +5128,10 @@
     <folder name="Little Nightmares II" size="6.56 GiB" fileCount="1" dateCreated="20240108" dateModified="20240809">
       <file name="Little Nightmares II [010097100EDD6000]+[v1.4+2DLC] (nsw2u)_patched.xci" size="6.56 GiB" dateCreated="20240809" dateModified="20210528"/>
     </folder>
+    <folder name="Little Nightmares III" size="10.02 GiB" fileCount="2" dateCreated="20251010" dateModified="20251010">
+      <file name="Little Nightmares III [010066101A55A000].xci" size="7.44 GiB" dateCreated="20251010" dateModified="20251010"/>
+      <file name="Little Nightmares III [010066101A55A800][v131072][1.0.2].nsp" size="2.58 GiB" dateCreated="20251010" dateModified="20251010"/>
+    </folder>
     <folder name="Little Noah Scion of Paradise" size="1.98 GiB" fileCount="4" dateCreated="20240114" dateModified="20240115">
       <file name="Little Noah Scion of Paradise [0100535014D76000][v0][US](nsw2u.xyz).nsp" size="1.05 GiB" dateCreated="20240115" dateModified="20220629"/>
       <file name="Little Noah Scion of Paradise [0100535014D76800][v393216][US](nsw2u.com).nsp" size="952.56 MiB" dateCreated="20240114" dateModified="20230308"/>
@@ -8230,6 +8234,10 @@
     <folder name="SNK Heroines Tag Team Frenzy" size="11.39 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="SNK Heroines Tag Team Frenzy [010007C00B508000][v0].nsp" size="11.39 GiB" dateCreated="20210411" dateModified="20200313"/>
     </folder>
+    <folder name="Snow Bros Wonderland" size="6.46 GiB" fileCount="2" dateCreated="20251010" dateModified="20251010">
+      <file name="Snow Bros. Wonderland v1.0.0[0100A1D0205E2000][v0][APP].nsp" size="5.28 GiB" dateCreated="20251010" dateModified="20251009"/>
+      <file name="Snow Bros. Wonderland v1.0.3[0100A1D0205E2800][v196608][UPD].nsp" size="1.18 GiB" dateCreated="20251010" dateModified="20251009"/>
+    </folder>
     <folder name="SnowRunner" size="13.60 GiB" fileCount="44" dateCreated="20230114" dateModified="20250414">
       <file name="snowrunner anniversary DLC][][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250414" dateModified="20240605"/>
       <file name="snowrunner burning bright vinyl wrap pack DLC][][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250414" dateModified="20240605"/>
@@ -8512,6 +8520,9 @@
     <folder name="Star Trek Legends" size="2.49 GiB" fileCount="2" dateCreated="20250119" dateModified="20250119">
       <file name="Star Trek Legends v1.0.0[01003CC020BA6000][v0][APP].nsp" size="1.36 GiB" dateCreated="20250119" dateModified="20241225"/>
       <file name="Star Trek Legends v1.1.1[01003CC020BA6800][v131072][UPD].nsp" size="1.13 GiB" dateCreated="20250119" dateModified="20241225"/>
+    </folder>
+    <folder name="Star Trek Resurgence" size="5.22 GiB" fileCount="1" dateCreated="20251010" dateModified="20251010">
+      <file name="Star Trek Resurgence [0100DBB01FC1E000][v0].nsp" size="5.22 GiB" dateCreated="20251010" dateModified="20251009"/>
     </folder>
     <folder name="STAR WARS Battlefront Classic Collection" size="33.68 GiB" fileCount="2" dateCreated="20240316" dateModified="20240317">
       <file name="STAR WARS Battlefront Classic Collection [010040701B948000].nsp" size="25.39 GiB" dateCreated="20240316" dateModified="20240315"/>
@@ -10770,6 +10781,9 @@
       <file name="Wrestling Empire v1.6.5[0100F2B013CA4800][3407872][UPD].nsp" size="315.39 MiB" dateCreated="20250128" dateModified="20240724"/>
       <file name="Wrestling Empire [0100F2B013CA4000][v0](nsw2u.com).nsp" size="144.84 MiB" dateCreated="20250128" dateModified="20210114"/>
     </folder>
+    <folder name="Wukong Black Legend" size="3.98 GiB" fileCount="1" dateCreated="20251010" dateModified="20251010">
+      <file name="Wukong Black Legend v1.0.0[0100564024AEA000][v0][APP].nsp" size="3.98 GiB" dateCreated="20251010" dateModified="20251009"/>
+    </folder>
     <folder name="Wulverblade" size="1.57 GiB" fileCount="2" dateCreated="20240114" dateModified="20240114">
       <file name="Wulverblade__switch-xci.com__v0___2.54_GB_.nsz" size="1.09 GiB" dateCreated="20240114" dateModified="20240114"/>
       <file name="Wulverblade__switch-xci.com__v196608___1.09_GB_.nsz" size="485.79 MiB" dateCreated="20240114" dateModified="20240114"/>
@@ -10981,5 +10995,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2344" totalFiles="6291" totalSize="10083.97 GiB" generatedOn="20251001"/>
+  <summary totalFolders="2348" totalFiles="6297" totalSize="10109.66 GiB" generatedOn="20251010"/>
 </root>
