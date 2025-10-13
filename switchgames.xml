@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.87 TiB" fileCount="6297" dateCreated="20210923" dateModified="20251010">
+  <folder name="NSP 2021" size="9.88 TiB" fileCount="6300" dateCreated="20210923" dateModified="20251013">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20250722">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -7219,6 +7219,11 @@
       <file name="Pokemon Legends Arceus [01001F5010DFA800][v262144].nsp" size="88.91 MiB" dateCreated="20250108" dateModified="20220318"/>
       <file name="Pokemon Legends Arceus[01001F5010DFA000][US][v0].nsp" size="6.02 GiB" dateCreated="20231114" dateModified="20220205"/>
     </folder>
+    <folder name="Pokemon Legends Z-A" size="3.57 GiB" fileCount="3" dateCreated="20251013" dateModified="20251013">
+      <file name="Pokemon Legends Z-A [0100F43008C44000][v0] (4.02 GB).nsz" size="3.54 GiB" dateCreated="20251013" dateModified="20251013"/>
+      <file name="Pokemon Legends Z-A [0100F43008C44800][v65536] (0.04 GB).nsz" size="27.08 MiB" dateCreated="20251013" dateModified="20251013"/>
+      <file name="Pokemon Legends Z-A [DLC Mega Dimension] [0100F43008C45002][v0].nsp" size="103.64 KiB" dateCreated="20251013" dateModified="20251013"/>
+    </folder>
     <folder name="Pokemon Lets Go Evee" size="4.16 GiB" fileCount="1" dateCreated="20240108" dateModified="20240108">
       <file name="pokemon evee.nsp" size="4.16 GiB" dateCreated="20190103" dateModified="20190103"/>
     </folder>
@@ -10995,5 +11000,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2348" totalFiles="6297" totalSize="10109.66 GiB" generatedOn="20251010"/>
+  <summary totalFolders="2349" totalFiles="6300" totalSize="10113.22 GiB" generatedOn="20251013"/>
 </root>
