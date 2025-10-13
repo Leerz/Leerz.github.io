@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.88 TiB" fileCount="6300" dateCreated="20210923" dateModified="20251013">
+  <folder name="NSP 2021" size="9.89 TiB" fileCount="6310" dateCreated="20210923" dateModified="20251013">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20250722">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -788,6 +788,10 @@
     <folder name="Atelier Meruru The Apprentice of Arland DX" size="8.13 GiB" fileCount="2" dateCreated="20210929" dateModified="20211003">
       <file name="Atelier Meruru The Apprentice of Arland DX[0100ADD00C6FA000][US][v0].nsp" size="8.08 GiB" dateCreated="20210929" dateModified="20200521"/>
       <file name="Atelier Meruru The Apprentice of Arland DX[0100ADD00C6FA800][US][v131072].nsp" size="50.00 MiB" dateCreated="20210929" dateModified="20200521"/>
+    </folder>
+    <folder name="Atelier Resleriana The Red Alchemist and the White Guardian" size="5.57 GiB" fileCount="2" dateCreated="20251013" dateModified="20251013">
+      <file name="Atelier Resleriana The Red Alchemist and the White Guardian.xci" size="4.99 GiB" dateCreated="20251013" dateModified="20250930"/>
+      <file name="Atelier Resleriana The Red Alchemist and the White Guardian[0100B4E020CE2800][v131072][1.1a].nsp" size="598.09 MiB" dateCreated="20251013" dateModified="20250926"/>
     </folder>
     <folder name="Atelier Rorona The Alchemist of Arland DX" size="8.49 GiB" fileCount="2" dateCreated="20210929" dateModified="20211003">
       <file name="Atelier Rorona The Alchemist of Arland DX [010088600C66E000] [v0].nsp" size="8.46 GiB" dateCreated="20210929" dateModified="20200521"/>
@@ -2704,20 +2708,25 @@
       <file name="DRAGON BALL XENOVERSE 2 FOR NINTENDO SWITCH[010078D000F89475][0][1.0.0][DLC].nsp" size="103.16 KiB" dateCreated="20250527" dateModified="20241126"/>
       <file name="Dragon Ball Xenoverse 2 [010078D000F88800][2228224][Update v1.24.00].nsp" size="6.46 GiB" dateCreated="20250527" dateModified="20250522"/>
     </folder>
-    <folder name="DRAGON BALL Z KAKAROT" size="16.54 GiB" fileCount="13" dateCreated="20211003" dateModified="20240909">
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [010051C0134F8800][v131072][US](nsw2u).nsp" size="3.53 GiB" dateCreated="20210927" dateModified="20210923"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [a competitive party with friends DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [aged wild steak DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [d medal x10 DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [dragon palace bowl DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [music compilation pack DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [sea monster soup DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [smiling ultra mega roast DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [steaming hot grilled fish DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [tao pai pai pillar DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [the mystical member of the ginyu force DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [trunks the warrior of hope DLC][US](nsw2u).nsp" size="121.20 KiB" dateCreated="20210927" dateModified="20210925"/>
-      <file name="Dragon Ball Z Kakarot and A New Power Set [010051C0134F8000][v0][US](nsw2u).nsp" size="13.01 GiB" dateCreated="20210927" dateModified="20210924"/>
+    <folder name="DRAGON BALL Z KAKAROT" size="24.91 GiB" fileCount="18" dateCreated="20211003" dateModified="20251013">
+      <file name="DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET [010051C0134F8000][v0].nsp" size="13.01 GiB" dateCreated="20251013" dateModified="20210928"/>
+      <file name="DRAGON BALL Z KAKAROT Plus A NEW POWER AWAKENS SET [EU][010051C0134F8800][v983040][1.60].nsp" size="11.91 GiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_23rd_world_tournament_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_aged_wild_steak_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_a_competitive_party_with_friends_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_bardock_alone_against_fate_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_dragon_ball_z_kakarot_daima_adventure_through_the_demon_realm_pack_bonus_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_dragon_ball_z_kakarot_daima_adventure_through_the_demon_realm_part_1_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_dragon_palace_bowl_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_d_medal_x10_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_gokus_next_journey_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_music_compilation_pack_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_sea_monster_soup_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_smiling_ultra_mega_roast_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_steaming_hot_grilled_fish_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_tao_pai_pai_pillar_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_the_mystical_member_of_the_ginyu_force_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
+      <file name="sxs-dragon_ball_z_kakarot_plus_a_new_power_awakens_set_trunks_the_warrior_of_hope_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250715"/>
     </folder>
     <folder name="dragon quest 11" size="10.83 GiB" fileCount="7" dateCreated="20190927" dateModified="20230928">
       <file name="DRAGON QUEST XI S Echoes of an Elusive Age Definitive Edition [01006C300E9F0000][v0] (13.80 GB).nsz" size="10.76 GiB" dateCreated="20230819" dateModified="20230822"/>
@@ -4992,6 +5001,11 @@
       <file name="LEGO The Incredibles [0100F19006E04800][v131072].nsp" size="1.17 GiB" dateCreated="20210924" dateModified="20200605"/>
       <file name="LEGO The Incredibles [DLC Parr Family Vacation Character Pack] [0100F19006E05001][v0].nsp" size="4.99 MiB" dateCreated="20210924" dateModified="20200605"/>
       <file name="LEGO The Incredibles.nsp" size="8.08 GiB" dateCreated="20190921" dateModified="20180727"/>
+    </folder>
+    <folder name="Lego Voyagers" size="3.16 GiB" fileCount="3" dateCreated="20251013" dateModified="20251013">
+      <file name="LEGO Voyagers  full_version_unlocker_dlc.nsp" size="121.20 KiB" dateCreated="20251013" dateModified="20250915"/>
+      <file name="LEGO Voyagers  v1.0.4[01005B901F8EE800][v131072][UPD].nsp" size="982.89 MiB" dateCreated="20251013" dateModified="20250917"/>
+      <file name="LEGO Voyagers [01005B901F8EE000] [v0] .nsp" size="2.20 GiB" dateCreated="20251013" dateModified="20250915"/>
     </folder>
     <folder name="LEGO Worlds" size="2.07 GiB" fileCount="1" dateCreated="20240108" dateModified="20240108">
       <file name="LEGO Worlds.nsp" size="2.07 GiB" dateCreated="20190921" dateModified="20180727"/>
@@ -8911,15 +8925,15 @@
       <file name="Super Robot Wars X [DLC-4] [010026800E305147][v0].nsp" size="166.20 KiB" dateCreated="20240804" dateModified="20201213"/>
       <file name="Super Robot Wars X [DLC-5] [010026800E305148][v0].nsp" size="166.20 KiB" dateCreated="20240804" dateModified="20201213"/>
     </folder>
-    <folder name="SUPER ROBOT WARS Y" size="12.70 GiB" fileCount="8" dateCreated="20250926" dateModified="20250926">
-      <file name="SUPER ROBOT WARS Y v1.0.4[010063301BD50800][v262144][UPD].nsp" size="493.52 MiB" dateCreated="20250926" dateModified="20250920"/>
-      <file name="SUPER ROBOT WARS Y [010063301BD50000].xci" size="11.80 GiB" dateCreated="20250926" dateModified="20250827"/>
-      <file name="SUPER ROBOT WARS Y [010063301BD51001][v0][DLC 1].nsp" size="3.55 MiB" dateCreated="20250926" dateModified="20250829"/>
-      <file name="SUPER ROBOT WARS Y [010063301BD51002][v0][DLC 2].nsp" size="614.20 KiB" dateCreated="20250926" dateModified="20250829"/>
-      <file name="SUPER ROBOT WARS Y [010063301BD51003][v0][DLC 3].nsp" size="158.21 MiB" dateCreated="20250926" dateModified="20250829"/>
-      <file name="SUPER ROBOT WARS Y [010063301BD51006][v0][DLC 6].nsp" size="263.60 MiB" dateCreated="20250926" dateModified="20250829"/>
-      <file name="SUPER ROBOT WARS Y [010063301BD51009][v0][DLC 9].nsp" size="166.20 KiB" dateCreated="20250926" dateModified="20250829"/>
-      <file name="SUPER ROBOT WARS Y [010063301BD5100A][v0][DLC 10].nsp" size="166.20 KiB" dateCreated="20250926" dateModified="20250829"/>
+    <folder name="SUPER ROBOT WARS Y" size="12.21 GiB" fileCount="8" dateCreated="20250926" dateModified="20251013">
+      <file name="SUPER ROBOT WARS Y v1.0.4[010063301BD50800][v262144][UPD].nsp" size="493.52 MiB" dateCreated="20251013" dateModified="20250920"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD50000][v0][Base].nsp" size="11.31 GiB" dateCreated="20251013" dateModified="20251013"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51001][v0][DLC 1].nsp" size="3.55 MiB" dateCreated="20251013" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51002][v0][DLC 2].nsp" size="614.20 KiB" dateCreated="20251013" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51003][v0][DLC 3].nsp" size="158.21 MiB" dateCreated="20251013" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51006][v0][DLC 6].nsp" size="263.60 MiB" dateCreated="20251013" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD51009][v0][DLC 9].nsp" size="166.20 KiB" dateCreated="20251013" dateModified="20250829"/>
+      <file name="SUPER ROBOT WARS Y [010063301BD5100A][v0][DLC 10].nsp" size="166.20 KiB" dateCreated="20251013" dateModified="20250829"/>
     </folder>
     <folder name="Super Sami Roll" size="2.01 GiB" fileCount="2" dateCreated="20240721" dateModified="20240721">
       <file name="Super Sami Roll [0100C69014B1E000][v0][US](nsw2u.xyz).nsp" size="1.59 GiB" dateCreated="20240721" dateModified="20211104"/>
@@ -11000,5 +11014,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2349" totalFiles="6300" totalSize="10113.22 GiB" generatedOn="20251013"/>
+  <summary totalFolders="2351" totalFiles="6310" totalSize="10129.83 GiB" generatedOn="20251013"/>
 </root>
