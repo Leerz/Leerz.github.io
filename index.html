@@ -203,7 +203,7 @@
                 // Add click event to submenu
                 subItem.addEventListener('click', (event) => {
                     event.stopPropagation();
-                    frame.src = `${subtopic.function}.html`;
+                    frame.src = `switchguides/${subtopic.function}.html`;
 
                     // Hide menu and update toolbar text
                     menu.classList.remove('expanded');
