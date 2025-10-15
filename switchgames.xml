@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.89 TiB" fileCount="6310" dateCreated="20210923" dateModified="20251013">
+  <folder name="NSP 2021" size="9.91 TiB" fileCount="6320" dateCreated="20210923" dateModified="20251015">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20250722">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -1305,6 +1305,9 @@
       <file name="Bluey  The Videogame [01008C2019598800][v327680][US](nsw2u.com).nsp" size="107.08 MiB" dateCreated="20240226" dateModified="20240223"/>
       <file name="Bluey The Videogame [01008C2019598000][v0][US](nsw2u.com).xci" size="1.86 GiB" dateCreated="20240226" dateModified="20231118"/>
     </folder>
+    <folder name="BODYCAM SHOOTER 2025" size="2.05 GiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="BODYCAM SHOOTER 2025 v1.0.0[0100B2D0249B2000][v0][APP].nsp" size="2.05 GiB" dateCreated="20251015" dateModified="20251006"/>
+    </folder>
     <folder name="Bodycam Stray Kitty" size="323.60 MiB" fileCount="1" dateCreated="20250615" dateModified="20250615">
       <file name="Bodycam Stray Kitty [0100F9502369E000].nsp" size="323.60 MiB" dateCreated="20250615" dateModified="20250614"/>
     </folder>
@@ -1695,6 +1698,9 @@
     <folder name="Chained Heroes" size="812.08 MiB" fileCount="1" dateCreated="20250207" dateModified="20250207">
       <file name="Chained Heroes [0100A8902131A000][v0].nsp" size="812.08 MiB" dateCreated="20250207" dateModified="20250204"/>
     </folder>
+    <folder name="Chained Up Together" size="1.08 GiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="Chained Up Together v1.0.0[01001F10243E0000][v0][APP].nsp" size="1.08 GiB" dateCreated="20251015" dateModified="20251001"/>
+    </folder>
     <folder name="Chameleon Run Deluxe Edition" size="82.57 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Chameleon Run Deluxe Edition.nsp" size="82.57 MiB" dateCreated="20190921" dateModified="20180726"/>
     </folder>
@@ -1836,6 +1842,9 @@
     <folder name="Colors Live" size="102.34 MiB" fileCount="2" dateCreated="20211004" dateModified="20211004">
       <file name="Colors Live [010020500BD86000][v0](nsw2u).nsp" size="48.43 MiB" dateCreated="20211004" dateModified="20210922"/>
       <file name="Colors Live [010020500BD86800][v524288](nsw2u).nsp" size="53.91 MiB" dateCreated="20211004" dateModified="20210922"/>
+    </folder>
+    <folder name="Combat Zone" size="4.48 GiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="Combat Zone v1.0.0[01009DB025388000][v0][APP].nsp" size="4.48 GiB" dateCreated="20251015" dateModified="20250926"/>
     </folder>
     <folder name="Commandos 2 - HD Remaster" size="2.23 GiB" fileCount="1" dateCreated="20240723" dateModified="20240723">
       <file name="Commandos 2 - HD Remaster [010065A01158E000]+[v1.0.2](Switch-xci.xyz).xci" size="2.23 GiB" dateCreated="20240723" dateModified="20201206"/>
@@ -3098,6 +3107,10 @@
       <file name="Expeditions A MudRunner Game [season 3 DLC][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250527" dateModified="20240906"/>
       <file name="Expeditions A MudRunner Game [season 4 DLC][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250527" dateModified="20240906"/>
       <file name="Expeditions A MudRunner Game [the great don 71 paint job DLC][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20250527" dateModified="20240906"/>
+    </folder>
+    <folder name="Extinction Eclipse" size="382.83 MiB" fileCount="2" dateCreated="20251015" dateModified="20251015">
+      <file name="Extinction Eclipse [0100D60018376000].nsp" size="342.54 MiB" dateCreated="20251015" dateModified="20221129"/>
+      <file name="Extinction Eclipse [0100D60018376800][v131072][Update 1.0.2].nsp" size="40.30 MiB" dateCreated="20251015" dateModified="20221205"/>
     </folder>
     <folder name="Extreme Skyway Racer Simulator" size="411.06 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Extreme Skyway Racer Simulator [0100A2C01D73E000][v0].nsp" size="411.06 MiB" dateCreated="20231203" dateModified="20231124"/>
@@ -4988,6 +5001,10 @@
       <file name="LEGO NINJAGO Movie Video Game[01007FC00206E000][US][v0].nsp" size="7.14 GiB" dateCreated="20210924" dateModified="20210424"/>
       <file name="LEGO NINJAGO Movie Video Game[01007FC00206E800][US][v131072].nsp" size="413.25 MiB" dateCreated="20210924" dateModified="20210424"/>
     </folder>
+    <folder name="LEGO Party" size="5.89 GiB" fileCount="2" dateCreated="20251015" dateModified="20251015">
+      <file name="LEGO® Party! v1.0.1[0100A760232D2000][v65536][APP].nsp" size="3.68 GiB" dateCreated="20251015" dateModified="20251004"/>
+      <file name="LEGO® Party! v1.0.1[0100A760232D2800][v65536][UPD].nsp" size="2.21 GiB" dateCreated="20251015" dateModified="20251004"/>
+    </folder>
     <folder name="LEGO Star Wars The Skywalker Saga" size="14.09 GiB" fileCount="6" dateCreated="20220409" dateModified="20240909">
       <file name="LEGO Star Wars The Skywalker Saga [010042D00D900000][v0](nsw2u.xyz).nsp" size="13.88 GiB" dateCreated="20220409" dateModified="20220405"/>
       <file name="LEGO Star Wars The Skywalker Saga [010042D00D900800][v196608][US](nsw2u.xyz).nsp" size="192.44 MiB" dateCreated="20220409" dateModified="20220408"/>
@@ -6559,6 +6576,10 @@
       <file name="Nickelodeon Kart Racers 3 Slime Speedway [01003BA01575E000][v0][US](nsw2u.in).nsp" size="5.16 GiB" dateCreated="20240229" dateModified="20221014"/>
       <file name="Nickelodeon Kart Racers 3 Slime Speedway [01003BA01575E800][v65536][US](nsw2u.in).nsp" size="624.38 MiB" dateCreated="20240229" dateModified="20221014"/>
       <file name="Nickelodeon Kart Racers 3 Slime Speedway [Turbo Pack DLC][01003BA01575F001 ][v0][US](nsw2u.com).nsp" size="121.20 KiB" dateCreated="20240229" dateModified="20221014"/>
+    </folder>
+    <folder name="Nicktoons and The Dice of Destiny" size="4.15 GiB" fileCount="2" dateCreated="20251015" dateModified="20251015">
+      <file name="Nicktoons and The Dice of Destiny v1.0.0[0100668022DF4000][v0][XCI].xci" size="3.72 GiB" dateCreated="20251015" dateModified="20251004"/>
+      <file name="Nicktoons and The Dice of Destiny [0100668022DF4800][v131072][1.2.0].nsp" size="438.88 MiB" dateCreated="20251015" dateModified="20251003"/>
     </folder>
     <folder name="Nidhogg 2" size="626.90 MiB" fileCount="1" dateCreated="20240925" dateModified="20240925">
       <file name="Nidhogg 2[0100C8700B0B6000][US][v0].nsp" size="626.90 MiB" dateCreated="20240925" dateModified="20210423"/>
@@ -8802,9 +8823,11 @@
     <folder name="Super Mario Bros Wonder" size="3.51 GiB" fileCount="1" dateCreated="20231227" dateModified="20240829">
       <file name="Super Mario Bros Wonder.xci" size="3.51 GiB" dateCreated="20231015" dateModified="20231014"/>
     </folder>
-    <folder name="Super Mario Galaxy 1-2" size="5.94 GiB" fileCount="2" dateCreated="20250930" dateModified="20250930">
-      <file name="Super Mario Galaxy 2 [0100FD8022DAA000][v0].nsp" size="2.63 GiB" dateCreated="20250930" dateModified="20250930"/>
+    <folder name="Super Mario Galaxy" size="3.31 GiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
       <file name="Super Mario Galaxy [010099C022B96000][v0].nsp" size="3.31 GiB" dateCreated="20250930" dateModified="20250930"/>
+    </folder>
+    <folder name="Super Mario Galaxy 2" size="2.63 GiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="Super Mario Galaxy 2 [0100FD8022DAA000][v0].nsp" size="2.63 GiB" dateCreated="20250930" dateModified="20250930"/>
     </folder>
     <folder name="Super Mario Maker 2" size="2.81 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Super Mario Maker 2 [01009B90006DC000][v0].nsp" size="2.81 GiB" dateCreated="20191109" dateModified="20191109"/>
@@ -10392,6 +10415,9 @@
       <file name="Vigor [0100E8200DAF4000][v0](nsw2u).nsp" size="4.40 GiB" dateCreated="20211004" dateModified="20210923"/>
       <file name="Vigor [0100E8200DAF4800][v655360](nsw2u).nsp" size="1.56 GiB" dateCreated="20211004" dateModified="20210922"/>
     </folder>
+    <folder name="Viking Colony Builder Valhalla" size="788.32 MiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="Viking Colony Builder Valhalla v1.0.0[0100C400242C4000][v0][APP].nsp" size="788.32 MiB" dateCreated="20251015" dateModified="20250926"/>
+    </folder>
     <folder name="Virche Evermore -ErroR Salvation-" size="6.69 GiB" fileCount="1" dateCreated="20240108" dateModified="20240108">
       <file name="Virche Evermore -ErroR Salvation- [01009CF01BAC4000][v0][US](nsw2u.com).nsp" size="6.69 GiB" dateCreated="20240106" dateModified="20231119"/>
     </folder>
@@ -11014,5 +11040,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2351" totalFiles="6310" totalSize="10129.83 GiB" generatedOn="20251013"/>
+  <summary totalFolders="2359" totalFiles="6320" totalSize="10148.63 GiB" generatedOn="20251015"/>
 </root>
