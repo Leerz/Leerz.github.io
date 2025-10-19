@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="NSP 2021" size="9.91 TiB" fileCount="6320" dateCreated="20210923" dateModified="20251015">
+  <folder name="NSP 2021" size="9.93 TiB" fileCount="6335" dateCreated="20210923" dateModified="20251018">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20250722">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000][v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305"/>
     </folder>
@@ -10,6 +10,10 @@
     <folder name="1-2-Switch" size="1.39 GiB" fileCount="2" dateCreated="20231223" dateModified="20231223">
       <file name="1-2-Switch[01000320000CC000][US][v0].nsp" size="1.38 GiB" dateCreated="20231223" dateModified="20210706"/>
       <file name="1-2-Switch[01000320000CC800][US][v65536].nsp" size="12.18 MiB" dateCreated="20231223" dateModified="20200125"/>
+    </folder>
+    <folder name="100 in 1 Game Collection" size="4.08 GiB" fileCount="2" dateCreated="20251015" dateModified="20251015">
+      <file name="100 in 1 Game Collection v1.0.4[010070B02068A800][262144][UPD].nsp" size="367.45 MiB" dateCreated="20251015" dateModified="20250725"/>
+      <file name="100 in 1 Game Collection [010070B02068A000][v0][US](nsw2u.com).xci" size="3.72 GiB" dateCreated="20251015" dateModified="20250626"/>
     </folder>
     <folder name="12 Labours of Hercules VIII How I met Megara" size="215.43 MiB" fileCount="1" dateCreated="20250524" dateModified="20250524">
       <file name="12 Labours of Hercules VIII꞉ How I met Megara [010020801C82A000][v0].nsp" size="215.43 MiB" dateCreated="20250524" dateModified="20250517"/>
@@ -36,6 +40,9 @@
     </folder>
     <folder name="3D Billiards - Pool and Snooker" size="1.19 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="3D Billiards - Pool &amp; Snooker [010055D00BDD0000][v0].nsp" size="1.19 GiB" dateCreated="20220814" dateModified="20191218"/>
+    </folder>
+    <folder name="40 Sports Games in 1" size="1.67 GiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="40 Sports Games in 1 [0100F68022E74000].xci" size="1.67 GiB" dateCreated="20251015" dateModified="20250904"/>
     </folder>
     <folder name="4x4 Mud - Offroad Car Simulator and Truck" size="4.99 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="4x4 Mud - Offroad Car Simulator &amp; Truck [0100EB901B8A4000][v0].nsp" size="4.99 GiB" dateCreated="20231013" dateModified="20231012"/>
@@ -552,6 +559,9 @@
     </folder>
     <folder name="Arcade Archives GRADIUS" size="67.73 MiB" fileCount="1" dateCreated="20250430" dateModified="20250430">
       <file name="Arcade Archives GRADIUS [0100A070105A6000][v0].nsp" size="67.73 MiB" dateCreated="20240229" dateModified="20200713"/>
+    </folder>
+    <folder name="Arcade Archives HALLEYS COMET" size="32.85 MiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="Arcade Archives HALLEYS COMET[01006F9013B04000][US][v0].nsp" size="32.85 MiB" dateCreated="20251015" dateModified="20210220"/>
     </folder>
     <folder name="Arcade Archives MAGMAX" size="69.59 MiB" fileCount="1" dateCreated="20250430" dateModified="20250430">
       <file name="Arcade Archives MAGMAX [0100F9400982A000][v0].nsp" size="69.59 MiB" dateCreated="20240229" dateModified="20200510"/>
@@ -1658,6 +1668,10 @@
     <folder name="Castlevania Dominus Collection" size="1.11 GiB" fileCount="1" dateCreated="20240829" dateModified="20240829">
       <file name="Castlevania Dominus Collection [0100FA501AF90000].nsp" size="1.11 GiB" dateCreated="20240829" dateModified="20240828"/>
     </folder>
+    <folder name="Cat Cafe Manager" size="632.12 MiB" fileCount="2" dateCreated="20251018" dateModified="20251018">
+      <file name="Cat Cafe Manager [01009BE014CA6000][USA][v0].nsp" size="524.88 MiB" dateCreated="20251018" dateModified="20220413"/>
+      <file name="Cat Cafe Manager [01009BE014CA6800][USA][v327680].nsp" size="107.24 MiB" dateCreated="20251018" dateModified="20230114"/>
+    </folder>
     <folder name="Cat Quest" size="237.06 MiB" fileCount="1" dateCreated="20210923" dateModified="20250716">
       <file name="Cat Quest.nsp" size="237.06 MiB" dateCreated="20190921" dateModified="20180726"/>
     </folder>
@@ -1690,6 +1704,9 @@
     <folder name="Celeste" size="1.53 GiB" fileCount="2" dateCreated="20250402" dateModified="20250402">
       <file name="Celeste [01002B30028F6000][v0](nsw2u).nsp" size="1.10 GiB" dateCreated="20250402" dateModified="20210923"/>
       <file name="Celeste [01002B30028F6800][v589824][Update].nsp" size="443.68 MiB" dateCreated="20250402" dateModified="20230819"/>
+    </folder>
+    <folder name="Chained Climb Together" size="908.05 MiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="Chained Climb Together v1.0.0[01001B2021278000][0][APP].nsp" size="908.05 MiB" dateCreated="20251015" dateModified="20250628"/>
     </folder>
     <folder name="Chained Echoes" size="1.25 GiB" fileCount="2" dateCreated="20221227" dateModified="20221227">
       <file name="Chained Echoes [0100C11012C60000][v0][US](nsw2u.com).nsp" size="711.46 MiB" dateCreated="20221227" dateModified="20221209"/>
@@ -3559,6 +3576,10 @@
     </folder>
     <folder name="forma.8" size="611.92 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="forma.8.nsp" size="611.92 MiB" dateCreated="20190921" dateModified="20180726"/>
+    </folder>
+    <folder name="Formula Legends" size="5.31 GiB" fileCount="2" dateCreated="20251015" dateModified="20251015">
+      <file name="Formula Legends [0100690020FBE000] [v0].nsp" size="4.58 GiB" dateCreated="20251015" dateModified="20250918"/>
+      <file name="Formula Legends [0100690020FBE800][v262144][].nsp" size="749.91 MiB" dateCreated="20251015" dateModified="20251015"/>
     </folder>
     <folder name="FOX n FORESTS" size="281.31 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="FOX n FORESTS.nsp" size="281.31 MiB" dateCreated="20190921" dateModified="20180728"/>
@@ -6156,6 +6177,10 @@
       <file name="Mr DRILLER DrillLand [0100DCA011262000][v0].nsp" size="720.23 MiB" dateCreated="20210924" dateModified="20200625"/>
       <file name="Mr Driller DrillLand [0100DCA011262800][v65536].nsp" size="45.60 MiB" dateCreated="20210924" dateModified="20200806"/>
     </folder>
+    <folder name="Mr Shifty" size="1.49 GiB" fileCount="2" dateCreated="20251015" dateModified="20251015">
+      <file name="Mr Shifty [010031F002B66000][v0] (3.68 GB).nsz" size="739.90 MiB" dateCreated="20251015" dateModified="20251015"/>
+      <file name="Mr Shifty [010031F002B66800][v65536] (0.84 GB).nsz" size="781.59 MiB" dateCreated="20251015" dateModified="20251015"/>
+    </folder>
     <folder name="Multilevel Parking Driver" size="744.79 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Multilevel Parking Driver [0100B74015434000][v0](nsw2u).nsp" size="744.79 MiB" dateCreated="20220527" dateModified="20210822"/>
     </folder>
@@ -7013,6 +7038,9 @@
     <folder name="Paper Mario The Thousand-Year Door" size="5.44 GiB" fileCount="1" dateCreated="20240522" dateModified="20240522">
       <file name="Paper Mario_ The Thousand-Year Door v0 (0100ECD018EBE000)[FW 15.0.0].xci" size="5.44 GiB" dateCreated="20240522" dateModified="20240522"/>
     </folder>
+    <folder name="Paper Trail" size="1.03 GiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="Paper Trail [01006B4017982000][FW 18.0.0].nsp" size="1.03 GiB" dateCreated="20251015" dateModified="20240522"/>
+    </folder>
     <folder name="Paradigm Paradox" size="5.67 GiB" fileCount="1" dateCreated="20240120" dateModified="20240120">
       <file name="Paradigm Paradox [0100DC70174E0000][v0][US](nsw2u.com).nsp" size="5.67 GiB" dateCreated="20240106" dateModified="20221104"/>
     </folder>
@@ -7024,6 +7052,9 @@
     </folder>
     <folder name="Parkasaurus" size="268.82 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Parkasaurus [010068C011E56000][v0][US](nsw2u.xyz).nsp" size="268.82 MiB" dateCreated="20220621" dateModified="20220428"/>
+    </folder>
+    <folder name="Parkour on Rooftops" size="2.38 GiB" fileCount="1" dateCreated="20251015" dateModified="20251015">
+      <file name="Parkour on Rooftops [0100B5B023726000][v0][US](nsw2u.com).nsp" size="2.38 GiB" dateCreated="20251015" dateModified="20250614"/>
     </folder>
     <folder name="Part Time UFO" size="187.95 MiB" fileCount="1" dateCreated="20231227" dateModified="20231227">
       <file name="Part Time UFO[01006B5012B32000][US][v0].nsp" size="187.95 MiB" dateCreated="20201121" dateModified="20201031"/>
@@ -8515,6 +8546,10 @@
     <folder name="Sports Party nsp" size="3.84 GiB" fileCount="2" dateCreated="20230423" dateModified="20230729">
       <file name="Sports Party [0100DE9005170000][v0](nsw2u).nsp" size="2.62 GiB" dateCreated="20230424" dateModified="20210723"/>
       <file name="Sports Party [0100DE9005170800][v327680](nsw2u).nsp" size="1.22 GiB" dateCreated="20230424" dateModified="20210724"/>
+    </folder>
+    <folder name="Spray Paint Simulator" size="1.86 GiB" fileCount="2" dateCreated="20251015" dateModified="20251015">
+      <file name="Spray Paint Simulator v1.0.6[0100CAA0216F2000][0][APP].nsp" size="1.71 GiB" dateCreated="20251015" dateModified="20250725"/>
+      <file name="Spray Paint Simulator v1.0.7[0100CAA0216F2800][65536][UPD].nsp" size="151.11 MiB" dateCreated="20251015" dateModified="20250725"/>
     </folder>
     <folder name="Spy Drops" size="1.63 GiB" fileCount="1" dateCreated="20250816" dateModified="20250816">
       <file name="Spy Drops [0100661020C1A000] [v0].nsp" size="1.63 GiB" dateCreated="20250816" dateModified="20250731"/>
@@ -11040,5 +11075,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714"/>
     </folder>
   </folder>
-  <summary totalFolders="2359" totalFiles="6320" totalSize="10148.63 GiB" generatedOn="20251015"/>
+  <summary totalFolders="2369" totalFiles="6335" totalSize="10167.97 GiB" generatedOn="20251019"/>
 </root>
