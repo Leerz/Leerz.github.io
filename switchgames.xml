@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root>
-  <folder name="NSP 2021" size="9.94 TiB" fileCount="6337" dateCreated="20210923" dateModified="20251022" score="0">
+  <folder name="NSP 2021" size="9.94 TiB" fileCount="6339" dateCreated="20210923" dateModified="20251022" score="0">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20251022" score="15">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000] [v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305" />
     </folder>
@@ -3707,6 +3707,10 @@
     <folder name="Garden Story" size="191.39 MiB" fileCount="2" dateCreated="20230423" dateModified="20230423" score="6">
       <file name="Garden Story [0100B4D012490000][v0](nsw2u).nsp" size="100.04 MiB" dateCreated="20230422" dateModified="20210813" />
       <file name="Garden Story[0100B4D012490800][US][v262144](nsw2u.xyz).nsp" size="91.35 MiB" dateCreated="20230422" dateModified="20211109" />
+    </folder>
+    <folder name="Garfield Kart 2 All You Can Drift" size="1.47 GiB" fileCount="2" dateCreated="20251022" dateModified="20251022" score="0">
+      <file name="Garfield Kart 2 – All You Can Drift v1.0.1[0100DC9020B30800][v65536][UPD].nsz" size="183.90 MiB" dateCreated="20251022" dateModified="20251022" />
+      <file name="Garfield Kart 2 – All You Can Drift [0100DC9020B30000][v0].xcz" size="1.29 GiB" dateCreated="20251022" dateModified="20251022" />
     </folder>
     <folder name="Gas Guzzlers Extreme" size="5.44 GiB" fileCount="2" dateCreated="20211102" dateModified="20211102" score="0">
       <file name="Gas Guzzlers Extreme [0100366013DA8000][v0].nsp" size="5.41 GiB" dateCreated="20211102" dateModified="20211031" />
@@ -11077,5 +11081,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714" />
     </folder>
   </folder>
-  <summary totalFolders="2369" totalFiles="6337" totalSize="10173.52 GiB" generatedOn="20251022" />
+  <summary totalFolders="2370" totalFiles="6339" totalSize="10175.00 GiB" generatedOn="20251022" />
 </root>
