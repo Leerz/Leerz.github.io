@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="PS4_PKG" size="10.73 TiB" fileCount="1783" dateCreated="20241229" dateModified="20250901">
+  <folder name="PS4_PKG" size="10.68 TiB" fileCount="1801" dateCreated="20241229" dateModified="20251025">
     <folder name="7days to die" size="1.58 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP2026-CUSA03455_00-0000000000000000_CUSA03455_1.00_Game.pkg" size="1.58 GiB" dateCreated="20180307" dateModified="20180204"/>
     </folder>
@@ -525,13 +525,17 @@
     <folder name="Creed Rise to Glory" size="3.42 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP2292-CUSA12801_00-CR1RELEASE000001_CUSA12801_1.00_Game.pkg" size="3.42 GiB" dateCreated="20220305" dateModified="20201230"/>
     </folder>
-    <folder name="CULT OF THE LAMB" size="3.26 GiB" fileCount="6" dateCreated="20241217" dateModified="20250829">
+    <folder name="CULT OF THE LAMB" size="3.26 GiB" fileCount="6" dateCreated="20241217" dateModified="20250902">
       <file name="UP3643-CUSA32183_00-CTHULHUWOR000000_CUSA32183__Addon.pkg" size="1.00 MiB" dateCreated="20241217" dateModified="20230809"/>
       <file name="UP3643-CUSA32183_00-CULTISTPAC000000_CUSA32183__Addon.pkg" size="1.00 MiB" dateCreated="20241217" dateModified="20230809"/>
       <file name="UP3643-CUSA32183_00-CULTOFTHELAMB000_CUSA32183_1.00_Game.pkg" size="1021.81 MiB" dateCreated="20241217" dateModified="20241217"/>
       <file name="UP3643-CUSA32183_00-CULTOFTHELAMB000_CUSA32183_1.21_Patch.pkg" size="2.25 GiB" dateCreated="20241217" dateModified="20240313"/>
       <file name="UP3643-CUSA32183_00-RELICSPAC0000000_CUSA32183__Addon.pkg" size="1.00 MiB" dateCreated="20241217" dateModified="20230809"/>
       <file name="UP3643-CUSA32183_00-SINFULPAC0000000_CUSA32183__Addon.pkg" size="1.50 MiB" dateCreated="20241217" dateModified="20240220"/>
+    </folder>
+    <folder name="Cuphead Delicious Last Course" size="5.05 GiB" fileCount="2" dateCreated="20250902" dateModified="20250902">
+      <file name="UP8062-CUSA20499_00-CUPHEAD000000000_CUSA20499_1.00_Game.pkg" size="5.05 GiB" dateCreated="20240712" dateModified="20240712"/>
+      <file name="UP8062-CUSA20499_00-CUPHEAD000000000_CUSA20499_1.05_Patch.pkg" size="7.31 MiB" dateCreated="20240712" dateModified="20240712"/>
     </folder>
     <folder name="Curses and Chaos" size="56.69 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP0438-CUSA04809_00-CURSESNCHAOSVITA_CUSA04809_1.00_Game.pkg" size="56.69 MiB" dateCreated="20180402" dateModified="20180402"/>
@@ -1711,8 +1715,9 @@
       <file name="EP1001-CUSA13619_00-0000000000000001_CUSA13619_1.00_Game.pkg" size="5.20 GiB" dateCreated="20250519" dateModified="20250519"/>
       <file name="EP1001-CUSA13619_00-0000000000000001_CUSA13619_1.20_Patch.pkg" size="2.79 GiB" dateCreated="20250519" dateModified="20250519"/>
     </folder>
-    <folder name="NBA 2k14" size="38.61 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="EP1001-CUSA00104_00-NBA2K14000000000_CUSA00104_1.00_Game.pkg" size="38.61 GiB" dateCreated="20180827" dateModified="20180828"/>
+    <folder name="NBA 2K18" size="48.67 GiB" fileCount="2" dateCreated="20250102" dateModified="20250829">
+      <file name="UP1001-CUSA08500_00-NBA2K18000000000_CUSA08500_1.00_Game.pkg" size="43.34 GiB" dateCreated="20180603" dateModified="20180530"/>
+      <file name="UP1001-CUSA08500_00-NBA2K18000000000_CUSA08500_1.10_Patch.pkg" size="5.33 GiB" dateCreated="20180613" dateModified="20180531"/>
     </folder>
     <folder name="NBA 2k19" size="53.74 GiB" fileCount="2" dateCreated="20250102" dateModified="20250829">
       <file name="UP1001-CUSA12476_00-NBA2K19000000000_CUSA12476_1.00_Game.pkg" size="45.04 GiB" dateCreated="20200727" dateModified="20201225"/>
@@ -1726,18 +1731,9 @@
       <file name="UP1001-CUSA28234_00-NBA2K22000000000_CUSA28234_1.00_Game.pkg" size="45.12 GiB" dateCreated="20221030" dateModified="20220706"/>
       <file name="UP1001-CUSA28234_00-NBA2K22000000000_CUSA28234_1.13_Patch.pkg" size="51.49 GiB" dateCreated="20221030" dateModified="20220707"/>
     </folder>
-    <folder name="NBA 2K24" size="119.42 GiB" fileCount="3" dateCreated="20240419" dateModified="20250829">
-      <file name="EP1001-CUSA42312_00-2K24INTRNTLAUDIO_CUSA42312__Addon.pkg" size="3.67 GiB" dateCreated="20240419" dateModified="20240419"/>
-      <file name="EP1001-CUSA42312_00-NBA2K24000000000_CUSA42312_1.00_Game.pkg" size="45.03 GiB" dateCreated="20240419" dateModified="20240419"/>
-      <file name="EP1001-CUSA42312_00-NBA2K24000000000_CUSA42312_1.05_Patch.pkg" size="70.71 GiB" dateCreated="20240419" dateModified="20240419"/>
-    </folder>
-    <folder name="NBA 2K25" size="124.84 GiB" fileCount="2" dateCreated="20250708" dateModified="20250901">
-      <file name="EP1001-CUSA48139_00-NBA2K25000000000_CUSA48139_1.00_Game.pkg" size="44.18 GiB" dateCreated="20250901" dateModified="20240912"/>
-      <file name="EP1001-CUSA48139_00-NBA2K25000000000_CUSA48139_1.07_Patch.pkg" size="80.66 GiB" dateCreated="20250901" dateModified="20241212"/>
-    </folder>
-    <folder name="NBA2K18" size="48.67 GiB" fileCount="2" dateCreated="20250102" dateModified="20250829">
-      <file name="UP1001-CUSA08500_00-NBA2K18000000000_CUSA08500_1.00_Game.pkg" size="43.34 GiB" dateCreated="20180603" dateModified="20180530"/>
-      <file name="UP1001-CUSA08500_00-NBA2K18000000000_CUSA08500_1.10_Patch.pkg" size="5.33 GiB" dateCreated="20180613" dateModified="20180531"/>
+    <folder name="NBA 2K26" size="119.06 GiB" fileCount="2" dateCreated="20250912" dateModified="20250912">
+      <file name="UP1001-CUSA54085_00-NBA2K26000000000_CUSA54085_1.00_Game.pkg" size="45.13 GiB" dateCreated="20250912" dateModified="20250907"/>
+      <file name="UP1001-CUSA54085_00-NBA2K26000000000_CUSA54085_1.02_Patch.pkg" size="73.93 GiB" dateCreated="20250912" dateModified="20250907"/>
     </folder>
     <folder name="Need For Speed Heat EUR" size="32.05 GiB" fileCount="6" dateCreated="20250108" dateModified="20250829">
       <file name="EP0006-CUSA15090_00-MCLARENF1CAREXP0_CUSA15090__Addon.pkg" size="1.12 MiB" dateCreated="20250108" dateModified="20201014"/>
@@ -1878,6 +1874,10 @@
     </folder>
     <folder name="Pingpong VR" size="156.06 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP1121-CUSA06032_00-0000000000000000_CUSA06032_1.00_Game.pkg" size="156.06 MiB" dateCreated="20180411" dateModified="20180228"/>
+    </folder>
+    <folder name="Plants vs Zombies Replanted" size="2.94 GiB" fileCount="2" dateCreated="20251025" dateModified="20251025">
+      <file name="UP0006-CUSA55613_00-PVZRELOADEDGAME0-A0100-V0100-CyB1K.pkg" size="1.49 GiB" dateCreated="20251025" dateModified="20251025"/>
+      <file name="UP0006-CUSA55613_00-PVZRELOADEDGAME0-A0110-V0100-CyB1K.pkg" size="1.45 GiB" dateCreated="20251025" dateModified="20251025"/>
     </folder>
     <folder name="Playstation VR Worlds" size="8.10 GiB" fileCount="2" dateCreated="20221218" dateModified="20250829">
       <file name="UP9000-CUSA05202_00-EVT1100000000000_CUSA05202_1.00_Game.pkg" size="7.56 GiB" dateCreated="20221031" dateModified="20180206"/>
@@ -2170,8 +2170,8 @@
     <folder name="Shantae Half-Genie Hero" size="965.56 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP2053-CUSA03920_00-SHANTAEHEROEFS01_CUSA03920_1.00_Game.pkg" size="965.56 MiB" dateCreated="20180308" dateModified="20180308"/>
     </folder>
-    <folder name="Shin Megami Tensei V Vengeance" size="14.67 GiB" fileCount="1" dateCreated="20250828" dateModified="20250829">
-      <file name="HP0177-CUSA42502_00-SMTVDXASIA000000_CUSA42502_1.00_Game.pkg" size="14.67 GiB" dateCreated="20250828" dateModified="20250828"/>
+    <folder name="Shin Megami Tensei V Vengeance" size="14.67 GiB" fileCount="1" dateCreated="20250828" dateModified="20250903">
+      <file name="HP0177-CUSA42502_00-SMTVDXASIA000000_CUSA42502_1.01 merged_Game.pkg" size="14.67 GiB" dateCreated="20250902" dateModified="20250902"/>
     </folder>
     <folder name="Shovel Knight" size="153.56 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP8903-CUSA03012_00-SHOVELKNIGHT0001_CUSA03012_1.00_Game.pkg" size="153.56 MiB" dateCreated="20180512" dateModified="20180131"/>
@@ -2593,6 +2593,11 @@
       <file name="EP0082-CUSA33214_00-VEPS4EP000000001_CUSA33214_1.00_Game.pkg" size="9.91 GiB" dateCreated="20221225" dateModified="20221111"/>
       <file name="EP0082-CUSA33214_00-VEPS4EP000000001_CUSA33214_1.03_Patch.pkg" size="10.26 GiB" dateCreated="20221225" dateModified="20221225"/>
     </folder>
+    <folder name="Vampyr" size="21.06 GiB" fileCount="3" dateCreated="20250902" dateModified="20250902">
+      <file name="UP4133-CUSA03293_00-000000VAMPYRGAME_CUSA03293_1.00_Game.pkg" size="13.23 GiB" dateCreated="20250902" dateModified="20230708"/>
+      <file name="UP4133-CUSA03293_00-000000VAMPYRGAME_CUSA03293_1.09_Patch.pkg" size="7.82 GiB" dateCreated="20250902" dateModified="20250902"/>
+      <file name="UP4133-CUSA03293_00-VYRTHUNTHEIRLDLC_CUSA03293__Addon.pkg" size="1.88 MiB" dateCreated="20250902" dateModified="20250902"/>
+    </folder>
     <folder name="Virtua Fighter 5 Ultimate Showdown" size="14.50 GiB" fileCount="4" dateCreated="20220322" dateModified="20250829">
       <file name="UP0177-CUSA27065_00-VFESDLC000000001_CUSA27065__Addon.pkg" size="1.00 MiB" dateCreated="20220322" dateModified="20220103"/>
       <file name="UP0177-CUSA27065_00-VFESDLC000000002_CUSA27065__Addon.pkg" size="1.00 MiB" dateCreated="20220322" dateModified="20220103"/>
@@ -2685,6 +2690,23 @@
       <file name="WWE.2K24.CUSA43272.Season.Pass-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240415"/>
       <file name="WWE.2K24.CUSA43272.Super.Charger-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240415"/>
     </folder>
+    <folder name="WWE 2k25" size="86.00 GiB" fileCount="15" dateCreated="20250911" dateModified="20250912">
+      <file name="EP1001-CUSA48576_00-WWE2K25000000000_CUSA48576_1.00_Game.pkg" size="38.13 GiB" dateCreated="20250911" dateModified="20250317"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25000000000_CUSA48576_1.21_Patch.pkg" size="47.86 GiB" dateCreated="20250911" dateModified="20250724"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25BLOODPACK_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250319"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25DEADMAN00_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250319"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25DLC100000_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250516"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25DLC200000_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250717"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25DLC300000_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250725"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25MANIA4100_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250717"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25MEGABOOST_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250319"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25MYFVALUE1_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250724"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25MYFVALUE2_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250724"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25PREORDER1_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250319"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25ROCKPACK0_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250319"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25SEASONPAS_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250319"/>
+      <file name="EP1001-CUSA48576_00-WWE2K25SUPERCHRG_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250319"/>
+    </folder>
     <folder name="WWE2K20" size="61.26 GiB" fileCount="2" dateCreated="20220322" dateModified="20250829">
       <file name="UP1001-CUSA15666_00-WWE2K20MAINSKU01_CUSA15666_1.00_Game.pkg" size="43.69 GiB" dateCreated="20220321" dateModified="20220322"/>
       <file name="UP1001-CUSA15666_00-WWE2K20MAINSKU01_CUSA15666_1.08_Patch.pkg" size="17.57 GiB" dateCreated="20220321" dateModified="20220322"/>
@@ -2711,5 +2733,5 @@
       <file name="EP4529-CUSA01345_00-ZATRILOGY0000000_CUSA01345_1.00_Game.pkg" size="8.19 GiB" dateCreated="20180306" dateModified="20180306"/>
     </folder>
   </folder>
-  <summary totalFolders="463" totalFiles="1783" totalSize="10983.47 GiB"/>
+  <summary totalFolders="465" totalFiles="1801" totalSize="10934.71 GiB"/>
 </root>
