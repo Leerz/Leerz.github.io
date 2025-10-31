@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="PS4_PKG" size="10.68 TiB" fileCount="1801" dateCreated="20241229" dateModified="20251025">
+  <folder name="PS4_PKG" size="10.75 TiB" fileCount="1826" dateCreated="20241229" dateModified="20251028">
     <folder name="7days to die" size="1.58 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP2026-CUSA03455_00-0000000000000000_CUSA03455_1.00_Game.pkg" size="1.58 GiB" dateCreated="20180307" dateModified="20180204"/>
     </folder>
@@ -603,6 +603,16 @@
     </folder>
     <folder name="Deception 4 Nightmare Princess" size="1.87 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4108-CUSA02822_00-DECEPTIONNP00000_CUSA02822_1.00_Game.pkg" size="1.87 GiB" dateCreated="20180423" dateModified="20180414"/>
+    </folder>
+    <folder name="Demon Slayer Hinokami Chronicles 2" size="20.53 GiB" fileCount="8" dateCreated="20251027" dateModified="20251027">
+      <file name="JP3372-CUSA44357_00-HINOKAMI20000000_CUSA44357_1.00_Game.pkg" size="19.59 GiB" dateCreated="20251027" dateModified="20251027"/>
+      <file name="JP3372-CUSA44357_00-HINOKAMI20000000_CUSA44357_1.05_Patch.pkg" size="954.56 MiB" dateCreated="20251027" dateModified="20251027"/>
+      <file name="JP3372-CUSA44357_00-HINOKAMI2DLC0000_CUSA44357__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20250908"/>
+      <file name="JP3372-CUSA44357_00-HINOKAMI2DLC0001_CUSA44357__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20250908"/>
+      <file name="JP3372-CUSA44357_00-HINOKAMI2DLC0002_CUSA44357__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20250908"/>
+      <file name="JP3372-CUSA44357_00-HINOKAMI2DLC0003_CUSA44357__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20250908"/>
+      <file name="JP3372-CUSA44357_00-HINOKAMI2DLC0004_CUSA44357__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20250908"/>
+      <file name="JP3372-CUSA44357_00-HINOKAMI2TN00001_CUSA44357__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20250908"/>
     </folder>
     <folder name="Demon Slayer The Hinokami Chronicles Kimetsu no Yaiba" size="44.45 GiB" fileCount="2" dateCreated="20220127" dateModified="20250829">
       <file name="UP0177-CUSA27305_00-HINOKAMI00000000_CUSA27305_1.00_Game.pkg" size="21.88 GiB" dateCreated="20220127" dateModified="20220127"/>
@@ -1711,6 +1721,23 @@
     <folder name="NARUTO STORM 4  Road to Boruto Expansion" size="31.81 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP0700-CUSA02854_00-NARUTOUNS4000000_CUSA02854_1.00_Game.pkg" size="31.81 GiB" dateCreated="20180307" dateModified="20180307"/>
     </folder>
+    <folder name="NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS" size="34.10 GiB" fileCount="15" dateCreated="20251027" dateModified="20251027">
+      <file name="EP0700-CUSA32836_00-NARUTOUNSA000000_CUSA32836_1.00_Game.pkg" size="22.71 GiB" dateCreated="20251027" dateModified="20251027"/>
+      <file name="EP0700-CUSA32836_00-NARUTOUNSA000000_CUSA32836_1.50_Patch.pkg" size="11.36 GiB" dateCreated="20251027" dateModified="20251027"/>
+      <file name="EP0700-CUSA32836_00-NUSANBGMANNIMEOP_CUSA32836__Addon.pkg" size="14.44 MiB" dateCreated="20251027" dateModified="20240110"/>
+      <file name="EP0700-CUSA32836_00-NUSANCHABORUTOMM_CUSA32836__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20240925"/>
+      <file name="EP0700-CUSA32836_00-NUSANCHAHAGOROMO_CUSA32836__Addon.pkg" size="1.00 MiB" dateCreated="20251027" dateModified="20240124"/>
+      <file name="EP0700-CUSA32836_00-NUSANCHAISSHIKI0_CUSA32836__Addon.pkg" size="1.00 MiB" dateCreated="20251027" dateModified="20240417"/>
+      <file name="EP0700-CUSA32836_00-NUSANCHAKAWAKIKR_CUSA32836__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20240903"/>
+      <file name="EP0700-CUSA32836_00-NUSANCHAKURENAI0_CUSA32836__Addon.pkg" size="1.56 MiB" dateCreated="20251027" dateModified="20240530"/>
+      <file name="EP0700-CUSA32836_00-NUSANCOS4THNINKA_CUSA32836__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20240110"/>
+      <file name="EP0700-CUSA32836_00-NUSANCOSANNI20TH_CUSA32836__Addon.pkg" size="1.00 MiB" dateCreated="20251027" dateModified="20240110"/>
+      <file name="EP0700-CUSA32836_00-NUSANCOSASICSCOL_CUSA32836__Addon.pkg" size="1.00 MiB" dateCreated="20251027" dateModified="20240124"/>
+      <file name="EP0700-CUSA32836_00-NUSANCOSREALFACE_CUSA32836__Addon.pkg" size="1.50 MiB" dateCreated="20251027" dateModified="20240110"/>
+      <file name="EP0700-CUSA32836_00-NUSANCOSTEEN0000_CUSA32836__Addon.pkg" size="1.00 MiB" dateCreated="20251027" dateModified="20240110"/>
+      <file name="EP0700-CUSA32836_00-NUSANITMACCEORBS_CUSA32836__Addon.pkg" size="1.00 MiB" dateCreated="20251027" dateModified="20240110"/>
+      <file name="EP0700-CUSA32836_00-NUSANPREORDERPACK_CUSA32836__Addon.pkg" size="1.00 MiB" dateCreated="20251027" dateModified="20240925"/>
+    </folder>
     <folder name="NBA 2K Playgrounds 2" size="7.99 GiB" fileCount="2" dateCreated="20250520" dateModified="20250829">
       <file name="EP1001-CUSA13619_00-0000000000000001_CUSA13619_1.00_Game.pkg" size="5.20 GiB" dateCreated="20250519" dateModified="20250519"/>
       <file name="EP1001-CUSA13619_00-0000000000000001_CUSA13619_1.20_Patch.pkg" size="2.79 GiB" dateCreated="20250519" dateModified="20250519"/>
@@ -1816,6 +1843,10 @@
       <file name="UP2113-CUSA00325_00-OUTLAST000000000_CUSA00325_1.03_Patch.pkg" size="258.38 MiB" dateCreated="20241222" dateModified="20220704"/>
       <file name="UP2113-CUSA00325_00-OUTLASTDLC000000_CUSA00325__Addon.pkg" size="2.83 GiB" dateCreated="20241222" dateModified="20220705"/>
     </folder>
+    <folder name="Outlast2" size="19.87 GiB" fileCount="2" dateCreated="20251027" dateModified="20251027">
+      <file name="UP2113-CUSA06623_00-OUTLAST200000000_CUSA06623_1.00_Game.pkg" size="17.40 GiB" dateCreated="20251027" dateModified="20220704"/>
+      <file name="UP2113-CUSA06623_00-OUTLAST200000000_CUSA06623_1.05_Patch.pkg" size="2.47 GiB" dateCreated="20251027" dateModified="20220704"/>
+    </folder>
     <folder name="Overcooked 2" size="9.19 GiB" fileCount="12" dateCreated="20250520" dateModified="20250829">
       <file name="EP4064-CUSA10870_00-OVERCOOKED200000_CUSA10870_1.00_Game.pkg" size="2.20 GiB" dateCreated="20250520" dateModified="20230321"/>
       <file name="EP4064-CUSA10870_00-OVERCOOKED200000_CUSA10870_1.13_Patch.pkg" size="6.98 GiB" dateCreated="20250520" dateModified="20230321"/>
@@ -1875,9 +1906,9 @@
     <folder name="Pingpong VR" size="156.06 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP1121-CUSA06032_00-0000000000000000_CUSA06032_1.00_Game.pkg" size="156.06 MiB" dateCreated="20180411" dateModified="20180228"/>
     </folder>
-    <folder name="Plants vs Zombies Replanted" size="2.94 GiB" fileCount="2" dateCreated="20251025" dateModified="20251025">
-      <file name="UP0006-CUSA55613_00-PVZRELOADEDGAME0-A0100-V0100-CyB1K.pkg" size="1.49 GiB" dateCreated="20251025" dateModified="20251025"/>
-      <file name="UP0006-CUSA55613_00-PVZRELOADEDGAME0-A0110-V0100-CyB1K.pkg" size="1.45 GiB" dateCreated="20251025" dateModified="20251025"/>
+    <folder name="Plants vs Zombies Replanted" size="2.94 GiB" fileCount="2" dateCreated="20251025" dateModified="20251027">
+      <file name="UP0006-CUSA55613_00-PVZRELOADEDGAME0_CUSA55613_1.00_Game.pkg" size="1.49 GiB" dateCreated="20251025" dateModified="20251025"/>
+      <file name="UP0006-CUSA55613_00-PVZRELOADEDGAME0_CUSA55613_1.10_Patch.pkg" size="1.45 GiB" dateCreated="20251025" dateModified="20251025"/>
     </folder>
     <folder name="Playstation VR Worlds" size="8.10 GiB" fileCount="2" dateCreated="20221218" dateModified="20250829">
       <file name="UP9000-CUSA05202_00-EVT1100000000000_CUSA05202_1.00_Game.pkg" size="7.56 GiB" dateCreated="20221031" dateModified="20180206"/>
@@ -2733,5 +2764,5 @@
       <file name="EP4529-CUSA01345_00-ZATRILOGY0000000_CUSA01345_1.00_Game.pkg" size="8.19 GiB" dateCreated="20180306" dateModified="20180306"/>
     </folder>
   </folder>
-  <summary totalFolders="465" totalFiles="1801" totalSize="10934.71 GiB"/>
+  <summary totalFolders="468" totalFiles="1826" totalSize="11009.21 GiB"/>
 </root>
