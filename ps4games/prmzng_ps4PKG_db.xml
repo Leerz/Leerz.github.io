@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <root>
-  <folder name="PS4_PKG" size="10.75 TiB" fileCount="1826" dateCreated="20241229" dateModified="20251028">
+  <folder name="PS4_PKG" size="10.04 TiB" fileCount="1829" dateCreated="20241229" dateModified="20251201">
     <folder name="7days to die" size="1.58 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP2026-CUSA03455_00-0000000000000000_CUSA03455_1.00_Game.pkg" size="1.58 GiB" dateCreated="20180307" dateModified="20180204"/>
     </folder>
@@ -97,7 +97,7 @@
     <folder name="Asdivine Hearts" size="93.19 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP2500-CUSA06218_00-US0AHEARTS000PS4_CUSA06218_1.00_Game.pkg" size="93.19 MiB" dateCreated="20180402" dateModified="20180402"/>
     </folder>
-    <folder name="Assassins Creed 4 Black Flag1" size="17.49 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
+    <folder name="Assassins Creed 4 Black Flag" size="17.49 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP0001-CUSA00009_00-AC4GAMEPS4000001_CUSA00009_1.00_Game.pkg" size="17.49 GiB" dateCreated="20180512" dateModified="20180130"/>
     </folder>
     <folder name="Assassins creed Chronicles" size="10.69 GiB" fileCount="1" dateCreated="20221217" dateModified="20250829">
@@ -121,14 +121,12 @@
       <file name="EP0001-CUSA00605_00-DLCUNDEADKINGS00_CUSA00605__Addon.pkg" size="7.49 GiB" dateCreated="20250108" dateModified="20190210"/>
       <file name="EP0001-CUSA00605_00-DLCWEAPONPACK000_CUSA00605__Addon.pkg" size="1.06 MiB" dateCreated="20250108" dateModified="20190210"/>
     </folder>
-    <folder name="Assassins.Creed Valhalla Ultimate" size="120.09 GiB" fileCount="18" dateCreated="20220303" dateModified="20250829">
+    <folder name="Assassins.Creed Valhalla Ultimate" size="119.90 GiB" fileCount="16" dateCreated="20220303" dateModified="20251102">
       <file name="UP0001-CUSA18522_00-DLCEXPANSION0001_CUSA18522__Addon.pkg" size="9.52 GiB" dateCreated="20221226" dateModified="20221226"/>
       <file name="UP0001-CUSA18522_00-DLCEXPANSION0002_CUSA18522__Addon.pkg" size="7.84 GiB" dateCreated="20221226" dateModified="20221226"/>
       <file name="UP0001-CUSA18522_00-DLCEXPANSION0003_CUSA18522__Addon.pkg" size="12.38 GiB" dateCreated="20221226" dateModified="20221226"/>
       <file name="UP0001-CUSA18522_00-EXPANSIONPASS000_CUSA18522__Addon.pkg" size="1.56 MiB" dateCreated="20221226" dateModified="20220721"/>
       <file name="UP0001-CUSA18522_00-GAME000000000000_CUSA18522_1.00_Game.pkg" size="90.15 GiB" dateCreated="20221226" dateModified="20221226"/>
-      <file name="UP0001-CUSA18522_00-GAME000000000000_CUSA18522_7.20_Patch.pkg" size="26.81 MiB" dateCreated="20221226" dateModified="20221226"/>
-      <file name="UP0001-CUSA18522_00-GAME000000000000_CUSA18522_7.20_Patch_B.pkg" size="158.44 MiB" dateCreated="20221226" dateModified="20221226"/>
       <file name="UP0001-CUSA18522_00-PACKLIMITED00001_CUSA18522__Addon.pkg" size="1.56 MiB" dateCreated="20221226" dateModified="20220721"/>
       <file name="UP0001-CUSA18522_00-STOREPACK0000000_CUSA18522__Addon.pkg" size="1.56 MiB" dateCreated="20221226" dateModified="20220721"/>
       <file name="UP0001-CUSA18522_00-ULCITEM000000001_CUSA18522__Addon.pkg" size="1.12 MiB" dateCreated="20221226" dateModified="20220720"/>
@@ -188,6 +186,19 @@
     <folder name="Battlefield 1" size="66.84 GiB" fileCount="2" dateCreated="20250520" dateModified="20250829">
       <file name="UP0006-CUSA02429_00-BATTLEFIELD01000_CUSA02429_1.00_Game.pkg" size="38.96 GiB" dateCreated="20250520" dateModified="20000101"/>
       <file name="UP0006-CUSA02429_00-BATTLEFIELD01000_CUSA02429_1.27_Patch.pkg" size="27.88 GiB" dateCreated="20250520" dateModified="20000101"/>
+    </folder>
+    <folder name="Battlefield V" size="97.62 GiB" fileCount="11" dateCreated="20251201" dateModified="20251201">
+      <file name="Battlefield V CUSA08724-USA-Game-(5.05+)-PS4.pkg" size="31.52 GiB" dateCreated="20251201" dateModified="20251201"/>
+      <file name="Battlefield V CUSA08724-USA-Update-1.38-(5.05+)-PS4.pkg" size="66.09 GiB" dateCreated="20251201" dateModified="20251201"/>
+      <file name="Battlefield V UP0006-CUSA08724_00-BC012K0000000000-A0000-V0100.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20200906"/>
+      <file name="Battlefield V UP0006-CUSA08724_00-BFVFUNDRPACKBUND-A0000-V0100.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20200906"/>
+      <file name="Battlefield V UP0006-CUSA08724_00-BFVSTARTPACKBUND-A0000-V0100.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20200906"/>
+      <file name="Battlefield V UP0006-CUSA08724_00-C005000000000000-A0000-V0100.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20200906"/>
+      <file name="Battlefield V UP0006-CUSA08724_00-C010500000000000-A0000-V0100.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20200906"/>
+      <file name="Battlefield V UP0006-CUSA08724_00-C022000000000000-A0000-V0100.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20200906"/>
+      <file name="Battlefield V UP0006-CUSA08724_00-C035000000000000-A0000-V0100.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20200906"/>
+      <file name="Battlefield V UP0006-CUSA08724_00-C060000000000000-A0000-V0100.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20200906"/>
+      <file name="Battlefield V UP0006-CUSA08724_00-PREORDRMARKRBUND-A0000-V0100.pkg" size="1.50 MiB" dateCreated="20251201" dateModified="20200906"/>
     </folder>
     <folder name="Beat Saber" size="2.79 GiB" fileCount="128" dateCreated="20221218" dateModified="20250829">
       <file name="UP4882-CUSA12878_00-BEATSABERFULL000_CUSA12878_1.00_Game.pkg" size="242.81 MiB" dateCreated="20221031" dateModified="20220408"/>
@@ -338,26 +349,6 @@
     <folder name="BIOSHOCK Infinite Complete" size="30.10 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP1001-CUSA03986_00-BIOSHOCKCOMPLETE_CUSA03986_1.00_Game.pkg" size="30.10 GiB" dateCreated="20180904" dateModified="20180904"/>
     </folder>
-    <folder name="Black Ops Cold War" size="155.29 GiB" fileCount="18" dateCreated="20250901" dateModified="20250901">
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0001_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210530"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0002_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210520"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0003_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210520"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0004_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0005_CUSA15010__Addon.pkg" size="11.88 GiB" dateCreated="20250901" dateModified="20240629"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0006_CUSA15010__Addon.pkg" size="16.15 GiB" dateCreated="20250901" dateModified="20240629"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0007_CUSA15010__Addon.pkg" size="10.39 GiB" dateCreated="20250901" dateModified="20240629"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0008_CUSA15010__Addon.pkg" size="9.91 GiB" dateCreated="20250901" dateModified="20240629"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0009_CUSA15010__Addon.pkg" size="3.42 GiB" dateCreated="20250901" dateModified="20240629"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0010_CUSA15010__Addon.pkg" size="4.49 GiB" dateCreated="20250901" dateModified="20240629"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0011_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0012_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0013_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0014_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWCONTENT0015_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWDISCONLY001_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
-      <file name="UP0002-CUSA15010_00-CODCWTHEGAME0001_CUSA15010_1.00_Game.pkg" size="12.68 GiB" dateCreated="20250901" dateModified="20250901"/>
-      <file name="UP0002-CUSA15010_00-CODCWTHEGAME0001_CUSA15010_1.41_Patch.pkg" size="86.37 GiB" dateCreated="20250901" dateModified="20250901"/>
-    </folder>
     <folder name="Blackguards 2" size="13.41 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4365-CUSA07275_00-DAEDAKALYBLACKG2_CUSA07275_1.00_Game.pkg" size="13.41 GiB" dateCreated="20180826" dateModified="20180827"/>
     </folder>
@@ -393,10 +384,9 @@
     <folder name="burnout 3 ps2" size="1.96 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP9000-SLXS21050_00-SLXS210500000001_SLXS21050_1.00_Game.pkg" size="1.96 GiB" dateCreated="20180302" dateModified="20180214"/>
     </folder>
-    <folder name="Bus Simulator" size="5.25 GiB" fileCount="3" dateCreated="20230130" dateModified="20250829">
+    <folder name="Bus Simulator" size="5.25 GiB" fileCount="2" dateCreated="20230130" dateModified="20251108">
       <file name="UP2565-CUSA15259_00-BUSSIMXXXXXXXXXX_CUSA15259_1.00_Game.pkg" size="5.11 GiB" dateCreated="20230130" dateModified="20221106"/>
       <file name="UP2565-CUSA15259_00-BUSSIMXXXXXXXXXX_CUSA15259_2.22_Patch.pkg" size="143.50 MiB" dateCreated="20230130" dateModified="20221106"/>
-      <file name="UP2565-CUSA15259_00-BUSSIMXXXXXXXXXX_CUSA15259_2.22_Patch_B.pkg" size="6.31 MiB" dateCreated="20230130" dateModified="20221106"/>
     </folder>
     <folder name="Call Of Duty Black Ops 3" size="106.68 GiB" fileCount="8" dateCreated="20250901" dateModified="20250901">
       <file name="UP0002-CUSA02290_00-BLACKOPS3GAME000_CUSA02290_1.00_Game.pkg" size="40.68 GiB" dateCreated="20250901" dateModified="20250901"/>
@@ -408,31 +398,33 @@
       <file name="UP0002-CUSA02290_00-BLACKOPS3MAPPAK4_CUSA02290__Addon.pkg" size="11.93 GiB" dateCreated="20250901" dateModified="20250901"/>
       <file name="UP0002-CUSA02290_00-CODBO3ZOMBIESHD1_CUSA02290__Addon.pkg" size="13.34 GiB" dateCreated="20250901" dateModified="20250901"/>
     </folder>
-    <folder name="Call Of Duty Black Ops 6" size="276.80 GiB" fileCount="24" dateCreated="20240807" dateModified="20250829">
-      <file name="UP0002-CUSA23827_00-CODBO6CONTENT001_CUSA23827__Addon.pkg" size="10.37 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODBO6CONTENT002_CUSA23827__Addon.pkg" size="14.47 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODBO6CONTENT005_CUSA23827__Addon.pkg" size="11.13 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODBO6STUB000001_CUSA23827__Addon.pkg" size="1.00 MiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW2CONTENT001_CUSA23827__Addon.pkg" size="12.98 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW2CONTENT002_CUSA23827__Addon.pkg" size="14.71 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW2CONTENT003_CUSA23827__Addon.pkg" size="16.90 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW2CONTENT004_CUSA23827__Addon.pkg" size="6.42 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW2CONTENT005_CUSA23827__Addon.pkg" size="7.88 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW2CONTENT006_CUSA23827__Addon.pkg" size="5.61 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW2CONTENT007_CUSA23827__Addon.pkg" size="12.40 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW2STUB000001_CUSA23827__Addon.pkg" size="1.50 MiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW3CONTENT001_CUSA23827__Addon.pkg" size="15.34 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW3CONTENT002_CUSA23827__Addon.pkg" size="10.72 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW3CONTENT003_CUSA23827__Addon.pkg" size="15.14 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW3CONTENT004_CUSA23827__Addon.pkg" size="21.93 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW3CONTENT005_CUSA23827__Addon.pkg" size="9.91 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW3CONTENT006_CUSA23827__Addon.pkg" size="11.06 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODMW3STUB000001_CUSA23827__Addon.pkg" size="1.00 MiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-CODWZ23DLCPACK01_CUSA23827__Addon.pkg" size="4.96 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-COREGAME00000001_CUSA23827_1.00_Game.pkg" size="25.31 MiB" dateCreated="20240807" dateModified="20240807"/>
-      <file name="UP0002-CUSA23827_00-COREGAME00000001_CUSA23827_1.49_Patch.pkg" size="23.40 GiB" dateCreated="20240807" dateModified="20240807"/>
-      <file name="UP0002-CUSA23827_00-COREGAME00000001_CUSA23827_1.58_Patch.pkg" size="51.42 GiB" dateCreated="20241210" dateModified="20241210"/>
-      <file name="UP0002-CUSA23827_00-COREGAME00000001_CUSA23827_1.58_Patch_b.pkg" size="25.31 MiB" dateCreated="20241210" dateModified="20241210"/>
+    <folder name="Call Of Duty Black Ops 6" size="87.42 GiB" fileCount="6" dateCreated="20240807" dateModified="20251112">
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.BO6.Campaign.Pack.1-CyB1K.pkg" size="10.37 GiB" dateCreated="20251111" dateModified="20251112"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.BO6.Campaign.Pack.2-CyB1K.pkg" size="14.47 GiB" dateCreated="20251111" dateModified="20251112"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.BO6.Content.License-CyB1K.pkg" size="1.00 MiB" dateCreated="20251111" dateModified="20251111"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.BO6.Multiplayer.Pack-CyB1K.pkg" size="11.13 GiB" dateCreated="20251111" dateModified="20251112"/>
+      <file name="UP0002-CUSA23827_00-A0100-V0100-TheWorldismine-CyB1K-[DLPSGAME.COM].pkg" size="25.31 MiB" dateCreated="20251111" dateModified="20251111"/>
+      <file name="UP0002-CUSA23827_00-A0158-V0100-TheWorldismine-CyB1K-[DLPSGAME.COM].pkg" size="51.42 GiB" dateCreated="20251111" dateModified="20251112"/>
+    </folder>
+    <folder name="Call of Duty Black Ops Cold War" size="155.29 GiB" fileCount="18" dateCreated="20250901" dateModified="20250901">
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0001_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210530"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0002_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210520"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0003_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210520"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0004_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0005_CUSA15010__Addon.pkg" size="11.88 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0006_CUSA15010__Addon.pkg" size="16.15 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0007_CUSA15010__Addon.pkg" size="10.39 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0008_CUSA15010__Addon.pkg" size="9.91 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0009_CUSA15010__Addon.pkg" size="3.42 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0010_CUSA15010__Addon.pkg" size="4.49 GiB" dateCreated="20250901" dateModified="20240629"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0011_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0012_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0013_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0014_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWCONTENT0015_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWDISCONLY001_CUSA15010__Addon.pkg" size="1.00 MiB" dateCreated="20250901" dateModified="20210525"/>
+      <file name="UP0002-CUSA15010_00-CODCWTHEGAME0001_CUSA15010_1.00_Game.pkg" size="12.68 GiB" dateCreated="20250901" dateModified="20250901"/>
+      <file name="UP0002-CUSA15010_00-CODCWTHEGAME0001_CUSA15010_1.41_Patch.pkg" size="86.37 GiB" dateCreated="20250901" dateModified="20250901"/>
     </folder>
     <folder name="Call of Duty Ghosts" size="51.90 GiB" fileCount="6" dateCreated="20250901" dateModified="20250901">
       <file name="UP0002-CUSA00018_00-CALLDUTYGHOSDLC3_CUSA00018__Addon.pkg" size="4.91 GiB" dateCreated="20250901" dateModified="20250901"/>
@@ -442,46 +434,33 @@
       <file name="UP0002-CUSA00018_00-CALLDUTYGHOSTSDL_CUSA00018_1.00_Game.pkg" size="28.78 GiB" dateCreated="20250901" dateModified="20250901"/>
       <file name="UP0002-CUSA00018_00-CALLDUTYGHOSTSDL_CUSA00018_1.21_Patch.pkg" size="2.43 GiB" dateCreated="20250901" dateModified="20250901"/>
     </folder>
-    <folder name="Call of Duty Modern Warfare" size="185.62 GiB" fileCount="8" dateCreated="20241222" dateModified="20250829">
-      <file name="UP0002-CUSA08829_00-CODMWGMRE22CP001_CUSA08829__Addon.pkg" size="12.22 GiB" dateCreated="20241222" dateModified="20241222"/>
-      <file name="UP0002-CUSA08829_00-CODMWGMRE22MP001_CUSA08829__Addon.pkg" size="18.91 GiB" dateCreated="20241222" dateModified="20241222"/>
-      <file name="UP0002-CUSA08829_00-CODMWGMRE22MPCP1_CUSA08829__Addon.pkg" size="20.96 GiB" dateCreated="20241222" dateModified="20241222"/>
-      <file name="UP0002-CUSA08829_00-CODMWGMRE22SP001_CUSA08829__Addon.pkg" size="9.51 GiB" dateCreated="20241222" dateModified="20241222"/>
-      <file name="UP0002-CUSA08829_00-CODMWGMRE22SPCP1_CUSA08829__Addon.pkg" size="21.68 GiB" dateCreated="20241222" dateModified="20241222"/>
-      <file name="UP0002-CUSA08829_00-CODMWMODEMP00001_CUSA08829__Addon.pkg" size="5.76 GiB" dateCreated="20241222" dateModified="20241222"/>
-      <file name="UP0002-CUSA08829_00-CODMWTHEGAME0001_CUSA08829_1.00_Game.pkg" size="8.72 GiB" dateCreated="20241222" dateModified="20241222"/>
-      <file name="UP0002-CUSA08829_00-CODMWTHEGAME0001_CUSA08829_1.63_Patch.pkg" size="87.86 GiB" dateCreated="20241222" dateModified="20241222"/>
-    </folder>
+    <folder name="Call of Duty Modern Warfare" size="0.00 B" fileCount="0" dateCreated="20241222" dateModified="20251201"/>
     <folder name="Call of Duty Modern Warfare 2 Campaign Remastered" size="44.74 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP0002-CUSA07904_00-CODMW2RTHEGAME01_CUSA07904_1.00_Game.pkg" size="44.74 GiB" dateCreated="20220618" dateModified="20220618"/>
     </folder>
-    <folder name="Call of Duty Modern Warfare 2 remake" size="97.54 GiB" fileCount="13" dateCreated="20240119" dateModified="20250829">
-      <file name="EP0002-CUSA34029_00-CODMW2CONTENT001_CUSA34029__Addon.pkg" size="5.14 GiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2CONTENT002_CUSA34029__Addon.pkg" size="18.61 GiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2CONTENT003_CUSA34029__Addon.pkg" size="17.80 GiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2CONTENT004_CUSA34029__Addon.pkg" size="3.83 GiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2CONTENT005_CUSA34029__Addon.pkg" size="2.77 GiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2STUB000001_CUSA34029__Addon.pkg" size="1.50 MiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2STUB000002_CUSA34029__Addon.pkg" size="1.50 MiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2STUB000003_CUSA34029__Addon.pkg" size="1.50 MiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2STUB000004_CUSA34029__Addon.pkg" size="1.50 MiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2STUB000005_CUSA34029__Addon.pkg" size="1.50 MiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-CODMW2STUB000006_CUSA34029__Addon.pkg" size="1.50 MiB" dateCreated="20240119" dateModified="20240119"/>
-      <file name="EP0002-CUSA34029_00-COREGAME00000001_CUSA34029_1.00_Game.pkg" size="25.31 MiB" dateCreated="20221212" dateModified="20221209"/>
-      <file name="EP0002-CUSA34029_00-COREGAME00000001_CUSA34029_1.08_Patch.pkg" size="49.36 GiB" dateCreated="20240119" dateModified="20240119"/>
+    <folder name="Call of Duty Modern Warfare 2 remake" size="114.93 GiB" fileCount="10" dateCreated="20240119" dateModified="20251201">
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWII.Campaign.Pack.1-CyB1K.pkg" size="14.71 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWII.Campaign.Pack.2-CyB1K.pkg" size="16.90 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWII.Content.License-CyB1K.pkg" size="1.50 MiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWII.CoOp-CyB1K.pkg" size="6.42 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWII.Multiplayer-CyB1K.pkg" size="12.98 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWII.Shared.Content.Pack.1-CyB1K.pkg" size="5.61 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWII.Shared.Content.Pack.2-CyB1K.pkg" size="12.40 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWII.Warzone-CyB1K.pkg" size="7.88 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="UP0002-CUSA23827_00-A0100-V0100-TheWorldismine-CyB1K-[DLPSGAME.COM].pkg" size="25.31 MiB" dateCreated="20251201" dateModified="20251111"/>
+      <file name="UP0002-CUSA23827_00-A0158-V0100-TheWorldismine-CyB1K-[DLPSGAME.COM].pkg" size="38.01 GiB" dateCreated="20251201" dateModified="20251201"/>
     </folder>
-    <folder name="Call of Duty Modern Warfare iii" size="79.29 GiB" fileCount="11" dateCreated="20240331" dateModified="20250829">
-      <file name="UP0002-CUSA23827_00-CODMW3CONTENT001_CUSA23827__Addon.pkg" size="9.80 GiB" dateCreated="20240331" dateModified="20240331"/>
-      <file name="UP0002-CUSA23827_00-CODMW3CONTENT002_CUSA23827__Addon.pkg" size="9.28 GiB" dateCreated="20240331" dateModified="20240331"/>
-      <file name="UP0002-CUSA23827_00-CODMW3CONTENT004_CUSA23827__Addon.pkg" size="11.74 GiB" dateCreated="20240331" dateModified="20240331"/>
-      <file name="UP0002-CUSA23827_00-CODMW3PS4DISC000_CUSA23827__Addon.pkg" size="1.00 MiB" dateCreated="20240331" dateModified="20231120"/>
-      <file name="UP0002-CUSA23827_00-CODMW3STUB000001_CUSA23827__Addon.pkg" size="1.00 MiB" dateCreated="20240331" dateModified="20231120"/>
-      <file name="UP0002-CUSA23827_00-CODMW3STUB000002_CUSA23827__Addon.pkg" size="1.00 MiB" dateCreated="20240331" dateModified="20231120"/>
-      <file name="UP0002-CUSA23827_00-CODMW3STUB000003_CUSA23827__Addon.pkg" size="1.00 MiB" dateCreated="20240331" dateModified="20231120"/>
-      <file name="UP0002-CUSA23827_00-CODMW3STUB000004_CUSA23827__Addon.pkg" size="1.00 MiB" dateCreated="20240331" dateModified="20231120"/>
-      <file name="UP0002-CUSA23827_00-CODMW3STUB000005_CUSA23827__Addon.pkg" size="1.00 MiB" dateCreated="20240331" dateModified="20231120"/>
-      <file name="UP0002-CUSA23827_00-COREGAME00000001_CUSA23827_1.00_Game.pkg" size="25.31 MiB" dateCreated="20240331" dateModified="20240331"/>
-      <file name="UP0002-CUSA23827_00-COREGAME00000001_CUSA23827_1.33_Patch.pkg" size="48.43 GiB" dateCreated="20240331" dateModified="20240331"/>
+    <folder name="Call of Duty Modern Warfare iii" size="127.09 GiB" fileCount="10" dateCreated="20240331" dateModified="20251201">
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWIII.Campaign.Pack.1-CyB1K.pkg" size="15.34 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWIII.Campaign.Pack.2-CyB1K.pkg" size="10.72 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWIII.Content.License-CyB1K.pkg" size="1.00 MiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWIII.Multiplayer-CyB1K.pkg" size="21.93 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWIII.Shared.Content.Pack.1-CyB1K.pkg" size="15.14 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWIII.Shared.Content.Pack.2-CyB1K.pkg" size="9.91 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWIII.Shared.Content.Pack.3-CyB1K.pkg" size="11.06 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="Call.of.Duty.Black.Ops.6.CUSA23827.MWIII.Warzone-CyB1K.pkg" size="4.96 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="UP0002-CUSA23827_00-A0100-V0100-TheWorldismine-CyB1K-[DLPSGAME.COM].pkg" size="25.31 MiB" dateCreated="20251111" dateModified="20251111"/>
+      <file name="UP0002-CUSA23827_00-A0158-V0100-TheWorldismine-CyB1K-[DLPSGAME.COM].pkg" size="38.01 GiB" dateCreated="20251201" dateModified="20251201"/>
     </folder>
     <folder name="Call of Duty Modern Warfare Remastered" size="44.00 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP0002-CUSA03522_00-CODMWRTHEGAME001_CUSA03522_1.00_Game.pkg" size="44.00 GiB" dateCreated="20200729" dateModified="20180217"/>
@@ -689,32 +668,46 @@
     <folder name="Divinity Original Sin" size="7.66 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP4133-CUSA02737_00-DIVINITYORIGINAL_CUSA02737_1.00_Game.pkg" size="7.66 GiB" dateCreated="20180318" dateModified="20180310"/>
     </folder>
-    <folder name="DJ Max Respect" size="86.22 GiB" fileCount="22" dateCreated="20241011" dateModified="20250829">
-      <file name="UP1685-CUSA11658_00-DJMAXRESPECTNWRS_CUSA11658_1.00_Game.pkg" size="24.49 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-DJMAXRESPECTNWRS_CUSA11658_1.36_Patch.pkg" size="30.50 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000001_CUSA11658__Addon.pkg" size="1.00 MiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000002_CUSA11658__Addon.pkg" size="1.00 MiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000003_CUSA11658__Addon.pkg" size="1.00 MiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000004_CUSA11658__Addon.pkg" size="1.00 MiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000005_CUSA11658__Addon.pkg" size="1.00 MiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000006_CUSA11658__Addon.pkg" size="4.81 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000007_CUSA11658__Addon.pkg" size="4.05 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000008_CUSA11658__Addon.pkg" size="761.94 MiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000009_CUSA11658__Addon.pkg" size="3.06 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000010_CUSA11658__Addon.pkg" size="6.48 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000011_CUSA11658__Addon.pkg" size="2.00 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACK0000012_CUSA11658__Addon.pkg" size="2.71 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACKCHU0001_CUSA11658__Addon.pkg" size="1.22 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACKCY00001_CUSA11658__Addon.pkg" size="1.80 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACKDM00001_CUSA11658__Addon.pkg" size="1.29 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACKESTI001_CUSA11658__Addon.pkg" size="1.04 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACKGC00001_CUSA11658__Addon.pkg" size="2.02 GiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACKGF00001_CUSA11658__Addon.pkg" size="1.00 MiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-MUSICPACKGG00001_CUSA11658__Addon.pkg" size="1.00 MiB" dateCreated="20241011" dateModified="20240521"/>
-      <file name="UP1685-CUSA11658_00-UNLOCKPACK000001_CUSA11658__Addon.pkg" size="1.00 MiB" dateCreated="20241011" dateModified="20240521"/>
-    </folder>
     <folder name="Doom" size="43.83 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP1003-CUSA02092_00-DOOMEUROPEROWSKU_CUSA02092_1.00_Game.pkg" size="43.83 GiB" dateCreated="20180904" dateModified="20180904"/>
+    </folder>
+    <folder name="Dragon Ball FighterZ" size="6.79 GiB" fileCount="36" dateCreated="20251112" dateModified="20251112">
+      <file name="Dragon.Ball.FighterZ.4.Extra.Stamps.DLC.PS4-DUPLEX.pkg" size="1.06 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="DRAGON.BALL.FIGHTERZ.Android.21.Lab.Coat.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20220328"/>
+      <file name="Dragon.Ball.FighterZ.Android.21.Unlock.DLC.PS4-DUPLEX.pkg" size="1.06 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Anime.Music.Pack.DLC.PS4-DUPLEX.pkg" size="1.06 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Anime.Music.Pack2.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Bardock.DLC.PS4-DUPLEX.pkg" size="1.06 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Broly.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.10.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.11.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.12.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.13.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.14.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.15.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.16.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.17.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.18.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.19.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.5.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.6.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.7.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.8.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Character.Pack.9.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Commentator.Voice.Pack.2.DLC.PS4-DUPLEX.pkg" size="1.06 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Commentator.Voice.Pack.3.DLC.PS4-DUPLEX.pkg" size="1.06 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Commentator.Voice.Pack.4.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Commentator.Voice.Pack.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Goku.Super.Saiyan.Exclusive.Lobby.Avatar.Color.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Hidden.DLC.1.PS4-DUPLEX.pkg" size="1.06 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Hidden.DLC.2.PS4-DUPLEX.pkg" size="1.06 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.SSGSS.Goku.and.SSGSS.Vegeta.Unlock.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.SSGSS.Lobby.Avatars.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Stamps.Girls.Pack.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Vegito.SSGSS.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="Dragon.Ball.FighterZ.Zamasu.Fused.DLC.PS4-DUPLEX.pkg" size="1.00 MiB" dateCreated="20251112" dateModified="20200825"/>
+      <file name="DRAGON.BALL.FighterZ_CUSA08992_v1.00_[5.05]_OPOISSO893.pkg" size="3.87 GiB" dateCreated="20251112" dateModified="20240906"/>
+      <file name="DRAGON.BALL.FighterZ_CUSA08992_v1.38_[5.05]_OPOISSO893.pkg" size="2.89 GiB" dateCreated="20251112" dateModified="20240906"/>
     </folder>
     <folder name="Dragon Ball Z Kakarot" size="46.44 GiB" fileCount="2" dateCreated="20220322" dateModified="20250829">
       <file name="EP0700-CUSA14835_00-NEWDBZRPG0000000_CUSA14835_1.00_Game.pkg" size="30.64 GiB" dateCreated="20220321" dateModified="20220322"/>
@@ -856,19 +849,13 @@
     <folder name="Fifa 18" size="40.11 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP0006-CUSA07994_00-FIFAFOOTBALL2018_CUSA07994_1.00_Game.pkg" size="40.11 GiB" dateCreated="20180609" dateModified="20180529"/>
     </folder>
-    <folder name="Fifa 2020" size="42.11 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="EP0006-CUSA15545_00-FIFAFOOTBALL2020_CUSA15545_1.00_Game.pkg" size="42.11 GiB" dateCreated="20200727" dateModified="20200723"/>
-    </folder>
-    <folder name="Fifa 2022" size="37.09 GiB" fileCount="2" dateCreated="20220305" dateModified="20250829">
-      <file name="EP0006-CUSA27107_00-FIFAFOOTBALL2022_CUSA27107_1.00_Game.pkg" size="34.54 GiB" dateCreated="20220305" dateModified="20211219"/>
-      <file name="EP0006-CUSA27107_00-FIFAFOOTBALL2022_CUSA27107_1.15_Patch.pkg" size="2.55 GiB" dateCreated="20220305" dateModified="20211219"/>
-    </folder>
     <folder name="Fifa 2023" size="43.09 GiB" fileCount="2" dateCreated="20230130" dateModified="20250829">
       <file name="UP0006-CUSA31877_00-FIFAFOOTBALL2023_CUSA31877_1.00_Game.pkg" size="37.17 GiB" dateCreated="20230130" dateModified="20220930"/>
       <file name="UP0006-CUSA31877_00-FIFAFOOTBALL2023_CUSA31877_1.09_Patch.pkg" size="5.92 GiB" dateCreated="20230130" dateModified="20230126"/>
     </folder>
-    <folder name="Final fantasy 12" size="37.77 GiB" fileCount="1" dateCreated="20250102" dateModified="20250102">
-      <file name="Final fantasy 12.pkg" size="37.77 GiB" dateCreated="20200906" dateModified="20200906"/>
+    <folder name="Final fantasy 12" size="37.94 GiB" fileCount="2" dateCreated="20251122" dateModified="20251122">
+      <file name="UP0082-CUSA05532_00-FFXIIGAMEPS400NA-A0100-V0100.pkg" size="37.77 GiB" dateCreated="20251122" dateModified="20251122"/>
+      <file name="UP0082-CUSA05532_00-FFXIIGAMEPS400NA-A0108-V0100.pkg" size="177.19 MiB" dateCreated="20251122" dateModified="20251122"/>
     </folder>
     <folder name="Final Fantasy 15 XV A Kings Tale" size="571.06 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP0082-CUSA05946_00-AKINGSTALEFFXV00_CUSA05946_1.00_Game.pkg" size="571.06 MiB" dateCreated="20180603" dateModified="20180320"/>
@@ -1009,18 +996,7 @@
     <folder name="GUILTY GEAR Xrd Rev.2" size="9.08 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4293-CUSA08260_00-GGXRDREV2EU00100_CUSA08260_1.00_Game.pkg" size="9.08 GiB" dateCreated="20180409" dateModified="20180312"/>
     </folder>
-    <folder name="Guitar Hero II PS2ToPS4" size="3.20 GiB" fileCount="8" dateCreated="20250520" dateModified="20250829">
-      <folder name="16c24ba4_SLUS21447_SLUS-21447" size="16.76 MiB" fileCount="7" dateCreated="20241101" dateModified="20241101">
-        <folder name="sce_sys" size="262.76 KiB" fileCount="5" dateCreated="20241101" dateModified="20241101">
-          <file name="keystone" size="96.00 B" dateCreated="20241101" dateModified="20241101"/>
-          <file name="param.sfo" size="2.66 KiB" dateCreated="20241101" dateModified="20241101"/>
-          <file name="sce_icon0png0" size="114.00 KiB" dateCreated="20241101" dateModified="20241101"/>
-          <file name="sce_icon0png1" size="114.00 KiB" dateCreated="20241101" dateModified="20241101"/>
-          <file name="sce_paramsfo1" size="32.00 KiB" dateCreated="20241101" dateModified="20241101"/>
-        </folder>
-        <file name="VMC0.card" size="8.25 MiB" dateCreated="20241101" dateModified="20241101"/>
-        <file name="VMC1.card" size="8.25 MiB" dateCreated="20241101" dateModified="20241101"/>
-      </folder>
+    <folder name="Guitar Hero II PS2ToPS4" size="3.19 GiB" fileCount="1" dateCreated="20250520" dateModified="20251201">
       <file name="UP9000-SLUS21447_00-SLUS214470000001_SLUS21447_1.00_Game.pkg" size="3.19 GiB" dateCreated="20241101" dateModified="20241028"/>
     </folder>
     <folder name="Gun Gal Double" size="2.48 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
@@ -1150,6 +1126,11 @@
     <folder name="Indivisible" size="110.94 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4040-CUSA04054_00-INDIVISIBLEPROTO_CUSA04054_1.00_Game.pkg" size="110.94 MiB" dateCreated="20180412" dateModified="20180412"/>
     </folder>
+    <folder name="Infamous First Light" size="11.06 GiB" fileCount="3" dateCreated="20251107" dateModified="20251107">
+      <file name="UP9000-CUSA00575_00-FIRSTLIGHTSHIP00_CUSA00575_1.00_Game.pkg" size="8.68 GiB" dateCreated="20251107" dateModified="20251107"/>
+      <file name="UP9000-CUSA00575_00-FIRSTLIGHTSHIP00_CUSA00575_1.04_Patch.pkg" size="2.38 GiB" dateCreated="20251107" dateModified="20251107"/>
+      <file name="UP9000-CUSA00575_00-UNLOCKCOSTUME000_CUSA00575__Addon.pkg" size="1.50 MiB" dateCreated="20251107" dateModified="20181011"/>
+    </folder>
     <folder name="InFAMOUS Second Son" size="23.80 GiB" fileCount="9" dateCreated="20220303" dateModified="20250829">
       <file name="UP9000-CUSA00223_00-SECONDSONSHIP000_CUSA00223_1.00_Game.pkg" size="20.18 GiB" dateCreated="20220303" dateModified="20180218"/>
       <file name="UP9000-CUSA00223_00-SECONDSONSHIP000_CUSA00223_1.07_Patch.pkg" size="3.62 GiB" dateCreated="20220303" dateModified="20210224"/>
@@ -1185,9 +1166,30 @@
     <folder name="Joes Diner" size="668.06 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP8935-CUSA03774_00-JOESDINERPS40000_CUSA03774_1.00_Game.pkg" size="668.06 MiB" dateCreated="20180403" dateModified="20180403"/>
     </folder>
-    <folder name="JUMP FORCE" size="20.41 GiB" fileCount="2" dateCreated="20220127" dateModified="20250829">
+    <folder name="JUMP FORCE" size="23.23 GiB" fileCount="23" dateCreated="20220127" dateModified="20251112">
+      <file name="CUSA11638_Jump_Force_13_Manga_T-Shirts_Pack-Droby25.pkg" size="1.00 MiB" dateCreated="20251028" dateModified="20250404"/>
+      <file name="CUSA11638_Jump_Force_3 Manga_T-Shirts_Pack-Droby25.pkg" size="1.00 MiB" dateCreated="20251028" dateModified="20250404"/>
+      <file name="CUSA11638_Jump_Force_All_Might-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Biscuit_Krueger-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Game_Logo_Avatar_T-Shirt-Droby25.pkg" size="1.00 MiB" dateCreated="20251028" dateModified="20250404"/>
+      <file name="CUSA11638_Jump_Force_Giorno_Giovanna-Droby25.pkg" size="1.00 MiB" dateCreated="20251028" dateModified="20250404"/>
+      <file name="CUSA11638_Jump_Force_Grimmjow_Jaegerjaquez-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Hiei-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_JUMP_Starter_Pack-Droby25.pkg" size="1.00 MiB" dateCreated="20251028" dateModified="20250404"/>
+      <file name="CUSA11638_Jump_Force_Katsuki_Bakugo-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Madara_Uchiha.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Majin_Buu-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Meruem-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Pirate_logo_Avatar_T-Shirt-Droby25.pkg" size="1.00 MiB" dateCreated="20251028" dateModified="20250404"/>
+      <file name="CUSA11638_Jump_Force_PreOrder_Bonus-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Seto_Kaiba-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Shonen_Jump_Logo_Avatar_T-Shirt-Droby25.pkg" size="1.00 MiB" dateCreated="20251028" dateModified="20250404"/>
+      <file name="CUSA11638_Jump_Force_Shoto_Todoroki-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Toshiro_Hitsugaya-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Trafalgar_Law-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
+      <file name="CUSA11638_Jump_Force_Yoruichi_Shihoin-Arczi.pkg" size="1.94 MiB" dateCreated="20251028" dateModified="20210309"/>
       <file name="EP0700-CUSA11638_00-JUMP50THANNIV000_CUSA11638_1.00_Game.pkg" size="13.36 GiB" dateCreated="20220127" dateModified="20220127"/>
-      <file name="EP0700-CUSA11638_00-JUMP50THANNIV000_CUSA11638_1.15_Patch.pkg" size="7.04 GiB" dateCreated="20220127" dateModified="20220127"/>
+      <file name="JUMP.FORCE_CUSA11638_v3.03_[5.05]_OPOISSO893.pkg" size="9.84 GiB" dateCreated="20251028" dateModified="20231012"/>
     </folder>
     <folder name="just cause 3" size="37.97 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP0082-CUSA02747_00-JUSTCAUSE3EU0000_CUSA02747_1.00_Game.pkg" size="37.97 GiB" dateCreated="20180410" dateModified="20180131"/>
@@ -1199,9 +1201,6 @@
       <file name="EP0001-CUSA08367_00-JD2018PS4SIEE000_CUSA08367_1.00_Game.pkg" size="20.81 GiB" dateCreated="20180611" dateModified="20180607"/>
       <file name="EP0001-CUSA15669_00-JD2020PS4SIEE000_CUSA15669_1.00_Game.pkg" size="20.09 GiB" dateCreated="20200727" dateModified="20200725"/>
       <file name="UP0001-CUSA04707_00-JD2017PS4SCEA000_CUSA04707_1.00_Game.pkg" size="19.15 GiB" dateCreated="20180827" dateModified="20180827"/>
-    </folder>
-    <folder name="Just Dance 2020" size="20.09 GiB" fileCount="1" dateCreated="20241011" dateModified="20250829">
-      <file name="EP0001-CUSA15669_00-JD2020PS4SIEE000_CUSA15669_1.00_Game.pkg" size="20.09 GiB" dateCreated="20241010" dateModified="20241010"/>
     </folder>
     <folder name="Just Dance 2021" size="19.18 GiB" fileCount="2" dateCreated="20241011" dateModified="20250829">
       <file name="EP0001-CUSA23976_00-JD2021PS4SIEE000_CUSA23976_1.00_Game.pkg" size="18.25 GiB" dateCreated="20241010" dateModified="20241010"/>
@@ -1261,10 +1260,6 @@
     <folder name="LEGO Marvels Avengers" size="12.30 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP1018-CUSA02122_00-LEGOMARVELAVENGE_CUSA02122_1.00_Game.pkg" size="12.30 GiB" dateCreated="20180308" dateModified="20180227"/>
     </folder>
-    <folder name="Lets Sing 10" size="5.93 GiB" fileCount="2" dateCreated="20221118" dateModified="20250829">
-      <file name="EP3617-CUSA08894_00-VGKMLETSSING2018_CUSA08894_1.00_Game.pkg" size="5.44 GiB" dateCreated="20180827" dateModified="20180827"/>
-      <file name="EP3617-CUSA08894_00-VGKMLETSSING2018_CUSA08894_1.04_Patch.pkg" size="508.50 MiB" dateCreated="20180827" dateModified="20180827"/>
-    </folder>
     <folder name="Life is Strange" size="11.04 GiB" fileCount="1" dateCreated="20221226" dateModified="20250829">
       <file name="EP0082-CUSA03279_00-LIFEISSTRANGE001_CUSA03279_1.00_Game.pkg" size="11.04 GiB" dateCreated="20221226" dateModified="20180218"/>
     </folder>
@@ -1289,11 +1284,20 @@
     <folder name="Little Nightmares" size="2.38 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP0700-CUSA05952_00-LITTLENIGHTMARES_CUSA05952_1.00_Game.pkg" size="2.38 GiB" dateCreated="20180512" dateModified="20180301"/>
     </folder>
-    <folder name="Little Nightmares II" size="7.14 GiB" fileCount="4" dateCreated="20241222" dateModified="20250829">
+    <folder name="Little Nightmares II" size="7.14 GiB" fileCount="4" dateCreated="20241222" dateModified="20251201">
       <file name="EP0700-CUSA12779_00-LITTLENIGHTS2000_CUSA12779_1.00_Game.pkg" size="3.60 GiB" dateCreated="20241222" dateModified="20210319"/>
       <file name="EP0700-CUSA12779_00-LITTLENIGHTS2000_CUSA12779_1.05_Patch.pkg" size="3.54 GiB" dateCreated="20241222" dateModified="20220401"/>
       <file name="EP0700-CUSA12779_00-LITTLENIGHTS2001_CUSA12779__Addon.pkg" size="1.00 MiB" dateCreated="20241222" dateModified="20200825"/>
       <file name="EP0700-CUSA12779_00-LITTLENIGHTS2002_CUSA12779__Addon.pkg" size="1.06 MiB" dateCreated="20241222" dateModified="20200825"/>
+    </folder>
+    <folder name="Little Nightmares III" size="20.80 GiB" fileCount="7" dateCreated="20251201" dateModified="20251201">
+      <file name="EP0700-CUSA42879_00-LITTLENIGHTS3000-A0100-V0100-TheWorldismine-CyB1K.pkg" size="11.34 GiB" dateCreated="20251130" dateModified="20251130"/>
+      <file name="EP0700-CUSA42879_00-LITTLENIGHTS3000-A0102-V0100-TheWorldismine-CyB1K.pkg" size="9.45 GiB" dateCreated="20251201" dateModified="20251201"/>
+      <file name="Little.Nightmares.III.CUSA42879.Dark.Six.Costumes.Set-xmrallx-CyB1K.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20251009"/>
+      <file name="Little.Nightmares.III.CUSA42879.Ferryman.Costumes.Set-xmrallx-CyB1K.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20251009"/>
+      <file name="Little.Nightmares.III.CUSA42879.Klonoa.Costumes.Set-xmrallx-CyB1K.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20251009"/>
+      <file name="Little.Nightmares.III.CUSA42879.Nomes.Costumes.Set-xmrallx-CyB1K.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20251009"/>
+      <file name="Little.Nightmares.III.CUSA42879.Residents.Costumes.Pack-xmrallx-CyB1K.pkg" size="1.00 MiB" dateCreated="20251201" dateModified="20251009"/>
     </folder>
     <folder name="Locks Quest" size="327.88 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4389-CUSA07305_00-LOCKSQUESTEU0001_CUSA07305_1.00_Game.pkg" size="327.88 MiB" dateCreated="20180411" dateModified="20180411"/>
@@ -1315,6 +1319,9 @@
     </folder>
     <folder name="Maldita Castilla EX" size="108.12 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="HP2005-CUSA07773_00-0000000000000004_CUSA07773_1.00_Game.pkg" size="108.12 MiB" dateCreated="20180402" dateModified="20180402"/>
+    </folder>
+    <folder name="mario sonic mania CUSA99999" size="203.81 MiB" fileCount="1" dateCreated="20980101" dateModified="20980101">
+      <file name="CUSA99999_base.pkg" size="203.81 MiB" dateCreated="20980101" dateModified="20980101"/>
     </folder>
     <folder name="Mark McMorris Infinite Air 1" size="1.65 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP1877-CUSA04760_00-INFINITEAIR00000_CUSA04760_1.00_Game.pkg" size="1.65 GiB" dateCreated="20180411" dateModified="20180411"/>
@@ -1361,6 +1368,10 @@
     <folder name="Mass Effect Legendary Edition" size="79.20 GiB" fileCount="2" dateCreated="20250108" dateModified="20250829">
       <file name="UP0006-CUSA19500_00-METR000000000000_CUSA19500_1.00_Game.pkg" size="63.28 GiB" dateCreated="20250108" dateModified="20250108"/>
       <file name="UP0006-CUSA19500_00-METR000000000000_CUSA19500_1.03_Patch.pkg" size="15.91 GiB" dateCreated="20250108" dateModified="20250108"/>
+    </folder>
+    <folder name="Mega Man 11" size="1.83 GiB" fileCount="2" dateCreated="20251112" dateModified="20251112">
+      <file name="Mega Man 11 [CUSA10784][BASE].pkg" size="1.82 GiB" dateCreated="20251112" dateModified="20251112"/>
+      <file name="Mega Man 11 [CUSA10784][DLC 01] - Wily Numbers - Instrumental Stage Tracks.pkg" size="10.50 MiB" dateCreated="20251112" dateModified="20251112"/>
     </folder>
     <folder name="megaman legacy collection 2" size="3.96 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP0102-CUSA08268_00-RCC2000000000001_CUSA08268_1.00_Game.pkg" size="3.96 GiB" dateCreated="20180602" dateModified="20180527"/>
@@ -1742,18 +1753,6 @@
       <file name="EP1001-CUSA13619_00-0000000000000001_CUSA13619_1.00_Game.pkg" size="5.20 GiB" dateCreated="20250519" dateModified="20250519"/>
       <file name="EP1001-CUSA13619_00-0000000000000001_CUSA13619_1.20_Patch.pkg" size="2.79 GiB" dateCreated="20250519" dateModified="20250519"/>
     </folder>
-    <folder name="NBA 2K18" size="48.67 GiB" fileCount="2" dateCreated="20250102" dateModified="20250829">
-      <file name="UP1001-CUSA08500_00-NBA2K18000000000_CUSA08500_1.00_Game.pkg" size="43.34 GiB" dateCreated="20180603" dateModified="20180530"/>
-      <file name="UP1001-CUSA08500_00-NBA2K18000000000_CUSA08500_1.10_Patch.pkg" size="5.33 GiB" dateCreated="20180613" dateModified="20180531"/>
-    </folder>
-    <folder name="NBA 2k19" size="53.74 GiB" fileCount="2" dateCreated="20250102" dateModified="20250829">
-      <file name="UP1001-CUSA12476_00-NBA2K19000000000_CUSA12476_1.00_Game.pkg" size="45.04 GiB" dateCreated="20200727" dateModified="20201225"/>
-      <file name="UP1001-CUSA12476_00-NBA2K19000000000_CUSA12476_1.10_Patch.pkg" size="8.70 GiB" dateCreated="20200727" dateModified="20200725"/>
-    </folder>
-    <folder name="NBA 2K20" size="69.36 GiB" fileCount="2" dateCreated="20250102" dateModified="20250829">
-      <file name="UP1001-CUSA16310_00-NBA2K20000000000_CUSA16310_1.00_Game.pkg" size="45.08 GiB" dateCreated="20200727" dateModified="20201224"/>
-      <file name="UP1001-CUSA16310_00-NBA2K20000000000_CUSA16310_1.06_Patch.pkg" size="24.29 GiB" dateCreated="20200727" dateModified="20201224"/>
-    </folder>
     <folder name="NBA 2k22" size="96.61 GiB" fileCount="2" dateCreated="20221218" dateModified="20250829">
       <file name="UP1001-CUSA28234_00-NBA2K22000000000_CUSA28234_1.00_Game.pkg" size="45.12 GiB" dateCreated="20221030" dateModified="20220706"/>
       <file name="UP1001-CUSA28234_00-NBA2K22000000000_CUSA28234_1.13_Patch.pkg" size="51.49 GiB" dateCreated="20221030" dateModified="20220707"/>
@@ -1928,9 +1927,6 @@
       <file name="UP0700-CUSA20100_00-PROJECTCARS3DLC5_CUSA20100__Addon.pkg" size="1.06 MiB" dateCreated="20230130" dateModified="20221021"/>
       <file name="UP0700-CUSA20100_00-PROJECTCARS3DLC6_CUSA20100__Addon.pkg" size="1.06 MiB" dateCreated="20230130" dateModified="20221021"/>
     </folder>
-    <folder name="Pure Chess" size="396.75 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="EP4337-CUSA00216_00-UPURECHESS000001_CUSA00216_1.00_Game.pkg" size="396.75 MiB" dateCreated="20180308" dateModified="20180308"/>
-    </folder>
     <folder name="Rad Rodgers" size="4.00 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4389-CUSA08954_00-RADRODGERSEU0001_CUSA08954_1.00_Game.pkg" size="4.00 GiB" dateCreated="20180605" dateModified="20180610"/>
     </folder>
@@ -2003,6 +1999,9 @@
       <file name="EP0102-CUSA33388_00-RE4RMAINGAME0000_CUSA33388_1.00_Game.pkg" size="24.36 GiB" dateCreated="20230324" dateModified="20230324"/>
       <file name="EP0102-CUSA33388_00-RE4RMAINGAME0000_CUSA33388_1.02_Patch.pkg" size="3.20 GiB" dateCreated="20230324" dateModified="20230324"/>
     </folder>
+    <folder name="Resident Evil 4 Remaster" size="8.36 GiB" fileCount="1" dateCreated="20251112" dateModified="20251112">
+      <file name="CUSA04885_RESIDENT_EVIL_4_USA_ESP_V0101-[DLPSGAME.COM].pkg" size="8.36 GiB" dateCreated="20251112" dateModified="20251112"/>
+    </folder>
     <folder name="Resident Evil 5  eur" size="15.39 GiB" fileCount="1" dateCreated="20240428" dateModified="20250829">
       <file name="UP0102-CUSA04437_00-RE5HDPS400000000_CUSA04437_1.00_Game.pkg" size="15.39 GiB" dateCreated="20250102" dateModified="20180215"/>
     </folder>
@@ -2064,9 +2063,6 @@
     </folder>
     <folder name="Rugby 2018" size="3.08 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4008-CUSA07761_00-EKORUGBY18SCEE00_CUSA07761_1.00_Game.pkg" size="3.08 GiB" dateCreated="20180611" dateModified="20180607"/>
-    </folder>
-    <folder name="Rugby wolrd cup 2015" size="1.60 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="EP4008-CUSA02187_00-RUGBY15DISCDIGIT_CUSA02187_1.00_Game.pkg" size="1.60 GiB" dateCreated="20180411" dateModified="20180329"/>
     </folder>
     <folder name="Sackboy Big Adventure" size="33.10 GiB" fileCount="60" dateCreated="20241217" dateModified="20250829">
       <file name="UP9000-CUSA18886_00-ELIZABETHBOY0001_CUSA18886__Addon.pkg" size="1.00 MiB" dateCreated="20241217" dateModified="20240917"/>
@@ -2139,6 +2135,9 @@
     </folder>
     <folder name="Samurai Warriors Spirit of Sanada" size="20.95 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4108-CUSA07931_00-RIVERGAME0000000_CUSA07931_1.00_Game.pkg" size="20.95 GiB" dateCreated="20180315" dateModified="20180302"/>
+    </folder>
+    <folder name="Sayonara Wild Hearts" size="679.62 MiB" fileCount="1" dateCreated="20251129" dateModified="20251129">
+      <file name="Sayonara Wild Hearts.pkg" size="679.62 MiB" dateCreated="20251129" dateModified="20200825"/>
     </folder>
     <folder name="Scarlet Nexus" size="24.35 GiB" fileCount="21" dateCreated="20250828" dateModified="20250829">
       <file name="EP0700-CUSA25132_00-SCRLTNXS00000000_CUSA25132_1.00_Game.pkg" size="16.08 GiB" dateCreated="20250828" dateModified="20250622"/>
@@ -2370,6 +2369,10 @@
       <file name="EP0082-CUSA31396_00-DFCSTD000000004E_CUSA31396_1.00_Game.pkg" size="20.71 GiB" dateCreated="20250828" dateModified="20230808"/>
       <file name="EP0082-CUSA31396_00-DFCSTD000000004E_CUSA31396_1.02_Patch.pkg" size="21.22 GiB" dateCreated="20250828" dateModified="20230808"/>
     </folder>
+    <folder name="The Disney Afternoon Collection" size="811.12 MiB" fileCount="2" dateCreated="20980101" dateModified="20980101">
+      <file name="CUSA06851_base.pkg" size="469.25 MiB" dateCreated="20980101" dateModified="20980101"/>
+      <file name="CUSA06851_patch.pkg" size="341.88 MiB" dateCreated="20980101" dateModified="20980101"/>
+    </folder>
     <folder name="The Evil Within 2" size="27.60 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="UP1003-CUSA06166_00-PRJGDN0000000000_CUSA06166_1.00_Game.pkg" size="27.60 GiB" dateCreated="20180601" dateModified="20180528"/>
     </folder>
@@ -2393,9 +2396,19 @@
       <file name="EP9000-CUSA10249_00-THELASTOFUSPART2_CUSA10249_1.00_Game.pkg" size="86.56 GiB" dateCreated="20220121" dateModified="20210315"/>
       <file name="EP9000-CUSA10249_00-THELASTOFUSPART2_CUSA10249_1.07_Patch.pkg" size="4.55 GiB" dateCreated="20220120" dateModified="20220120"/>
     </folder>
-    <folder name="The Last of Us Remastered" size="44.28 GiB" fileCount="2" dateCreated="20220127" dateModified="20250829">
-      <file name="EP9000-CUSA00556_00-THELASTOFUS00000_CUSA00556_1.00_Game.pkg" size="43.93 GiB" dateCreated="20220121" dateModified="20220121"/>
-      <file name="EP9000-CUSA00556_00-THELASTOFUS00000_CUSA00556_1.11_Patch.pkg" size="352.06 MiB" dateCreated="20220120" dateModified="20220120"/>
+    <folder name="The Last of Us Remastered" size="41.23 GiB" fileCount="10" dateCreated="20251122" dateModified="20251122">
+      <folder name="devmenu" size="354.06 MiB" fileCount="1" dateCreated="20251122" dateModified="20251122">
+        <file name="TLUSR_00552-1.11 Update [DEV MENU]-[DLPSGAME.COM].pkg" size="354.06 MiB" dateCreated="20251122" dateModified="20251122"/>
+      </folder>
+      <file name="(CUSA00552) - DLC - The Last of Us Remastered - Early Brawler Survival Skill.pkg" size="1.00 MiB" dateCreated="20251122" dateModified="20241022"/>
+      <file name="(CUSA00552) - DLC - The Last of Us Remastered - Early Hat Access.pkg" size="1.00 MiB" dateCreated="20251122" dateModified="20241022"/>
+      <file name="(CUSA00552) - DLC - The Last of Us Remastered - Extra Supply.pkg" size="1.00 MiB" dateCreated="20251122" dateModified="20241022"/>
+      <file name="(CUSA00552) - DLC - The Last of Us Remastered - Loadout Points.pkg" size="1.00 MiB" dateCreated="20251122" dateModified="20241022"/>
+      <file name="(CUSA00552) - DLC - The Last of Us Remastered - Single Player Free Upgrades.pkg" size="1.00 MiB" dateCreated="20251122" dateModified="20241022"/>
+      <file name="(CUSA00552) - DLC - The Last of Us Remastered - Single Player Preorder Ellie Skin.pkg" size="1.00 MiB" dateCreated="20251122" dateModified="20241022"/>
+      <file name="(CUSA00552) - DLC - The Last of Us Remastered - Single Player Preorder Joel Skin.pkg" size="1.00 MiB" dateCreated="20251122" dateModified="20241022"/>
+      <file name="TLUSR_00552-1.11 Update-[DLPSGAME.COM].pkg" size="354.06 MiB" dateCreated="20251122" dateModified="20251122"/>
+      <file name="TLUSR_00552-[DLPSGAME.COM].pkg" size="40.53 GiB" dateCreated="20251122" dateModified="20251122"/>
     </folder>
     <folder name="The Last Stand Aftermath" size="7.85 GiB" fileCount="2" dateCreated="20250828" dateModified="20250829">
       <file name="UP2775-CUSA29191_00-4983179234517254_CUSA29191_1.00_Game.pkg" size="3.91 GiB" dateCreated="20250828" dateModified="20200825"/>
@@ -2702,25 +2715,6 @@
       <file name="EP6665-CUSA27790_00-WRC10SIEE0000000_CUSA27790_1.00_Game.pkg" size="24.13 GiB" dateCreated="20230130" dateModified="20230130"/>
       <file name="EP6665-CUSA27790_00-WRC10SIEE0000000_CUSA27790_1.06_Patch.pkg" size="11.75 GiB" dateCreated="20230130" dateModified="20220829"/>
     </folder>
-    <folder name="WRC 6" size="16.16 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="EP4008-CUSA05277_00-WRC6000000000000_CUSA05277_1.00_Game.pkg" size="16.16 GiB" dateCreated="20180410" dateModified="20180213"/>
-    </folder>
-    <folder name="WWE 2k19" size="46.82 GiB" fileCount="2" dateCreated="20250102" dateModified="20250829">
-      <file name="EP1001-CUSA12320_00-WWE2K19000000000_CUSA12320_1.00_Game.pkg" size="40.92 GiB" dateCreated="20200729" dateModified="20200721"/>
-      <file name="EP1001-CUSA12320_00-WWE2K19000000000_CUSA12320_1.04_Patch.pkg" size="5.90 GiB" dateCreated="20200729" dateModified="20200720"/>
-    </folder>
-    <folder name="WWE 2k24" size="73.00 GiB" fileCount="10" dateCreated="20240901" dateModified="20250829">
-      <file name="EP1001-CUSA43272_00-000000000WWE2K24_CUSA43272_1.00_Game.pkg" size="44.01 GiB" dateCreated="20240901" dateModified="20240901"/>
-      <file name="EP1001-CUSA43272_00-000000000WWE2K24_CUSA43272_1.12_Patch.pkg" size="28.99 GiB" dateCreated="20240901" dateModified="20240901"/>
-      <file name="WWE.2K24.CUSA43272.Deluxe.Edition.Pack-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240416"/>
-      <file name="WWE.2K24.CUSA43272.ECW.Punk.Pack-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240514"/>
-      <file name="WWE.2K24.CUSA43272.Forty.Years.of.WrestleMania.Pack-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240415"/>
-      <file name="WWE.2K24.CUSA43272.MyRISE.Mega.Boost-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240415"/>
-      <file name="WWE.2K24.CUSA43272.Nightmare.Family.Pack-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240415"/>
-      <file name="WWE.2K24.CUSA43272.Post.Malone.and.Friends.Pack-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240716"/>
-      <file name="WWE.2K24.CUSA43272.Season.Pass-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240415"/>
-      <file name="WWE.2K24.CUSA43272.Super.Charger-CyB1K.pkg" size="128.00 KiB" dateCreated="20250102" dateModified="20240415"/>
-    </folder>
     <folder name="WWE 2k25" size="86.00 GiB" fileCount="15" dateCreated="20250911" dateModified="20250912">
       <file name="EP1001-CUSA48576_00-WWE2K25000000000_CUSA48576_1.00_Game.pkg" size="38.13 GiB" dateCreated="20250911" dateModified="20250317"/>
       <file name="EP1001-CUSA48576_00-WWE2K25000000000_CUSA48576_1.21_Patch.pkg" size="47.86 GiB" dateCreated="20250911" dateModified="20250724"/>
@@ -2738,10 +2732,6 @@
       <file name="EP1001-CUSA48576_00-WWE2K25SEASONPAS_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250319"/>
       <file name="EP1001-CUSA48576_00-WWE2K25SUPERCHRG_CUSA48576__Addon.pkg" size="128.00 KiB" dateCreated="20250911" dateModified="20250319"/>
     </folder>
-    <folder name="WWE2K20" size="61.26 GiB" fileCount="2" dateCreated="20220322" dateModified="20250829">
-      <file name="UP1001-CUSA15666_00-WWE2K20MAINSKU01_CUSA15666_1.00_Game.pkg" size="43.69 GiB" dateCreated="20220321" dateModified="20220322"/>
-      <file name="UP1001-CUSA15666_00-WWE2K20MAINSKU01_CUSA15666_1.08_Patch.pkg" size="17.57 GiB" dateCreated="20220321" dateModified="20220322"/>
-    </folder>
     <folder name="XCOM 2" size="18.93 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP1001-CUSA04530_00-XCOM200000000000_CUSA04530_1.00_Game.pkg" size="18.93 GiB" dateCreated="20200819" dateModified="20200819"/>
     </folder>
@@ -2751,8 +2741,8 @@
     <folder name="Yooka Laylee" size="2.70 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4064-CUSA05721_00-YOOKALAYLEE00000_CUSA05721_1.00_Game.pkg" size="2.70 GiB" dateCreated="20180512" dateModified="20180306"/>
     </folder>
-    <folder name="Yu Gi Oh Duels" size="1.86 GiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
-      <file name="EP0101-CUSA01618_00-YGOLEGACYOFDUELS_CUSA01618_1.00_Game.pkg" size="1.86 GiB" dateCreated="20180309" dateModified="20180309"/>
+    <folder name="Yu Gi Oh Duels" size="913.62 MiB" fileCount="1" dateCreated="20250102" dateModified="20251129">
+      <file name="EP0101-CUSA01618_00-YGOLEGACYOFDUELS-A0100-V0101.pkg" size="913.62 MiB" dateCreated="20251129" dateModified="20251129"/>
     </folder>
     <folder name="Zen Pinball 2" size="346.44 MiB" fileCount="1" dateCreated="20250102" dateModified="20250829">
       <file name="EP4042-CUSA00186_00-ZP2PS40000000001_CUSA00186_1.00_Game.pkg" size="346.44 MiB" dateCreated="20180309" dateModified="20180309"/>
@@ -2764,5 +2754,5 @@
       <file name="EP4529-CUSA01345_00-ZATRILOGY0000000_CUSA01345_1.00_Game.pkg" size="8.19 GiB" dateCreated="20180306" dateModified="20180306"/>
     </folder>
   </folder>
-  <summary totalFolders="468" totalFiles="1826" totalSize="11009.21 GiB"/>
+  <summary totalFolders="462" totalFiles="1829" totalSize="10283.86 GiB"/>
 </root>
