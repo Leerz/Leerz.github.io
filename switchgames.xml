@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root>
-  <folder name="NSP 2021" size="10.07 TiB" fileCount="6384" dateCreated="20210923" dateModified="20251126" score="0">
+  <folder name="NSP 2021" size="10.10 TiB" fileCount="6390" dateCreated="20210923" dateModified="20251204" score="0">
     <folder name="1 Anagrams Sudokus Bundle" size="207.28 MiB" fileCount="1" dateCreated="20231227" dateModified="20251022" score="15">
       <file name="1 Anagrams Sudokus Bundle [01007360179AE000] [v0].nsp" size="207.28 MiB" dateCreated="20230430" dateModified="20220305" />
     </folder>
@@ -5469,6 +5469,10 @@
       <file name="MARSUPILAMI - HOOBADVENTURE [010074F014628000][v0](nsw2u.xyz).nsp" size="1.81 GiB" dateCreated="20241122" dateModified="20211117" />
       <file name="MARSUPILAMI - HOOBADVENTURE [010074F014628800][v262144][US](nsw2u.com).nsp" size="2.52 GiB" dateCreated="20241122" dateModified="20240208" />
     </folder>
+    <folder name="Marvel Cosmic Invasion [NSZ]" size="596.62 MiB" fileCount="2" dateCreated="20251204" dateModified="20251204" score="0">
+      <file name="Marvel Cosmic Invasion [010059D020C26000][v0] (0.62 GB).nsz" size="540.40 MiB" dateCreated="20251204" dateModified="20251204" />
+      <file name="Marvel Cosmic Invasion [010059D020C26800][v131072] (0.11 GB).nsz" size="56.22 MiB" dateCreated="20251204" dateModified="20251204" />
+    </folder>
     <folder name="MARVEL ULTIMATE ALLIANCE 3 The Black Order" size="17.84 GiB" fileCount="1" dateCreated="20210924" dateModified="20211021" score="95">
       <file name="Marvel Ultimate alliance 3 The Black Order +[V4.0.1+Dlc].xci" size="17.84 GiB" dateCreated="20211020" dateModified="20200424" />
     </folder>
@@ -5717,6 +5721,10 @@
     </folder>
     <folder name="Metroid Dread" size="4.13 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227" score="88">
       <file name="Metroid Dread [010093801237C000][v0](nsw2u.xyz).nsp" size="4.13 GiB" dateCreated="20211009" dateModified="20211008" />
+    </folder>
+    <folder name="Metroid Prime 4 Beyond [NSZ]" size="21.84 GiB" fileCount="2" dateCreated="20251204" dateModified="20251204" score="0">
+      <file name="Metroid Prime 4 Beyond [010019A01E2F2000][v0] (25.45 GB).nsz" size="21.27 GiB" dateCreated="20251204" dateModified="20251204" />
+      <file name="Metroid Prime 4 Beyond [010019A01E2F2800][v131072] (0.91 GB).nsz" size="582.57 MiB" dateCreated="20251204" dateModified="20251204" />
     </folder>
     <folder name="Metroid Prime REMASTERED" size="6.76 GiB" fileCount="1" dateCreated="20231227" dateModified="20231227" score="76">
       <file name="Metroid Prime REMASTERED [010012101468C000][v0][US](nsw2u.com).nsp" size="6.76 GiB" dateCreated="20230220" dateModified="20230209" />
@@ -6839,6 +6847,10 @@
     <folder name="Octopath Traveler" size="3.10 GiB" fileCount="2" dateCreated="20210920" dateModified="20210920" score="53">
       <file name="Octopath Traveler [010057D006492000][v0].nsp" size="2.95 GiB" dateCreated="20210920" dateModified="20190722" />
       <file name="Octopath Traveler[010057D006492800][US][v262144].nsp" size="161.78 MiB" dateCreated="20210920" dateModified="20201121" />
+    </folder>
+    <folder name="OCTOPATH TRAVELER 0" size="3.71 GiB" fileCount="2" dateCreated="20251204" dateModified="20251204" score="53">
+      <file name="OCTOPATH TRAVELER 0 [01005270232F2000].xci" size="3.52 GiB" dateCreated="20251204" dateModified="20251203" />
+      <file name="OCTOPATH TRAVELER 0 [01005270232F2800][v131072][1.0.2].nsp" size="193.51 MiB" dateCreated="20251204" dateModified="20251204" />
     </folder>
     <folder name="OCTOPATH TRAVELER II" size="5.72 GiB" fileCount="3" dateCreated="20231114" dateModified="20231114" score="77">
       <file name="OCTOPATH TRAVELER II [0100A3501946E000][v0][US](nsw2u.com).nsp" size="5.23 GiB" dateCreated="20231114" dateModified="20230312" />
@@ -11162,5 +11174,5 @@
       <file name="Zumba Burn It Up v1.1.0 [Switch-xci.com].xci" size="6.68 GiB" dateCreated="20220714" dateModified="20220714" />
     </folder>
   </folder>
-  <summary totalFolders="2388" totalFiles="6384" totalSize="10311.20 GiB" generatedOn="20251204" />
+  <summary totalFolders="2391" totalFiles="6390" totalSize="10337.34 GiB" generatedOn="20251204" />
 </root>
