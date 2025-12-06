@@ -20,7 +20,7 @@ const CONFIG = {
         { value: 'ndsi', label: 'dsi' },
         { value: 'ndsixl', label: 'dsixl' }
       ],
-      default: 'lite',
+      default: 'ndslite',
       filenameToken: true
     },
     {
