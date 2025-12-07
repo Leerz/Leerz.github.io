@@ -76,7 +76,7 @@ const CONFIG = {
     const emu = consoleVal === 'oled' ? 64 : 32;
     const buffa = Math.floor(emu / 3);
     const totalReserved = emu + android + linux + jvfile + buffa;
-    const extra = Math.floor(emu / 2);
+    const extra = Math.floor(emu / 6);
     return (sdVal - totalReserved) + extra;
   }
 };
