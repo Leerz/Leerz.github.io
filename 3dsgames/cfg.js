@@ -44,7 +44,7 @@ const CONFIG = {
   
   calculateStorage: function(values) {
     const consoleVal = values.console || '3DSREG';
-    const sdVal = Number(values.hdd || 64);
+    const sdVal = Number(values.SD || 64);
     const buffa = Math.floor(sdVal - (sdVal *.15) );
     const totalReserved = sdVal - buffa;
     return (sdVal - totalReserved);
