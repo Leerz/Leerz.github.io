@@ -25,6 +25,21 @@
             background: #fff;
         }
 
+        /* Floating brand label */
+        .brand-label {
+            position: fixed;
+            top: 12px;
+            right: 12px;
+            background: rgba(230, 0, 18, 0.9);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 600;
+            z-index: 1000;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+        }
+
         /* Floating menu button - always shows current page title */
         .fab {
             position: fixed;
@@ -514,6 +529,9 @@
     </style>
 </head>
 <body>
+    <!-- Brand label -->
+    <div class="brand-label">PremazingPH</div>
+
     <!-- Main content area - full screen -->
     <div class="content-wrapper">
         <div id="content-area">
