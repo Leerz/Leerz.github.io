@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>PremazingPH - Switch Guides</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* Flower/Leaf Menu - Maximum content space */
+
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            min-height: 100vh;
+            min-height: 100dvh;
+        }
+
+        /* Content takes full screen */
+        .content-wrapper {
+            min-height: 100vh;
+            min-height: 100dvh;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+            background: #fff;
+        }
+
+        /* Floating menu button - always shows current page title */
+        .fab {
+            position: fixed;
+            bottom: 16px;
+            right: 12px;
+            left: 12px;
+            height: 72px;
+            background: #e60012;
+            border-radius: 36px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 0 28px;
+            cursor: pointer;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+            z-index: 1100;
+            transition: all 0.4s ease;
+            touch-action: manipulation;
+            border: none;
+            overflow: hidden;
+        }
+
+        /* Semi-transparent mode after idle - shrink to circle */
+        .fab.glass-mode {
+            left: auto;
+            width: 72px;
+            padding: 0;
+            justify-content: center;
+            gap: 0;
+            background: rgba(230, 0, 18, 0.25);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+        }
+
+        .fab:active {
+            transform: scale(0.98);
+        }
+
+        /* When any menu is open */
+        .fab.open,
+        .fab.submenu-mode {
+            background: #333;
+        }
+
+        .fab.open .fab-icon,
+        .fab.submenu-mode .fab-icon {
+            transform: rotate(45deg);
+        }
+
+        .fab-icon {
+            width: 32px;
+            height: 32px;
+            min-width: 32px;
+            flex-shrink: 0;
+            position: relative;
+            transition: transform 0.3s;
+        }
+
+        .fab-icon::before,
+        .fab-icon::after {
+            content: '';
+            position: absolute;
+            background: white;
+            border-radius: 2px;
+            transition: background 0.4s;
+        }
+
+        .fab.glass-mode .fab-icon::before,
+        .fab.glass-mode .fab-icon::after {
+            background: rgba(255, 255, 255, 0.6);
+        }
+
+        .fab-icon::before {
+            width: 32px;
+            height: 5px;
+            top: 13.5px;
+            left: 0;
+        }
+
+        .fab-icon::after {
+            width: 5px;
+            height: 32px;
+            top: 0;
+            left: 13.5px;
+        }
+
+        /* Title container - two lines */
+        .fab-title-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            flex: 1;
+            overflow: hidden;
+            opacity: 1;
+            transition: opacity 0.5s;
+        }
+
+        .fab-topic {
+            color: rgba(255, 255, 255, 0.75);
+            font-size: 13px;
+            font-weight: 500;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            line-height: 1.2;
+        }
+
+        .fab-title {
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            line-height: 1.3;
+        }
+
+        /* Hide titles in glass mode */
+        .fab.glass-mode .fab-title-container {
+            opacity: 0;
+            width: 0;
+            flex: 0;
+        }
+
+        /* Overlay when menu open */
+        .overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.5);
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.3s, visibility 0.3s;
+            z-index: 900;
+        }
+
+        .overlay.visible {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        /* Flower petals container */
+        .petals {
+            position: fixed;
+            bottom: 104px;
+            right: 12px;
+            z-index: 950;
+            display: flex;
+            flex-direction: column-reverse;
+            align-items: flex-end;
+            gap: 16px;
+            pointer-events: none;
+        }
+
+        /* Individual petal (topic button) */
+        .petal {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            pointer-events: auto;
+            opacity: 0;
+            transform: translateY(20px) scale(0.8);
+            transition: opacity 0.25s, transform 0.25s;
+        }
+
+        .petals.open .petal {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+        }
+
+        /* Stagger animation */
+        .petal:nth-child(1) { transition-delay: 0.05s; }
+        .petal:nth-child(2) { transition-delay: 0.1s; }
+        .petal:nth-child(3) { transition-delay: 0.15s; }
+        .petal:nth-child(4) { transition-delay: 0.2s; }
+        .petal:nth-child(5) { transition-delay: 0.25s; }
+        .petal:nth-child(6) { transition-delay: 0.3s; }
+
+        .petal-label {
+            background: white;
+            padding: 16px 24px;
+            border-radius: 14px;
+            font-size: 19px;
+            font-weight: 600;
+            color: #333;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+            white-space: nowrap;
+            max-width: 240px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .petal-btn {
+            width: 68px;
+            height: 68px;
+            background: #e60012;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 28px;
+            box-shadow: 0 3px 12px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+            transition: transform 0.2s, background 0.2s;
+            flex-shrink: 0;
+            border: none;
+        }
+
+        .petal-btn:active {
+            transform: scale(0.92);
+            background: #cc000f;
+        }
+
+        /* Submenu panel - anchored above FAB */
+        .submenu-panel {
+            position: fixed;
+            bottom: 104px; /* Above the FAB */
+            left: 12px;
+            right: 12px;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25);
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(20px);
+            transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s;
+            z-index: 1050;
+            max-height: 60vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .submenu-panel.open {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+
+        .submenu-list {
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .submenu-item {
+            padding: 20px 28px;
+            border-bottom: 1px solid #eee;
+            font-size: 20px;
+            color: #333;
+            cursor: pointer;
+            transition: background 0.15s;
+            display: flex;
+            align-items: center;
+            min-height: 68px;
+        }
+
+        .submenu-item:active {
+            background: #0056b3;
+            color: white;
+        }
+
+        .submenu-item:last-child {
+            border-bottom: none;
+        }
+
+        /* Loading state */
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 300px;
+            color: #666;
+        }
+
+        .loading::after {
+            content: "";
+            width: 40px;
+            height: 40px;
+            border: 4px solid #eee;
+            border-top-color: #e60012;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Error state */
+        .error {
+            padding: 24px;
+            text-align: center;
+            color: #721c24;
+            background: #f8d7da;
+            border-radius: 12px;
+            margin: 20px;
+        }
+
+        /* Content transition effect */
+        #content-area {
+            transition: opacity 0.15s ease, transform 0.15s ease;
+        }
+
+        #content-area.fade-out {
+            opacity: 0;
+            transform: translateY(10px);
+        }
+
+        @keyframes fadeSlideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        #content-area.fade-in {
+            animation: fadeSlideIn 0.3s ease forwards;
+        }
+
+        /* Desktop adjustments - scale down for larger screens */
+        @media (min-width: 768px) {
+            .fab {
+                left: auto;
+                right: 32px;
+                bottom: 32px;
+                height: 56px;
+                max-width: 400px;
+                padding: 0 20px;
+            }
+
+            .fab-topic {
+                font-size: 11px;
+            }
+
+            .fab-title {
+                font-size: 14px;
+            }
+
+            .fab-icon {
+                width: 24px;
+                height: 24px;
+                min-width: 24px;
+            }
+
+            .fab-icon::before {
+                width: 24px;
+                height: 3px;
+                top: 10.5px;
+            }
+
+            .fab-icon::after {
+                width: 3px;
+                height: 24px;
+                left: 10.5px;
+            }
+
+            .petals {
+                bottom: 104px;
+                right: 32px;
+            }
+
+            .petal-btn {
+                width: 48px;
+                height: 48px;
+                font-size: 18px;
+            }
+
+            .petal-label {
+                font-size: 14px;
+                padding: 10px 16px;
+            }
+
+            .submenu-panel {
+                max-width: 400px;
+                right: 32px;
+                left: auto;
+                bottom: 104px;
+            }
+
+            .submenu-item {
+                padding: 14px 20px;
+                font-size: 15px;
+                min-height: 50px;
+            }
+        }
+
+        /* Hover effects for desktop */
+        @media (hover: hover) {
+            .petal-btn:hover {
+                transform: scale(1.08);
+                background: #cc000f;
+            }
+
+            .submenu-item:hover {
+                background: #f5f5f5;
+            }
+
+            .fab:hover {
+                background: #cc000f;
+            }
+
+            .fab.open:hover {
+                background: #222;
+            }
+        }
+
+        /* Short screens - split petals layout */
+        @media (max-height: 500px) {
+            .petals {
+                bottom: 0;
+                right: 0;
+                left: 0;
+                top: 0;
+                display: block;
+            }
+
+            .petal {
+                position: absolute;
+                gap: 10px;
+            }
+
+            /* Vertical petals (first 3) - go UP */
+            .petal:nth-child(1),
+            .petal:nth-child(2),
+            .petal:nth-child(3) {
+                right: 12px;
+                flex-direction: row;
+            }
+
+            .petal:nth-child(1) { bottom: 140px; }
+            .petal:nth-child(2) { bottom: 196px; }
+            .petal:nth-child(3) { bottom: 252px; }
+
+            /* Horizontal petals (last 3) - go LEFT from FAB */
+            .petal:nth-child(4),
+            .petal:nth-child(5),
+            .petal:nth-child(6) {
+                bottom: 24px;
+                flex-direction: column;
+                transform: translateX(20px) scale(0.8);
+            }
+
+            .petal:nth-child(4) { right: 290px; }
+            .petal:nth-child(5) { right: 360px; }
+            .petal:nth-child(6) { right: 450px; }
+
+            .petals.open .petal:nth-child(4),
+            .petals.open .petal:nth-child(5),
+            .petals.open .petal:nth-child(6) {
+                transform: translateX(0) scale(1);
+            }
+
+            /* Smaller petals */
+            .petal-btn {
+                width: 52px;
+                height: 52px;
+                font-size: 22px;
+            }
+
+            .petal-label {
+                padding: 8px 12px;
+                font-size: 14px;
+            }
+
+            /* Stagger - both directions at same time */
+            .petal:nth-child(1) { transition-delay: 0.05s; }
+            .petal:nth-child(2) { transition-delay: 0.1s; }
+            .petal:nth-child(3) { transition-delay: 0.15s; }
+            .petal:nth-child(4) { transition-delay: 0.05s; }
+            .petal:nth-child(5) { transition-delay: 0.1s; }
+            .petal:nth-child(6) { transition-delay: 0.15s; }
+
+            .submenu-panel {
+                max-height: 45vh;
+            }
+
+            .submenu-item {
+                padding: 14px 24px;
+                min-height: 52px;
+                font-size: 17px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Main content area - full screen -->
+    <div class="content-wrapper">
+        <div id="content-area">
+            <div class="loading"></div>
+        </div>
+    </div>
+
+    <!-- Overlay -->
+    <div class="overlay" id="overlay"></div>
+
+    <!-- Flower petals (topic buttons) -->
+    <div class="petals" id="petals"></div>
+
+    <!-- Floating action button - transforms into title bar when submenu open -->
+    <button class="fab" id="fab">
+        <div class="fab-icon"></div>
+        <div class="fab-title-container">
+            <span class="fab-topic" id="fab-topic"></span>
+            <span class="fab-title" id="fab-title"></span>
+        </div>
+    </button>
+
+    <!-- Submenu panel (slides up from bottom) -->
+    <div class="submenu-panel" id="submenu-panel">
+        <div class="submenu-list" id="submenu-list"></div>
+    </div>
+
+    <script>
+        // ============================================
+        // CONFIGURATION - Edit this to manage content
+        // ============================================
+        const topics = {
+            'topic_1': {
+                display: 'Introduction',
+                icon: '📖',
+                subtopics: [
+                    { file: 'welcome_premark', display: 'Welcome to PremazingPH' },
+                    { file: 'jailbreak_overview', display: 'Overview of Jailbreaking' },
+                    { file: 'risks_warnings', display: 'Risks and Safety Warnings' },
+                    { file: 'setup_navigation', display: 'General Setup & Navigation' }
+                ]
+            },
+            'topic_2': {
+                display: 'Games',
+                icon: '🎮',
+                subtopics: [
+                    { file: 'delete_games', display: 'Deleting Games' },
+                    { file: 'file_types', display: 'Game File Types (XCI, NSP, NSZ)' },
+                    { file: 'downloadfiles', display: 'Downloading Games' },
+                    { file: 'save_mgmt', display: 'Save Data Management' }
+                ]
+            },
+            'topic_2b': {
+                display: 'Install',
+                icon: '📥',
+                subtopics: [
+                    { file: 'install_gamesPC', display: 'Installing Games (PC)' },
+                    { file: 'install_gamesOTH', display: 'Installing Games (Other)' },
+                    { file: 'tinfoil', display: 'Tinfoil (WiFi Install)' },
+                    { file: 'ultradbi', display: 'Ultra DBI (WiFi Install)' }
+                ]
+            },
+            'topic_3': {
+                display: 'Setup',
+                icon: '⚙️',
+                subtopics: [
+                    { file: 'update_fw', display: 'Updating Firmware Safely' },
+                    { file: 'extra_homebrew', display: 'Themes, Cheats, 60fps, Overclock' }
+                ]
+            },
+            'topic_4': {
+                display: 'Fix Issues',
+                icon: '🔧',
+                subtopics: [
+                    { file: 'joycon_fixes', display: 'Joy-Con Pairing Fixes' },
+                    { file: 'load_errors', display: 'Game Load Errors' },
+                    { file: 'sdcard_issues', display: 'SD Card Issues' },
+                    { file: 'other_errors', display: 'Other Errors' },
+                    { file: 'networkerror', display: 'Network Errors' }
+                ]
+            },
+            'topic_5': {
+                display: 'Advanced',
+                icon: '🚀',
+                subtopics: [
+                    { file: 'upgradesd', display: 'Upgrading SD Cards' },
+                    { file: 'setupscratch', display: 'Setting up from Scratch' },
+                    { file: 'android_linux', display: 'Android and Linux' }
+                ]
+            }
+        };
+
+        // ============================================
+        // APP LOGIC
+        // ============================================
+        const fab = document.getElementById('fab');
+        const fabTopic = document.getElementById('fab-topic');
+        const fabTitle = document.getElementById('fab-title');
+        const petals = document.getElementById('petals');
+        const overlay = document.getElementById('overlay');
+        const submenuPanel = document.getElementById('submenu-panel');
+        const submenuList = document.getElementById('submenu-list');
+        const contentArea = document.getElementById('content-area');
+
+        let isMenuOpen = false;
+        let isSubmenuOpen = false;
+        let currentFile = null;
+        let glassTimeout = null;
+
+        // Glass mode - activate after 5 seconds of inactivity
+        function resetGlassTimer() {
+            // Remove glass mode immediately on activity
+            fab.classList.remove('glass-mode');
+
+            // Clear existing timer
+            if (glassTimeout) clearTimeout(glassTimeout);
+
+            // Set new timer (only if menu is closed)
+            if (!isMenuOpen && !isSubmenuOpen) {
+                glassTimeout = setTimeout(() => {
+                    fab.classList.add('glass-mode');
+                }, 3000);
+            }
+        }
+
+        // Track user activity to reset glass timer
+        ['scroll', 'touchstart', 'click'].forEach(event => {
+            document.addEventListener(event, resetGlassTimer, { passive: true });
+        });
+
+        // Start the initial timer
+        resetGlassTimer();
+
+        // Build flower petals
+        Object.entries(topics).forEach(([topicKey, topic]) => {
+            const petal = document.createElement('div');
+            petal.className = 'petal';
+            petal.innerHTML = `
+                <span class="petal-label">${topic.display}</span>
+                <button class="petal-btn">${topic.icon}</button>
+            `;
+
+            petal.addEventListener('click', () => {
+                openSubmenu(topicKey, topic);
+            });
+
+            petals.appendChild(petal);
+        });
+
+        // Toggle flower menu OR close submenu
+        fab.addEventListener('click', () => {
+            if (isSubmenuOpen) {
+                // Close submenu when FAB is clicked in submenu mode
+                closeSubmenu();
+            } else {
+                // Toggle flower petals
+                isMenuOpen = !isMenuOpen;
+                fab.classList.toggle('open', isMenuOpen);
+                petals.classList.toggle('open', isMenuOpen);
+                overlay.classList.toggle('visible', isMenuOpen);
+            }
+        });
+
+        // Close on overlay click
+        overlay.addEventListener('click', closeAllMenus);
+
+        // Open submenu with subtopics
+        function openSubmenu(topicKey, topic) {
+            fabTopic.textContent = '';
+            fabTitle.textContent = topic.display;
+            submenuList.innerHTML = '';
+
+            topic.subtopics.forEach(subtopic => {
+                const item = document.createElement('div');
+                item.className = 'submenu-item';
+                item.textContent = subtopic.display;
+                item.addEventListener('click', () => {
+                    loadContent(subtopic.file, topic.display, subtopic.display);
+                    closeAllMenus();
+                });
+                submenuList.appendChild(item);
+            });
+
+            // Transform FAB into title bar
+            isSubmenuOpen = true;
+            fab.classList.remove('open');
+            fab.classList.add('submenu-mode');
+            petals.classList.remove('open');
+            submenuPanel.classList.add('open');
+        }
+
+        function closeSubmenu() {
+            isSubmenuOpen = false;
+            fab.classList.remove('submenu-mode');
+            submenuPanel.classList.remove('open');
+        }
+
+        function closeAllMenus() {
+            isMenuOpen = false;
+            isSubmenuOpen = false;
+            fab.classList.remove('open');
+            fab.classList.remove('submenu-mode');
+            petals.classList.remove('open');
+            overlay.classList.remove('visible');
+            submenuPanel.classList.remove('open');
+            resetGlassTimer(); // Restart glass timer when menus close
+        }
+
+        // Load content with fade transition
+        async function loadContent(file, topicDisplay = '', subtopicDisplay = '') {
+            if (currentFile === file) return;
+
+            currentFile = file;
+
+            // Update FAB title to show current page
+            if (subtopicDisplay) {
+                fabTopic.textContent = topicDisplay;
+                fabTitle.textContent = subtopicDisplay;
+            } else if (topicDisplay) {
+                fabTopic.textContent = '';
+                fabTitle.textContent = topicDisplay;
+            } else {
+                fabTopic.textContent = '';
+                fabTitle.textContent = 'Menu';
+            }
+
+            // Fade out current content
+            contentArea.classList.remove('fade-in');
+            contentArea.classList.add('fade-out');
+
+            // Wait for fade out animation
+            await new Promise(r => setTimeout(r, 150));
+
+            // Show loading spinner
+            contentArea.innerHTML = '<div class="loading"></div>';
+            contentArea.classList.remove('fade-out');
+
+            try {
+                const response = await fetch(`${file}.html`);
+                if (!response.ok) throw new Error('Page not found');
+
+                let html = await response.text();
+
+                // Extract body content
+                const bodyMatch = html.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
+                if (bodyMatch) {
+                    html = bodyMatch[1];
+                }
+
+                // Auto-wrap YouTube iframes
+                html = html.replace(
+                    /<iframe([^>]*src="[^"]*youtube[^"]*"[^>]*)><\/iframe>/gi,
+                    '<div class="video-container"><iframe$1></iframe></div>'
+                );
+
+                // Insert new content and animate in
+                contentArea.innerHTML = html;
+                contentArea.classList.add('fade-in');
+
+                window.scrollTo(0, 0);
+                history.replaceState(null, '', `#${file}`);
+
+            } catch (error) {
+                contentArea.innerHTML = `
+                    <div class="error">
+                        <h2>Content not found</h2>
+                        <p>Unable to load: ${file}.html</p>
+                    </div>
+                `;
+                contentArea.classList.add('fade-in');
+            }
+        }
+
+        // Hash navigation
+        function loadFromHash() {
+            const hash = window.location.hash.slice(1);
+            if (hash) {
+                for (const [topicKey, topic] of Object.entries(topics)) {
+                    if (topicKey === hash) {
+                        loadContent(hash, topic.display, '');
+                        return;
+                    }
+                    for (const subtopic of topic.subtopics) {
+                        if (subtopic.file === hash) {
+                            loadContent(hash, topic.display, subtopic.display);
+                            return;
+                        }
+                    }
+                }
+                loadContent(hash, '', '');
+            } else {
+                loadContent('welcome_premark', 'Introduction', 'Welcome to PremazingPH');
+            }
+        }
+
+        loadFromHash();
+        window.addEventListener('hashchange', loadFromHash);
+    </script>
+</body>
+</html>
