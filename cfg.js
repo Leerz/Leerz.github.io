@@ -69,14 +69,29 @@ const CONFIG = {
   
   calculateStorage: function(values) {
     const consoleVal = values.console || 'v1';
-    const sdVal = Number(values.sd || 128);
-    const android = Number(values.android || 0);
-    const linux = Number(values.linux || 0);
-    const jvfile = 1;
-    const emu = consoleVal === 'oled' ? 64 : 32;
-    const buffa = Math.floor(emu / 3);
-    const totalReserved = emu + android + linux + jvfile + buffa;
-    const extra = Math.floor(emu / 6);
-    return (sdVal - totalReserved) + extra;
+    const sdMarketed = Number(values.sd || 128);
+    const androidMarketed = Number(values.android || 0);
+    const linuxMarketed = Number(values.linux || 0);
+
+    // Convert marketed → formatted capacity (GB vs GiB, ~7% difference)
+    const sdFormatted = { 128: 119, 256: 238, 512: 473, 1024: 953 };
+    const sd = sdFormatted[sdMarketed] || Math.floor(sdMarketed * 0.923);
+    const emuPartition = consoleVal === 'oled' ? 58 : 29;
+    const android = Math.floor(androidMarketed * 0.93);
+    const linux = Math.floor(linuxMarketed * 0.93);
+
+    // Constants
+    const osSize = 8;           // OS uses ~6-8GB inside emuMMC
+    const sdFiles = 1;          // Misc files on SD root
+    const androidFiles = android > 0 ? 1 : 0;  // Android boot/config files
+    const linuxFiles = linux > 0 ? 1 : 0;      // Linux boot/config files
+
+    // Calculate available space
+    const sdRemainder = sd - emuPartition - android - androidFiles - linux - linuxFiles - sdFiles;
+    const emuFree = emuPartition - osSize;  // Unused space in emuMMC partition
+    const rawSpace = sdRemainder + emuFree;
+
+    // 5% buffer for compressed game expansion (NSZ→NSP, XCZ→XCI)
+    return Math.floor(rawSpace * 0.95);
   }
 };
