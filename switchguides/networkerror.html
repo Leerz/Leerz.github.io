@@ -3,41 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WiFi Network, Wireless, and Online Access Troubleshooting</title>
+    <title>Fix WiFi and Network Issues</title>
 </head>
 <body>
-    <h1>WiFi Network, Wireless, and Online Access Troubleshooting</h1>
-    <p>The Nintendo Switch is capable of connecting to the internet via WiFi and supports both 2.4 GHz and 5 GHz networks. However, you may encounter issues with wireless connectivity, particularly with 5 GHz networks. This guide covers common problems, their solutions, and important considerations about online access and bans.</p>
+    <h1>Fix WiFi and Network Issues</h1>
 
-    <h2>1. Common Issue: Failure to Connect to a 5 GHz Network</h2>
-    <p>If you are unable to connect your Switch to a 5 GHz WiFi hotspot, the issue is often related to the region configuration of the Switch. Some regions have restrictions on the channels that can be used for 5 GHz networks.</p>
-    <p><strong>Solution:</strong> Check your router settings and ensure that the 5 GHz WiFi channel is set to a lower channel that is supported by your Switch. You can manually adjust the channel settings on your router:</p>
-    <ul>
-        <li>Access your router’s admin panel (typically available via <code>192.168.1.1</code> or similar).</li>
-        <li>Navigate to the WiFi settings section.</li>
-        <li>Change the 5 GHz channel to a lower value, such as 36, 40, 44, or 48.</li>
-    </ul>
-    <p>For detailed instructions on changing router settings, you can refer to <a href="https://www.google.com/search?q=how+to+change+wifi+channel+on+router" target="_blank">this Google search</a> or <a href="https://www.reddit.com/r/NintendoSwitch/comments/7g4j8y/5ghz_wifi_not_working_try_this/" target="_blank">this Reddit post</a> for community-based solutions.</p>
+    <div class="box box-info">
+        <strong>TL;DR:</strong> Most WiFi problems are 5GHz channel issues — change your router's 5GHz channel to 36, 40, 44, or 48. If you can't access eShop in JV mode, that's intentional safety, not a bug.
+    </div>
 
-    <h2>2. Properly Configured Switch for WiFi Access</h2>
-    <p>A properly configured Switch should connect to WiFi with minimal issues. To ensure optimal connectivity, follow these tips:</p>
+    <p>Network issues on the Switch usually fall into one of three buckets: 5GHz won't connect, can't reach Nintendo services, or general flakiness. Let's go through each.</p>
+
+    <h2>Quick links</h2>
     <ul>
-        <li>Keep your router firmware updated to the latest version.</li>
-        <li>Ensure your Switch’s system software is also up to date.</li>
-        <li>Place your router in an open area to minimize interference.</li>
+        <li><a href="#five-ghz">1. Can't connect to 5GHz WiFi</a></li>
+        <li><a href="#configured">2. General WiFi troubleshooting</a></li>
+        <li><a href="#jv-online">3. Why JV mode blocks Nintendo services</a></li>
+        <li><a href="#bans">4. About bans</a></li>
     </ul>
 
-    <h2>3. JV Mode and Online Access</h2>
-    <p>All JV modes prepared by PremazingPH include several layers of safety features to minimize the risk of bans from Nintendo servers. These measures are designed to protect your console while maintaining functionality. Key points to note:</p>
-    <ul>
-        <li>JV mode disables access to the Nintendo eShop and other Nintendo servers to prevent bans. This is a deliberate safety feature.</li>
-        <li>You can still use online services <strong>normally</strong> in <strong>OFW (Official Firmware) or legit mode</strong>.</li>
-    </ul>
-    <p>However, it is important to note that a banned Switch will not be able to access online services under any circumstances. The Big N (Nintendo) employs sophisticated methods to detect unauthorized activity or homebrew usage, even with safety measures applied.</p>
-    <p>Additionally, previously jailbroken Switch consoles with bad configurations that lacked proper safety measures are at a serious risk of being flagged. Even if safety is applied later, residual data fragments may remain logged in the system. These logs, which are only known to Nintendo, can result in permanent bans.</p>
+    <h2 id="five-ghz">1. Can't connect to 5GHz WiFi</h2>
+    <p>The Switch is region-locked for 5GHz channels. If your router is broadcasting on a channel the Switch's region doesn't allow, it won't see the network.</p>
+    <p><strong>Fix:</strong> Log into your router admin panel (usually <code>192.168.1.1</code> or similar — check the sticker on your router). Find the 5GHz WiFi settings and change the channel to <strong>36, 40, 44, or 48</strong>. These are the lower 5GHz channels that almost every region supports.</p>
+    <p>If you're not sure how to access your router admin: <a href="https://www.google.com/search?q=how+to+change+wifi+channel+on+router" target="_blank" rel="noopener noreferrer">Google search for your router model</a> or check the <a href="https://www.reddit.com/r/NintendoSwitch/comments/7g4j8y/5ghz_wifi_not_working_try_this/" target="_blank" rel="noopener noreferrer">Reddit thread on this issue</a>.</p>
 
-    <h2>4. Final Notes</h2>
-    <p>If you continue to experience connectivity issues, consider resetting your network settings on the Switch and reconfiguring the WiFi connection. Persistent issues may also be related to hardware faults or incompatible routers. Consult a professional for advanced troubleshooting if needed.</p>
-    <p>Remember, while safety measures greatly reduce the risk of bans, no method is completely foolproof. Always exercise caution when using homebrew or modified software on your Switch.</p>
+    <h2 id="configured">2. General WiFi troubleshooting</h2>
+    <p>If WiFi keeps dropping or connection tests fail:</p>
+    <ul>
+        <li>Restart your router (the classic fix that actually works)</li>
+        <li>Move closer to the router to rule out range issues</li>
+        <li>Make sure your router firmware is up to date</li>
+        <li>Try connecting to a phone hotspot to see if the Switch itself is the problem</li>
+        <li>If you have a docked setup: check the dock's USB ports aren't loose</li>
+    </ul>
+
+    <h2 id="jv-online">3. Why JV mode blocks Nintendo services</h2>
+    <p>This isn't a bug — it's how we set up your console to keep you safe.</p>
+    <p>In <strong>JV (Jailbreak) mode</strong>, your PremazingPH setup blocks connections to Nintendo's servers. That means no eShop, no online multiplayer, no Nintendo Account sync. We do this so Nintendo never sees your modded console talking to them — which is what triggers bans.</p>
+    <p>If you want to use eShop or play Splatoon online: switch to <strong>Legit Mode (OFW)</strong> via Hekate. In Legit Mode, all Nintendo services work normally.</p>
+    <img src="images/legit-vs-jv-mode.png" alt="Comparison: what works in Legit Mode (OFW) vs JV Mode (CFW)" class="content-image" loading="lazy">
+
+    <h2 id="bans">4. About bans</h2>
+    <p>Even with all the safety measures we apply, no setup is 100% ban-proof. Here's the honest picture:</p>
+    <ul>
+        <li><strong>Properly maintained PremazingPH setup, used as recommended:</strong> very low ban risk</li>
+        <li><strong>Switch was previously jailbroken poorly before we worked on it:</strong> may have residual flags Nintendo can detect later</li>
+        <li><strong>You connected to Nintendo servers in JV mode by accident or by changing settings:</strong> ban risk goes way up</li>
+    </ul>
+    <p>Once a console is banned, it can't access Nintendo online services in any mode. The console still works for everything offline.</p>
+
+    <h2>Still having problems?</h2>
+    <p>Send us a message describing what you tried, what mode you're in (JV or Legit), and the exact error message if there is one.</p>
+
+    <h2>Related guides</h2>
+    <ul>
+        <li><a href="#risks_warnings">Risks and Safety Warnings</a> — full picture on bans and protections</li>
+        <li><a href="#setup_navigation">General Setup & Navigation</a> — how to switch between modes</li>
+        <li><a href="#faq">FAQ</a> — quick answers to common questions</li>
+    </ul>
 </body>
 </html>

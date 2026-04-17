@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequently Asked Questions</title>
+</head>
+<body>
+    <img src="images/faq-banner.png" alt="" class="page-banner" loading="lazy">
+    <h1>Frequently Asked Questions</h1>
+    <p>Common questions we get from PremazingPH customers. If your question isn't here, message us — we'll help.</p>
+
+    <details>
+        <summary>Why is my battery draining so fast?</summary>
+        <p>A few possible causes:</p>
+        <ul>
+            <li><strong>Overclocking is on.</strong> If you installed sys-clk or are running at high clocks, expect shorter battery life. Switch back to default clocks.</li>
+            <li><strong>Background sysmodules.</strong> Too many homebrew sysmodules running at boot drain power. Disable ones you don't actively use.</li>
+            <li><strong>Bluetooth.</strong> If Joy-Cons stay paired but unused, they keep the radio active. Detach physically when in handheld for long sessions.</li>
+            <li><strong>Battery age.</strong> Switches more than 4 years old often have degraded batteries. Replacement is a service we offer.</li>
+        </ul>
+        <p>If none of these explain it, message us — we can run a battery health check.</p>
+    </details>
+
+    <details>
+        <summary>Can I take my modded Switch online safely?</summary>
+        <p>Short answer: yes, but only in Legit Mode (OFW), and only for non-Nintendo services like web browsing or YouTube apps.</p>
+        <p>Your PremazingPH setup blocks Nintendo's servers in Jailbreak Mode (JV/CFW), so eShop, online multiplayer, and Nintendo accounts won't work in CFW. That's by design — it protects you from bans.</p>
+        <p>If you want to use eShop or play Splatoon online, switch to Legit Mode using Hekate. Just don't update firmware online from there — always update manually so we can keep things compatible.</p>
+    </details>
+
+    <details>
+        <summary>How do I add another user account?</summary>
+        <p>Same as a stock Switch. Go to <strong>System Settings → Users → Add User</strong>. New users work fine in both Legit Mode and Jailbreak Mode.</p>
+        <p>One thing to know: save data is per-user, so if you want to share progress with someone else, you'll need to back up and restore saves with JKSV or DBI. See our save management guide.</p>
+    </details>
+
+    <details>
+        <summary>My Switch screen flickers when docked</summary>
+        <p>Most common causes:</p>
+        <ul>
+            <li><strong>Bad HDMI cable.</strong> Try a different cable first — cheapest fix.</li>
+            <li><strong>Wrong dock.</strong> Off-brand docks cause this constantly. Use the official Nintendo dock or a known-good third-party.</li>
+            <li><strong>TV refresh rate.</strong> Some TVs need their HDMI port set to a fixed refresh rate. Check your TV settings.</li>
+            <li><strong>Loose USB-C connector.</strong> If the connector inside your Switch is worn, it loses signal. We can repair this.</li>
+        </ul>
+    </details>
+
+    <details>
+        <summary>I dropped my Switch / spilled liquid on it — what now?</summary>
+        <p><strong>Liquid spill:</strong> Power off immediately. Don't turn it back on to "test." Bring it to us as soon as possible — corrosion happens fast even after the liquid dries.</p>
+        <p><strong>Drop:</strong> If it boots and works normally, you're probably fine. If you see screen damage, joy-con rail issues, or the modchip starts misbehaving (LED patterns), message us with photos.</p>
+        <p>Either way: don't try to open it yourself. You'll likely make the repair more expensive.</p>
+    </details>
+
+    <details>
+        <summary>How do I tell if my SD card is fake?</summary>
+        <p>Fake SD cards are a real problem. They claim to be 256GB but actually only have 32GB of real storage — the rest loops back, corrupting your data.</p>
+        <p>Signs your card might be fake:</p>
+        <ul>
+            <li>Bought it dirt cheap from an unknown seller</li>
+            <li>Random game install failures or corruption</li>
+            <li>Files you "saved" suddenly missing</li>
+        </ul>
+        <p>To check: download a tool called <strong>H2testw</strong> (Windows) or <strong>F3</strong> (Mac/Linux). It writes test data and verifies. If real capacity is less than advertised, it's fake.</p>
+        <p>Stick with <strong>SanDisk</strong> from a reputable seller. We can recommend known-good cards in stock.</p>
+    </details>
+
+    <details>
+        <summary>A game says "newer firmware required" — what do I do?</summary>
+        <p>This means the game was built for a newer Switch firmware than what your modded setup currently supports.</p>
+        <p>Two options:</p>
+        <ol>
+            <li><strong>Download an older version of the game</strong> (look for an earlier patch number). Often works fine.</li>
+            <li><strong>Update your CFW + firmware</strong> using our Clean Method. See <a href="#update_fw">Comprehensive Update Guide</a>. Don't update online — always manual.</li>
+        </ol>
+        <p>If you're not comfortable updating, message us first. We'd rather guide you through it than fix a brick later.</p>
+    </details>
+
+    <details>
+        <summary>How do I back up my saves before something goes wrong?</summary>
+        <p>Use <strong>JKSV</strong> or <strong>Checkpoint</strong> in HBMenu. Both let you dump every save to your SD card in seconds.</p>
+        <p>For a more thorough backup, use <strong>DBI's MTP Responder</strong> to copy the entire <code>7: Saves</code> folder to your PC. This is what we recommend before any major update or SD card swap.</p>
+        <p>See our <a href="#save_mgmt">Save Management guide</a> for step-by-step instructions.</p>
+    </details>
+
+    <details>
+        <summary>Why can't I access the eShop?</summary>
+        <p>Because you're in Jailbreak Mode. Your PremazingPH setup blocks Nintendo servers in JV mode to keep you safe from bans.</p>
+        <p>If you want eShop access, boot into <strong>Legit Mode (OFW)</strong> from Hekate. eShop works normally there.</p>
+        <p>Heads up: if your Switch has been jailbroken for a while, your account may already be flagged. Even Legit Mode access isn't guaranteed for older modded consoles.</p>
+    </details>
+
+    <details>
+        <summary>My Joy-Cons drift — can it be fixed?</summary>
+        <p>Yes. Joy-Con drift is caused by worn analog stick modules. Two fixes:</p>
+        <ul>
+            <li><strong>Replace the stick module.</strong> Cheap, takes about 30 minutes. We do this regularly as a service.</li>
+            <li><strong>Hall-effect upgrade.</strong> Newer drift-proof sticks. More expensive but lasts much longer. Recommended for heavy users.</li>
+        </ul>
+        <p>Calibrating in System Settings is a temporary band-aid. The hardware needs replacing eventually.</p>
+    </details>
+
+    <p>Don't see your question? <strong>Message us on Facebook, Shopee, or Lazada</strong> — we answer most messages within a few hours.</p>
+</body>
+</html>

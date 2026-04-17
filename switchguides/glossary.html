@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Switch Terms & Definitions</title>
+</head>
+<body>
+    <img src="images/glossary-banner.png" alt="" class="page-banner" loading="lazy">
+    <h1>Switch Terms & Definitions</h1>
+    <p>Quick reference for the words you'll see across these guides. If a term in another page confuses you, check here first.</p>
+
+    <h2>System & Modes</h2>
+    <ul>
+        <li><strong>OFW (Official Firmware)</strong> — Nintendo's stock system. Also called "Legit Mode." Safe for online play and eShop, but no homebrew.</li>
+        <li><strong>CFW (Custom Firmware)</strong> — The modified system that runs your jailbreak features. Lets you install homebrew, run game backups, and use cheats.</li>
+        <li><strong>JV / Jailbreak Mode</strong> — Our shorthand for booting into CFW. Same thing as CFW mode.</li>
+        <li><strong>SysNAND</strong> — Your real system memory. Holds the original OFW. We try to keep this untouched on your PremazingPH setup.</li>
+        <li><strong>EmuMMC (Emulated System Memory)</strong> — A safe copy of the system that lives on your SD card. Your jailbreak runs here so SysNAND stays clean. Two types exist:
+            <ul>
+                <li><strong>RAW Partition</strong> — Hidden partition on the SD card. Faster, more reliable. What we use by default.</li>
+                <li><strong>SDFILE</strong> — Lives as files on the regular SD card. Easier to set up but more prone to corruption.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Boot & Loader</h2>
+    <ul>
+        <li><strong>Hekate</strong> — The bootloader menu you see when you turn on your modded Switch. Lets you pick which mode to boot (CFW EmuMMC, OFW, etc.).</li>
+        <li><strong>Atmosphere</strong> — The custom firmware itself. Hekate launches it. This is what makes your Switch "jailbroken."</li>
+        <li><strong>Daybreak</strong> — A homebrew app for installing or restoring full firmware packages without going online.</li>
+        <li><strong>Tegraexplorer</strong> — A low-level tool inside Hekate's payloads menu for running scripts and editing system files.</li>
+    </ul>
+
+    <h2>Game Files</h2>
+    <ul>
+        <li><strong>NSP</strong> — eShop dump format for games, updates, or DLC. Most common file you'll deal with.</li>
+        <li><strong>XCI</strong> — Cartridge dump format. A direct copy of a physical game card.</li>
+        <li><strong>NSZ</strong> — A compressed NSP. Smaller download, identical content once installed.</li>
+        <li><strong>Super XCI</strong> — Special XCI bundle that contains base game + update + DLC in one file. Convenient one-click install.</li>
+        <li><strong>Ticket</strong> — Authorization data tied to a game file. Some games need a valid ticket to launch in CFW.</li>
+    </ul>
+
+    <h2>Installers & Tools</h2>
+    <ul>
+        <li><strong>DBI</strong> — The recommended installer on a modded Switch. Reliable, supports PC transfer, USB, FTP, and direct browsing. Most things in our guides assume DBI.</li>
+        <li><strong>HBMenu (Homebrew Menu)</strong> — The launcher for homebrew apps like DBI, JKSV, Checkpoint.</li>
+        <li><strong>App Mode</strong> — Launching homebrew with full system memory and privileges. Hold R while opening a game from the home screen, then pick HBMenu.</li>
+        <li><strong>Applet Mode</strong> — Launching homebrew via the Album button. Limited memory, some apps misbehave here.</li>
+        <li><strong>Tinfoil</strong> — Wireless game installer. Convenient but unreliable — depends on third-party servers that go down often. We recommend DBI instead. <a href="#tinfoil">See our Tinfoil guide</a>.</li>
+        <li><strong>ULTRA / ULTRANX</strong> — A paid game download service that works directly with DBI. People use it to skip hunting for files on download sites. <a href="#ultradbi">See our ULTRA guide</a>.</li>
+        <li><strong>Goldfoil</strong> — PremazingPH's own upcoming alternative to ULTRA. Currently in development.</li>
+        <li><strong>JKSV</strong> — Homebrew app for backing up and restoring save data.</li>
+        <li><strong>Checkpoint</strong> — Another save-management app. Similar to JKSV with a different interface.</li>
+        <li><strong>Sphaira</strong> — Newer game installer some users prefer as a DBI alternative.</li>
+        <li><strong>Kefir</strong> — A modified Atmosphere build that some users run for compatibility with certain installers.</li>
+    </ul>
+
+    <h2>Patches & Safety</h2>
+    <ul>
+        <li><strong>Sigpatches</strong> — Files that bypass Nintendo's signature checks so unsigned games (your backups) can launch. Without them, games crash. Must match your CFW version.</li>
+        <li><strong>sys-patch</strong> — A modern alternative to traditional sigpatches. Loads automatically on boot, requires fewer manual updates. Increasingly the recommended approach.</li>
+        <li><strong>dns-mitm</strong> — A custom DNS configuration that lets your Switch reach the internet but blocks Nintendo's servers. Helps avoid bans by preventing telemetry.</li>
+        <li><strong>Modchip</strong> — Hardware solder-mod (Picofly, HWFLY) that enables jailbreak on consoles that can't be jailbroken via software anymore. Most newer Switches need one.</li>
+        <li><strong>Picofly</strong> — The current go-to modchip. RP2040-based. Reliable when installed correctly.</li>
+    </ul>
+
+    <h2>Useful to know</h2>
+    <ul>
+        <li><strong>Sthetix, MrMario, LotusTech</strong> — Trusted YouTube creators we link to for video walkthroughs.</li>
+        <li><strong>NSWTL</strong> — A torrent/Telegram source for game files. Mentioned in our <a href="#downloadfiles">downloads guide</a>.</li>
+        <li><strong>nxbrew, ns2w, nswgame, ziperto</strong> — Common game download sites. We don't link them — Google them yourself.</li>
+        <li><strong>Sandisk</strong> — Recommended SD card brand for the Switch. Most reliable in our experience.</li>
+    </ul>
+
+    <p>If you run into a term we missed, send us a message and we'll add it.</p>
+</body>
+</html>

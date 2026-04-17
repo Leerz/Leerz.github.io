@@ -3,66 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Joy-Con Pairing Fixes</title>
+    <title>Fix Joy-Cons That Won't Pair</title>
 </head>
 <body>
-    <h1>Joy-Con Pairing Fixes</h1>
-    <p>Welcome to the Joy-Con pairing fixes guide. This guide is structured into three levels, each designed to address increasingly complex pairing issues. Start with Level 1 and progress to higher levels if the issue persists.</p>
+    <h1>Fix Joy-Cons That Won't Pair</h1>
 
-    <h2>Level 1: Basic Joy-Con Resync</h2>
-    <p>This level resolves most common issues where the Joy-Con does not sync properly. Follow these steps:</p>
+    <div class="box box-info">
+        <strong>TL;DR:</strong> Start with Level 1 (basic resync). 90% of pairing issues fix here. Only escalate if it doesn't work.
+    </div>
+
+    <p>Joy-Con pairing problems are annoying but almost always solvable. We've ranked the fixes from simplest to most involved — start at the top and work down only if needed.</p>
+
+    <h2>Quick links</h2>
+    <ul>
+        <li><a href="#level1">Level 1: Basic resync (try this first)</a></li>
+        <li><a href="#level2">Level 2: Advanced sync from OFW</a></li>
+        <li><a href="#level3">Level 3: Joy-Con Factory Mode (last resort)</a></li>
+    </ul>
+
+    <h2 id="level1">Level 1: Basic resync</h2>
+    <p>Solves most pairing issues. Takes 2 minutes.</p>
     <ol>
-        <li>In jailbreak mode, attach the Joy-Cons to the Switch in handheld orientation.</li>
-        <li>Go to <strong>Settings</strong>.</li>
-        <li>Select <strong>Controllers and Sensors</strong>.</li>
-        <li>Scroll down and choose <strong>Disconnect Controller</strong> (hold X).</li>
-        <li>Remove the Joy-Cons.</li>
-        <li>Reconnect them.</li>
-        <li>Remove the Joy-Cons and disconnect them from the settings.</li>
-        <li>Open legit mode and repeat the steps above.</li>
+        <li>In Jailbreak mode, attach the Joy-Cons to the Switch (handheld orientation)</li>
+        <li>Go to <strong>Settings → Controllers and Sensors</strong></li>
+        <li>Scroll down and choose <strong>Disconnect Controllers</strong> (hold X)</li>
+        <li>Detach the Joy-Cons</li>
+        <li>Reattach them</li>
+        <li>Detach again and disconnect them in settings once more</li>
+        <li>Reboot into Legit Mode and repeat the process</li>
     </ol>
-    <p>This procedure should resolve most pairing issues. If it doesn't, proceed to Level 2.</p>
+    <p>Test if they pair properly now. If yes, you're done. If no, continue to Level 2.</p>
 
-    <h2>Level 2: Advanced Pairing with Data Sync from OFW</h2>
-    <p>This level involves more in-depth steps and syncing pairing data from the official firmware (OFW). Follow these steps:</p>
+    <h2 id="level2">Level 2: Advanced pairing with data sync from OFW</h2>
+    <p>This pulls clean pairing data from the official firmware and writes it to your jailbroken side. Takes about 10 minutes.</p>
+    <p><strong>Heads up:</strong> involves running a script in Tegraexplorer. Don't skip steps.</p>
     <ol>
-        <li>Ensure the Nintendo Switch is in official firmware (OFW) or legit mode with Joy-Cons attached.</li>
-        <li>Access the settings screen and choose <strong>Disconnect Controllers</strong>.</li>
-        <li>Remove the Joy-Cons and press and hold the sync button until the SL/SR lights turn off.</li>
-        <li>Disable Bluetooth or activate airplane mode on the Switch.</li>
-        <li>Power off the Switch.</li>
-        <li>Power on the Switch in legit mode.</li>
-        <li>Attach the Joy-Cons.</li>
-        <li>Enable Bluetooth and disable airplane mode.</li>
-        <li>Repeat steps 3, 4, 5, and 6.</li>
-        <li>Power off the Switch.</li>
-        <li>Access <strong>Hekate</strong>.</li>
-        <li>Open payloads.</li>
-        <li>Launch <strong>Tegraexplorer</strong>.</li>
-        <li>Run the script <strong>syncfix.te</strong> (Note: This will trigger a red initialization screen, but your data will remain intact).</li>
-        <li>Wait for the script to finish, then power off the Switch.</li>
-        <li>Open official firmware (OFW) and observe if the issue is resolved.</li>
+        <li>Boot into Legit Mode (OFW), Joy-Cons attached</li>
+        <li>Settings → <strong>Disconnect Controllers</strong></li>
+        <li>Detach Joy-Cons. Press and hold the sync button until SL/SR lights turn off</li>
+        <li>Disable Bluetooth (or enable airplane mode)</li>
+        <li>Power off the Switch</li>
+        <li>Power on in Legit Mode</li>
+        <li>Attach Joy-Cons</li>
+        <li>Re-enable Bluetooth (disable airplane mode)</li>
+        <li>Repeat steps 3, 4, 5, and 6 once more</li>
+        <li>Power off the Switch</li>
+        <li>Boot into Hekate</li>
+        <li>Open Payloads</li>
+        <li>Launch <strong>Tegraexplorer</strong></li>
+        <li>Run the script <strong>syncfix.te</strong>
+            <br><em>Note: this triggers a red initialization screen — that's normal, your data is safe</em>
+        </li>
+        <li>Wait for the script to finish, then power off</li>
+        <li>Boot into Legit Mode (OFW) and check if Joy-Cons pair</li>
     </ol>
-    <p>Please note that these steps involve accessing custom firmware and require caution. Ensure you understand the risks before proceeding.</p>
+    <p>If still broken, escalate to Level 3.</p>
 
-    <h2>Level 3: Joy-Con Factory Mode Method</h2>
-    <p>This is an advanced procedure designed as a last resort. It forces the Joy-Cons into factory or transport mode.</p>
+    <h2 id="level3">Level 3: Joy-Con Factory Mode method</h2>
+    <p>Last resort. Forces the Joy-Cons into factory/transport mode and rebuilds the pairing from zero.</p>
+    <p>This involves accessing the Joy-Con's internal recovery state — it's safe if you follow the video carefully, but there's no margin for skipping steps.</p>
     <ol>
-<li>
-    Watch the guide below:
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CZxwVnLc83o" 
-        title="YouTube - Joy-Con Factory Mode Method" 
-        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-    </iframe>
-</li>
-        <li>Follow the steps outlined in the video to access the Joy-Con Factory Mode.</li>
-        <li>After following the steps in the video, reboot the Nintendo Switch.</li>
-        <li>Attempt to pair the Joy-Cons again by accessing the Switch's Bluetooth settings.</li>
-        <li>Attach the Joy-Cons and check if they are properly synced and functioning.</li>
+        <li>Watch the full guide first:
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/CZxwVnLc83o" title="Joy-Con Factory Mode Method" frameborder="0" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </li>
+        <li>Follow the video's exact steps to enter Factory Mode</li>
+        <li>Reboot the Switch</li>
+        <li>Pair the Joy-Cons via Bluetooth settings</li>
+        <li>Reattach and confirm they sync properly</li>
     </ol>
-    <p>Use this method only as a last resort, and ensure you follow reliable sources and take necessary precautions when dealing with hardware or factory settings.</p>
 
-    <p>If none of these methods resolve the issue, consider seeking professional assistance or consulting additional resources.</p>
+    <h2>Still won't pair?</h2>
+    <p>If all three levels fail, the Joy-Con itself may have a hardware fault (Bluetooth chip, antenna, or controller board). Bring it in — we can diagnose and repair.</p>
+
+    <h2>Different problem: Joy-Cons drift?</h2>
+    <p>Drift is a different issue (analog stick wear, not pairing). See the <a href="#faq">FAQ on Joy-Con drift</a>.</p>
+
+    <h2>Related guides</h2>
+    <ul>
+        <li><a href="#setup_navigation">General Setup & Navigation</a> — how to access Hekate and switch modes</li>
+        <li><a href="#faq">FAQ</a> — Joy-Con drift, common questions</li>
+        <li><a href="#other_errors">Other Errors</a> — for non-Joy-Con hardware issues</li>
+    </ul>
 </body>
 </html>

@@ -571,7 +571,8 @@
                     { file: 'welcome_premark', display: 'Welcome to PremazingPH' },
                     { file: 'jailbreak_overview', display: 'Overview of Jailbreaking' },
                     { file: 'risks_warnings', display: 'Risks and Safety Warnings' },
-                    { file: 'setup_navigation', display: 'General Setup & Navigation' }
+                    { file: 'setup_navigation', display: 'General Setup & Navigation' },
+                    { file: 'glossary', display: 'Switch Terms & Definitions' }
                 ]
             },
             'topic_2': {
@@ -606,6 +607,7 @@
                 display: 'Fix Issues',
                 icon: '🔧',
                 subtopics: [
+                    { file: 'faq', display: 'Frequently Asked Questions' },
                     { file: 'joycon_fixes', display: 'Joy-Con Pairing Fixes' },
                     { file: 'load_errors', display: 'Game Load Errors' },
                     { file: 'sdcard_issues', display: 'SD Card Issues' },
@@ -703,6 +705,9 @@
             fabTopic.textContent = '';
             fabTitle.textContent = topic.display;
             submenuList.innerHTML = '';
+
+            // Load the topic hub page itself (overview)
+            loadContent(topicKey, topic.display, '');
 
             topic.subtopics.forEach(subtopic => {
                 const item = document.createElement('div');

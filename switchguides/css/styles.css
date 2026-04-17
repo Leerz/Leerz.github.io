@@ -362,6 +362,25 @@ img {
     border-radius: 12px;
 }
 
+/* Page hero banner image */
+.page-banner {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 0 24px 0;
+    border-radius: 12px;
+}
+
+/* Inline content image (Goldfoil card, infographic) */
+.content-image {
+    display: block;
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    margin: 24px auto;
+    border-radius: 12px;
+}
+
 figure {
     margin: 20px 0;
 }
